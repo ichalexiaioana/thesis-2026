@@ -1,0 +1,75 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+}
+
+model roads {
+  id_road              String           @id @db.VarChar(255)
+  id_tomtom            String?          @db.VarChar(255)
+  street_name_overpass String?          @db.VarChar(255)
+  street_name_tomtom   String?          @db.VarChar(255)
+  roads_tomtom         roads_tomtom?    @relation(fields: [id_tomtom], references: [id_tomtom], onDelete: Restrict, onUpdate: Restrict)
+  roads_segments       roads_segments[]
+
+  @@index([id_tomtom], map: "id_tomtom")
+}
+
+model roads_segments {
+  id_segment         String                 @id @db.VarChar(255)
+  id_road            String?                @db.VarChar(255)
+  highway            String?                @db.VarChar(255)
+  street_name        String?                @db.VarChar(255)
+  lanes_total        Int?
+  lanes_forward      Int?
+  lanes_backward     Int?
+  lanes_bus_forward  Int?
+  lanes_bus_backward Int?
+  oneway             Boolean?
+  length             Decimal?               @db.Decimal(10, 2)
+  facing             roads_segments_facing?
+  roads              roads?                 @relation(fields: [id_road], references: [id_road], onDelete: Restrict, onUpdate: Restrict)
+  stations           stations[]
+
+  @@index([id_road], map: "id_road")
+}
+
+model roads_tomtom {
+  id_tomtom    String         @id @db.VarChar(255)
+  street_name  String?        @unique(map: "street_name") @db.VarChar(255)
+  speed_limit  Int?
+  roads        roads[]
+  speed_tomtom speed_tomtom[]
+}
+
+model speed_tomtom {
+  id_speed           String        @id @db.VarChar(255)
+  id_tomtom          String?       @db.VarChar(255)
+  time_set           Int?
+  time_set_tag       String?       @db.VarChar(255)
+  harmonic_avg_speed Decimal?      @db.Decimal(10, 2)
+  median_speed       Decimal?      @db.Decimal(10, 2)
+  avg_speed          Decimal?      @db.Decimal(10, 2)
+  roads_tomtom       roads_tomtom? @relation(fields: [id_tomtom], references: [id_tomtom], onDelete: Restrict, onUpdate: Restrict)
+
+  @@index([id_tomtom], map: "id_tomtom")
+}
+
+model stations {
+  id_station     String          @id @db.VarChar(255)
+  id_segment     String?         @db.VarChar(255)
+  station_name   String?         @db.VarChar(255)
+  pt_lanes       Int?
+  roads_segments roads_segments? @relation(fields: [id_segment], references: [id_segment], onDelete: Restrict, onUpdate: Restrict)
+
+  @@index([id_segment], map: "id_segment")
+}
+
+enum roads_segments_facing {
+  N
+  S
+  E
+  V
+}
