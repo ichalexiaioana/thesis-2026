@@ -73,3 +73,11 @@ enum roads_segments_facing {
   E
   V
 }
+model adj_stats {
+  an               Int     @id
+  nr_rezidenti     Int?
+  masini_total     Int?
+  masini_total_adj Int?
+  vanzari_stb      Decimal? @db.Decimal(15, 2)
+  vanzari_stb_adj  Decimal? @db.Decimal(15, 2)
+}
