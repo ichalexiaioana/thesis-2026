@@ -7,6 +7,7 @@ import { API_URL } from './constants';
 
 export default function App() {
   const [selected, setSelected] = useState([]);
+  const [mapLoading, setMapLoading] = useState(false);  
 
   const handleAdd = (road) => {
     if (!selected.some(s => s.id_road === road.id_road)) {
@@ -44,9 +45,14 @@ export default function App() {
   return (
     <div style={{ display: 'flex', height: '100vh' }}>
       <div style={{ width: '30%', overflowY: 'auto', padding: '1rem' }}>
+        {mapLoading && (
+          <div className="loading-overlay">
+            <div className="spinner" />
+          </div>
+        )}
         <h1>Configuratia strazilor</h1>
         <ConfigForm onSubmit={handleSubmit} />
-        <StreetSearch selected={selected} onAdd={handleAdd} />
+        <StreetSearch selected={selected} onAdd={handleAdd} onMapLoading={setMapLoading} />
         <SelectedStreets selected={selected} onRemove={handleRemove} />
         {loading && <p>Se calculeaza...</p>}
         {result !== null && (
@@ -54,7 +60,7 @@ export default function App() {
         )}
       </div>
       <div style={{ flex: 1 }}>
-        <Map selected={selected} />
+        <Map selected={selected} onLoadingChange={setMapLoading} />
       </div>
     </div>
   );

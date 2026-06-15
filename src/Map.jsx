@@ -4,7 +4,7 @@ import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import { API_URL, OVERPASS_URL, overpassQuery } from './constants';
 
-function RoadLayers({ selected }) {
+function RoadLayers({ selected, onLoadingChange }) {
   const map = useMap();
   const layersRef = useRef({});
 
@@ -20,6 +20,7 @@ function RoadLayers({ selected }) {
 
     selected.forEach(async (road) => {
       if (layersRef.current[road.id_road]) return;
+      onLoadingChange(true);
 
       try {
         const resOverpass = await fetch(OVERPASS_URL, {
@@ -40,6 +41,8 @@ function RoadLayers({ selected }) {
         layersRef.current[road.id_road] = layer;
       } catch (err) {
         console.error('Error fetching road geometry:', err.message);
+      } finally {
+        onLoadingChange(false);
       }
     });
   }, [selected, map]);
@@ -47,7 +50,7 @@ function RoadLayers({ selected }) {
   return null;
 }
 
-export default function Map({ selected = [] }) {
+export default function Map({ selected, onLoadingChange }) {
   return (
     <MapContainer
       center={[44.4268, 26.1025]}
@@ -58,7 +61,7 @@ export default function Map({ selected = [] }) {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution="&copy; OpenStreetMap contributors"
       />
-      <RoadLayers selected={selected} />
+      <RoadLayers selected={selected} onLoadingChange={onLoadingChange }/>
     </MapContainer>
   );
 }

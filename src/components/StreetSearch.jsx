@@ -11,7 +11,7 @@ function normalize(str) {
     .replace(/ț/g, 't');
 }
 
-export default function StreetSearch({ selected, onAdd }) {
+export default function StreetSearch({ selected, onAdd, onMapLoading }) {
   const [input, setInput] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [roads, setRoads] = useState([]);
@@ -56,10 +56,11 @@ export default function StreetSearch({ selected, onAdd }) {
     return () => document.removeEventListener('click', handleClick);
   }, []);
 
-  const handleSelect = (road) => {
+  const handleSelect = async (road) => {
     onAdd(road);
     setInput('');
     setSuggestions([]);
+    onMapLoading(true);
   };
 
   return (
