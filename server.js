@@ -4,6 +4,10 @@ import { PrismaClient } from '@prisma/client';
 import { PrismaMariaDb } from '@prisma/adapter-mariadb';
 import dotenv from 'dotenv';
 import osmtogeojson from 'osmtogeojson';
+import { detaliiCompleteDrumuri } from './src/scripts/database/detaliiCompleteDrumuri.js';
+import { proceseazaDateDrumuri } from './src/scripts/database/procesareDateDrumuri.js';
+import { calculeazaIndiciiDrumuri } from './src/scripts/database/calculeazaIndici.js';
+import { calculeazaCongestie } from './src/scripts/database/calculeazaCongestie.js';
 
 dotenv.config();
 
@@ -66,5 +70,15 @@ app.post('/api/data', async (req, res) => {
   if (!validStartYears.includes(startYear))
     return res.status(400).json({ error: 'invalid startYear' });
 
-  res.json({ congestie: 0.1234 });
+  try {
+    const input = { streetList, timeSetTag, method, startYear };
+    const detalii = await detaliiCompleteDrumuri();
+    const procesat = proceseazaDateDrumuri(detalii, input);
+    const indici = calculeazaIndiciiDrumuri(procesat, input);
+    const congestie = await calculeazaCongestie(indici, input);
+    res.json({ congestie });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: err.message });
+  }
 });
