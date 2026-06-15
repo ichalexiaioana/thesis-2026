@@ -1,0 +1,3106 @@
+{
+  "features": [
+    {
+      "id_road": "1ced8114-224a-4972-b81a-264619e559ba",
+      "name_overpass": "Aleea Mizil",
+      "name_tomtom": "Aleea Mizil",
+      "id_tomtom": "52a6ce9e-4033-4748-ace4-af48cfae0566"
+    },
+    {
+      "id_road": "f0699ec3-ed08-4c76-870d-ba973da8bc1c",
+      "name_overpass": "Aleea Pajurei",
+      "name_tomtom": "Aleea Pajurei",
+      "id_tomtom": "c691e5bf-68be-4904-aff9-fdbe11851cbd"
+    },
+    {
+      "id_road": "16aeb653-83f9-4bfa-a076-a10427e9f262",
+      "name_overpass": "Aleea Privighetorilor",
+      "name_tomtom": "Aleea Privighetorilor",
+      "id_tomtom": "ec6ffcc9-7caa-4447-a544-717e4209b96b"
+    },
+    {
+      "id_road": "d84c2d1c-cd38-4780-b880-d3430ef0a502",
+      "name_overpass": "Bulevardul „Regele Mihai I”",
+      "name_tomtom": "Bulevardul Regele Mihai I al României",
+      "id_tomtom": "d971637a-ec55-48c6-bac1-d08640c535c1"
+    },
+    {
+      "id_road": "59146e13-6b1e-4021-a2c7-a9f04a9e3a9f",
+      "name_overpass": "Bulevardul 1 Decembrie 1918",
+      "name_tomtom": "Bulevardul 1 Decembrie 1918",
+      "id_tomtom": "5e8941bc-9881-4e2c-b035-fcba1543fdd2"
+    },
+    {
+      "id_road": "737a83b7-03d7-4590-b7e1-1a2f76f28526",
+      "name_overpass": "Bulevardul 1 Mai",
+      "name_tomtom": "Bulevardul 1 Mai",
+      "id_tomtom": "3d87abd4-8856-4791-a84f-c74819ab8129"
+    },
+    {
+      "id_road": "8a85afe5-dc95-4cdf-923a-116d2dd7f2fa",
+      "name_overpass": "Bulevardul Aerogării",
+      "name_tomtom": "Bulevardul Aerogării",
+      "id_tomtom": "da807621-421c-48bf-b358-75534a000168"
+    },
+    {
+      "id_road": "03850e2f-94ef-495a-95fd-3cb55283bb11",
+      "name_overpass": "Bulevardul Alexandru Ioan Cuza",
+      "name_tomtom": "Bulevardul Alexandru Ioan Cuza",
+      "id_tomtom": "d51d3ea7-dfc3-426e-85d3-814e9b2a5c13"
+    },
+    {
+      "id_road": "c17d2d55-d32b-4e86-b9d7-eae9ebfe6395",
+      "name_overpass": "Bulevardul Alexandru Obregia",
+      "name_tomtom": "Bulevardul Alexandru Obregia",
+      "id_tomtom": "514ef418-8d6a-44a3-ba19-611037312d7a"
+    },
+    {
+      "id_road": "3fa20b74-fd85-4fdd-a132-db5b753edb1f",
+      "name_overpass": "Bulevardul Aviatorilor",
+      "name_tomtom": "Bulevardul Aviatorilor",
+      "id_tomtom": "8710769f-49f7-4ebb-9045-042bfadb739d"
+    },
+    {
+      "id_road": "ab084b43-3b3e-42e6-89fb-e352c9b8584b",
+      "name_overpass": "Bulevardul Banu Manta",
+      "name_tomtom": "Bulevardul Banul Manta",
+      "id_tomtom": "1c2dc2f4-2be6-4f7f-801d-409f664183ea"
+    },
+    {
+      "id_road": "5c8ac681-6d72-461b-a2aa-960d32b0b486",
+      "name_overpass": "Bulevardul Basarabia",
+      "name_tomtom": "Bulevardul Basarabia",
+      "id_tomtom": "086a12a1-475b-4659-ad48-1e66c92c71f0"
+    },
+    {
+      "id_road": "f80f0f97-ef40-4ddc-b547-5ba2bb6b49e1",
+      "name_overpass": "Bulevardul Beijing",
+      "name_tomtom": "Bulevardul Aviatorilor",
+      "id_tomtom": "8710769f-49f7-4ebb-9045-042bfadb739d"
+    },
+    {
+      "id_road": "a4b9c8d5-7b04-4329-96c5-31a1ad8fe264",
+      "name_overpass": "Bulevardul Biruinței",
+      "name_tomtom": "Bulevardul Biruinței",
+      "id_tomtom": "ff9421b5-fa16-4530-b625-a3904697166f"
+    },
+    {
+      "id_road": "dd514e4d-74da-4c64-a4f7-377e9df2d548",
+      "name_overpass": "Bulevardul Bucureștii Noi",
+      "name_tomtom": "Bulevardul Bucureștii Noi",
+      "id_tomtom": "22bbacb7-7a29-482a-9e16-7fe61bb2f875"
+    },
+    {
+      "id_road": "ff62e704-b04c-4893-b6e9-849688e4cf97",
+      "name_overpass": "Bulevardul Burebista",
+      "name_tomtom": "Bulevardul Burebista",
+      "id_tomtom": "fcc844a6-2ad9-42fb-9cd4-595a218faa12"
+    },
+    {
+      "id_road": "7534a037-f252-4369-abf9-a64f6e8f360f",
+      "name_overpass": "Bulevardul Camil Ressu",
+      "name_tomtom": "Bulevardul Camil Ressu",
+      "id_tomtom": "c1b7bb20-2b73-4b64-b18c-5597102e5101"
+    },
+    {
+      "id_road": "754601f9-a244-45e0-82e3-40511c474d7b",
+      "name_overpass": "Bulevardul Carol I",
+      "name_tomtom": "Bulevardul Carol I",
+      "id_tomtom": "21209e21-e101-4825-8658-9a37f082451b"
+    },
+    {
+      "id_road": "189d8a90-4ca2-4c17-8154-01bcd850f984",
+      "name_overpass": "Bulevardul Chișinău",
+      "name_tomtom": "Bulevardul Chișinău",
+      "id_tomtom": "ebb029db-ed63-4638-bdc6-b2ed00334960"
+    },
+    {
+      "id_road": "5b3162c5-8127-4bb7-b4e9-1605528722b1",
+      "name_overpass": "Bulevardul Constantin Brâncoveanu",
+      "name_tomtom": "Bulevardul Constantin Brâncoveanu",
+      "id_tomtom": "8e9d2aad-2bd1-4ef8-85b2-fad1e751b93d"
+    },
+    {
+      "id_road": "b0877334-33ac-406d-b8c4-5ae08a6b108f",
+      "name_overpass": "Bulevardul Constantin Prezan",
+      "name_tomtom": "Bulevardul Mareșal Constantin Prezan",
+      "id_tomtom": "9003ef83-b5ea-4e6e-a73a-c0ba065b997b"
+    },
+    {
+      "id_road": "c21c7398-6798-45fd-8cbd-82f160ab4c83",
+      "name_overpass": "Bulevardul Constructorilor",
+      "name_tomtom": "Bulevardul Constructorilor",
+      "id_tomtom": "9689e316-dd40-4922-b0be-9a8888d460b1"
+    },
+    {
+      "id_road": "8e8e456c-6474-4edd-8d90-28ec85e634f4",
+      "name_overpass": "Bulevardul Corneliu Coposu",
+      "name_tomtom": "Bulevardul Corneliu Coposu",
+      "id_tomtom": "583fba07-c66c-4a75-8b79-272fd844ea32"
+    },
+    {
+      "id_road": "52b57244-8879-40fb-b0df-78096f761e6e",
+      "name_overpass": "Bulevardul Dacia",
+      "name_tomtom": "Bulevardul Dacia",
+      "id_tomtom": "05032c1c-5015-4b5e-9ade-f05c4b29f74d"
+    },
+    {
+      "id_road": "7d302787-c3fe-43ef-b26b-56ad05621846",
+      "name_overpass": "Bulevardul Decebal",
+      "name_tomtom": "Bulevardul Decebal",
+      "id_tomtom": "47d8223a-ef8b-4db3-b9ad-4927940cd32c"
+    },
+    {
+      "id_road": "81ad6b33-80af-4abe-a798-14756ff6b301",
+      "name_overpass": "Bulevardul Dimitrie Cantemir",
+      "name_tomtom": "Bulevardul Dimitrie Cantemir",
+      "id_tomtom": "2a8496ab-3cc8-4ef4-b7d7-d3eae3b55d00"
+    },
+    {
+      "id_road": "5b84396e-cba7-4365-b473-215a6feba99f",
+      "name_overpass": "Bulevardul Dimitrie Pompeiu",
+      "name_tomtom": "Bulevardul Dimitrie Pompeiu",
+      "id_tomtom": "9a2b5189-a3e7-458c-90d4-1f2b4dcd2c07"
+    },
+    {
+      "id_road": "8d67e3f8-431d-433a-b9c7-e8a49ff99bd9",
+      "name_overpass": "Bulevardul Dinicu Golescu",
+      "name_tomtom": "Bulevardul Dinicu Golescu",
+      "id_tomtom": "9ad4de78-2e89-4ddb-958f-9378b9431b43"
+    },
+    {
+      "id_road": "17c8115a-0f1d-42fc-9cb8-2c3525201352",
+      "name_overpass": "Bulevardul Doctor Liviu Librescu",
+      "name_tomtom": "Bulevardul Doctor Liviu Librescu",
+      "id_tomtom": "3ac9f9d0-c4de-4638-9583-4b4bbf392ca3"
+    },
+    {
+      "id_road": "7ffc747d-1a89-41fc-aa44-d203e72f27db",
+      "name_overpass": "Bulevardul Doina Cornea",
+      "name_tomtom": "Bulevardul General Paul Teodorescu",
+      "id_tomtom": "8223c14b-58c2-4c08-b7fa-5248543663f8"
+    },
+    {
+      "id_road": "9d8aa13b-fdf5-465e-a1c9-ed158fe66ee5",
+      "name_overpass": "Bulevardul Energeticienilor",
+      "name_tomtom": "Bulevardul Energeticienilor",
+      "id_tomtom": "8867b6e2-23b9-4348-bdc3-0c6f4b81a160"
+    },
+    {
+      "id_road": "b2aeca7a-1409-4db2-ae32-189c33f02432",
+      "name_overpass": "Bulevardul Eroii Sanitari",
+      "name_tomtom": "Bulevardul Eroii Sanitari",
+      "id_tomtom": "4d744724-6d15-4b95-99eb-c3d4207f3169"
+    },
+    {
+      "id_road": "f44edafd-77c9-4bc5-bf34-fa6ddd7545c3",
+      "name_overpass": "Bulevardul Eroilor",
+      "name_tomtom": "Bulevardul Eroilor",
+      "id_tomtom": "3adb4b31-2b92-4fcc-aa54-29f8cf5b5af2"
+    },
+    {
+      "id_road": "f916e941-021f-48cc-b0e0-0fcd770f5069",
+      "name_overpass": "Bulevardul Expoziției",
+      "name_tomtom": "Bulevardul Expoziției",
+      "id_tomtom": "aa4b5c4e-ae9a-461f-9726-3689dfd9b520"
+    },
+    {
+      "id_road": "51642c28-9dc9-400c-bc76-d94ada853081",
+      "name_overpass": "Bulevardul Ferdinand I",
+      "name_tomtom": "Bulevardul Ferdinand I",
+      "id_tomtom": "dee80407-d0a3-482f-8910-ece9fa911f77"
+    },
+    {
+      "id_road": "e14ad415-d7e8-4813-a312-a75bd587e47c",
+      "name_overpass": "Bulevardul Ficusului",
+      "name_tomtom": "Bulevardul Ficusului",
+      "id_tomtom": "7cac5506-e397-49f7-b027-5c8d22d5bc8e"
+    },
+    {
+      "id_road": "52baf12c-e05e-48a1-9f3d-97b8c7ac3f61",
+      "name_overpass": "Bulevardul Gării Obor",
+      "name_tomtom": "Bulevardul Gării Obor",
+      "id_tomtom": "75ded18f-caf7-4389-9cab-ca7bee5b7c1b"
+    },
+    {
+      "id_road": "40740f0c-d7d8-4400-b4c8-92ba99e13cea",
+      "name_overpass": "Bulevardul General Gheorghe Magheru",
+      "name_tomtom": "Bulevardul General Gheorghe Magheru",
+      "id_tomtom": "af577484-f4f8-4802-b284-890a085446a9"
+    },
+    {
+      "id_road": "6e45f7c9-37d0-432b-bec1-6090b5c49c9a",
+      "name_overpass": "Bulevardul General Paul Teodorescu",
+      "name_tomtom": "Bulevardul General Paul Teodorescu",
+      "id_tomtom": "8223c14b-58c2-4c08-b7fa-5248543663f8"
+    },
+    {
+      "id_road": "489ba3ce-e109-42ce-b26f-27511ec444a0",
+      "name_overpass": "Bulevardul Geniului",
+      "name_tomtom": "Bulevardul Geniului",
+      "id_tomtom": "3e059f9a-1f69-4590-a7f4-0926a247bb38"
+    },
+    {
+      "id_road": "c8dd5341-7e31-4f93-8c12-ca2b0a02f389",
+      "name_overpass": "Bulevardul George Coșbuc",
+      "name_tomtom": "Bulevardul George Coșbuc",
+      "id_tomtom": "2bdfeb94-9937-4035-a81d-c29f29e868d1"
+    },
+    {
+      "id_road": "002d9c92-ec73-48f5-a4a2-88662cce95f7",
+      "name_overpass": "Bulevardul Ghencea",
+      "name_tomtom": "Bulevardul Ghencea",
+      "id_tomtom": "f7f24f58-3c32-46f7-8bb1-4f1d008820f9"
+    },
+    {
+      "id_road": "ba617356-a89a-4ddf-8241-44e57baf2604",
+      "name_overpass": "Bulevardul Gheorghe Duca",
+      "name_tomtom": "Bulevardul Gheorghe Duca",
+      "id_tomtom": "5711d32f-1e75-441f-a5a6-2ef0964059bc"
+    },
+    {
+      "id_road": "621b4f19-e5c0-4604-9c46-20c2f4f938d5",
+      "name_overpass": "Bulevardul Gheorghe Șincai",
+      "name_tomtom": "Bulevardul Gheorghe Șincai",
+      "id_tomtom": "afc9dbe9-3f67-4ecc-807e-d54a8b7faed9"
+    },
+    {
+      "id_road": "1567a45a-e209-48a2-95ec-65bc5d014d06",
+      "name_overpass": "Bulevardul Ghica Tei",
+      "name_tomtom": "Bulevardul Ghica Tei",
+      "id_tomtom": "304af883-149c-4e4c-a23d-82e7232dbf5e"
+    },
+    {
+      "id_road": "55d3bccd-f597-4dda-92e8-628a9ea75ef7",
+      "name_overpass": "Bulevardul Gloriei",
+      "name_tomtom": "Bulevardul Gloriei",
+      "id_tomtom": "86c80148-5759-4706-9cfe-2da219bef814"
+    },
+    {
+      "id_road": "da84803b-17df-4fb6-88b7-8e403c079641",
+      "name_overpass": "Bulevardul Hristo Botev",
+      "name_tomtom": "Bulevardul Hristo Botev",
+      "id_tomtom": "50c6af39-4155-4251-81d3-7d731c950096"
+    },
+    {
+      "id_road": "5e2054a0-327f-4433-8d53-7303ffffe6c3",
+      "name_overpass": "Bulevardul Iancu de Hunedoara",
+      "name_tomtom": "Bulevardul Iancu de Hunedoara",
+      "id_tomtom": "96b430c0-3811-44c4-9184-20ee3a3da527"
+    },
+    {
+      "id_road": "4d6291c6-bb08-4221-b6af-ccf48c0e5d73",
+      "name_overpass": "Bulevardul Ion C. Brătianu",
+      "name_tomtom": "Bulevardul Ion Constantin Brătianu",
+      "id_tomtom": "5a3f7723-8525-47dd-8af8-d5a79de0a313"
+    },
+    {
+      "id_road": "bd367cf8-a694-4b0d-ac95-3741f6c575fe",
+      "name_overpass": "Bulevardul Ion Constantin Brătianu",
+      "name_tomtom": "Bulevardul Ion Constantin Brătianu",
+      "id_tomtom": "5a3f7723-8525-47dd-8af8-d5a79de0a313"
+    },
+    {
+      "id_road": "8395fac5-1e7a-4b28-893b-4139b654f478",
+      "name_overpass": "Bulevardul Ion Ionescu de la Brad",
+      "name_tomtom": "Bulevardul Ion Ionescu de la Brad",
+      "id_tomtom": "534e692b-eb66-4bf2-90a3-8d0907966922"
+    },
+    {
+      "id_road": "5d569037-c211-49e9-b309-6e64dea49229",
+      "name_overpass": "Bulevardul Ion Mihalache",
+      "name_tomtom": "Bulevardul Ion Mihalache",
+      "id_tomtom": "9d1ab627-b630-4c66-88a8-95fbfb514c49"
+    },
+    {
+      "id_road": "18e28863-b020-4b1e-8752-c35304987625",
+      "name_overpass": "Bulevardul Iuliu Maniu",
+      "name_tomtom": "Bulevardul Iuliu Maniu",
+      "id_tomtom": "bc917ea2-3f10-4bdc-baba-7e511196b5b5"
+    },
+    {
+      "id_road": "3796aa4d-0120-43ad-aa2f-145b6dfbd868",
+      "name_overpass": "Bulevardul Lacul Tei",
+      "name_tomtom": "Bulevardul Lacul Tei",
+      "id_tomtom": "35cc7832-3e51-423d-840d-bc95dce3acb7"
+    },
+    {
+      "id_road": "d6f5ab94-339b-4edf-90ce-8cd0114a78c3",
+      "name_overpass": "Bulevardul Laminorului",
+      "name_tomtom": "Bulevardul Laminorului",
+      "id_tomtom": "e1b76dc0-5a03-40b1-ba86-32685c73149a"
+    },
+    {
+      "id_road": "56979d37-f1e1-41e5-9e5e-0fd564deeafd",
+      "name_overpass": "Bulevardul Lascăr Catargiu",
+      "name_tomtom": "Bulevardul Lascăr Catargiu",
+      "id_tomtom": "b7edf701-3aa6-4a62-a35a-006378d6c781"
+    },
+    {
+      "id_road": "c82ab11b-58ac-451b-9a52-f87dffde9cda",
+      "name_overpass": "Bulevardul Libertății",
+      "name_tomtom": "Bulevardul Libertății",
+      "id_tomtom": "daa0b8e6-cc29-4897-9d7f-10586da3b7ca"
+    },
+    {
+      "id_road": "bd23ed5e-3733-423f-8b9c-37090c6bf50f",
+      "name_overpass": "Bulevardul Mareșal Alexandru Averescu",
+      "name_tomtom": "Bulevardul Mareșal Alexandru Averescu",
+      "id_tomtom": "12172a79-b27d-481d-a56e-067729e8c148"
+    },
+    {
+      "id_road": "0542f6de-eb36-4ad2-b43b-134afacc37f2",
+      "name_overpass": "Bulevardul Mareșal Constantin Prezan",
+      "name_tomtom": "Bulevardul Mareșal Constantin Prezan",
+      "id_tomtom": "9003ef83-b5ea-4e6e-a73a-c0ba065b997b"
+    },
+    {
+      "id_road": "99762173-305b-4ede-84f9-40f082d3de77",
+      "name_overpass": "Bulevardul Mărășești",
+      "name_tomtom": "Bulevardul Mărășești",
+      "id_tomtom": "b8fb4aed-bf81-4abf-aa67-5ac438a7ae8b"
+    },
+    {
+      "id_road": "d64dc9e8-72e3-4436-859d-6fcfe6a5e2c6",
+      "name_overpass": "Bulevardul Mărăști",
+      "name_tomtom": "Bulevardul Mărăști",
+      "id_tomtom": "e2075bc2-f2d2-44a2-ba43-f7eab6baa6a9"
+    },
+    {
+      "id_road": "7c7bf91d-4cc7-48cb-8a68-df1e2b6cb1c7",
+      "name_overpass": "Bulevardul Metalurgiei",
+      "name_tomtom": "Bulevardul Metalurgiei",
+      "id_tomtom": "edfb2612-e9e3-4f34-b5e6-5d56da6d2dfe"
+    },
+    {
+      "id_road": "b4d4cd23-34ff-4df1-a37d-86e39d2a8e3d",
+      "name_overpass": "Bulevardul Mihail Kogălniceanu",
+      "name_tomtom": "Bulevardul Mihail Kogălniceanu",
+      "id_tomtom": "c3fc99a6-053b-4c39-9517-d4a8793bec8f"
+    },
+    {
+      "id_road": "9f02c9f9-414f-49d4-9bb3-4b49b18750b2",
+      "name_overpass": "Bulevardul Mircea Eliade",
+      "name_tomtom": "Bulevardul Mircea Eliade",
+      "id_tomtom": "5bc749db-de63-4ce4-94c5-4987c2ece118"
+    },
+    {
+      "id_road": "c44ca2fd-b6c0-4895-9a7d-058c07cc4b0c",
+      "name_overpass": "Bulevardul Mircea Vodă",
+      "name_tomtom": "Bulevardul Mircea Vodă",
+      "id_tomtom": "bb916dc3-b01b-4fba-8bd6-71972f07b70d"
+    },
+    {
+      "id_road": "64984008-babc-4dc2-ad09-6bb665ecb549",
+      "name_overpass": "Bulevardul Națiunile Unite",
+      "name_tomtom": "Bulevardul Națiunile Unite",
+      "id_tomtom": "1f0557ee-8146-4626-8ff4-dcd86a1c15e5"
+    },
+    {
+      "id_road": "9bbc24f5-60bc-47f9-b941-752102e25e9e",
+      "name_overpass": "Bulevardul Nicolae Bălcescu",
+      "name_tomtom": "Bulevardul Nicolae Bălcescu",
+      "id_tomtom": "438e389c-c74d-46e9-ab85-5095304b12df"
+    },
+    {
+      "id_road": "fbca0822-68da-4810-9547-11c10dc5f6b5",
+      "name_overpass": "Bulevardul Nicolae Grigorescu",
+      "name_tomtom": "Bulevardul Nicolae Grigorescu",
+      "id_tomtom": "e156a382-67e4-4b12-9aa3-14680b95fbc6"
+    },
+    {
+      "id_road": "b1eb9e2f-9361-4d04-9643-3e937d608cf1",
+      "name_overpass": "Bulevardul Octavian Goga",
+      "name_tomtom": "Bulevardul Octavian Goga",
+      "id_tomtom": "355063b7-d11b-4cb9-823f-c9b7d842ab17"
+    },
+    {
+      "id_road": "77f22541-6382-4ac4-9d7c-244b6ae7e2e1",
+      "name_overpass": "Bulevardul Pache Protopopescu",
+      "name_tomtom": "Bulevardul Pache Protopopescu",
+      "id_tomtom": "d36f24fc-4702-4d0c-9011-4e2cad58a486"
+    },
+    {
+      "id_road": "586cf071-166d-43a0-9183-b1b071fce7db",
+      "name_overpass": "Bulevardul Pieptănari",
+      "name_tomtom": "Bulevardul Pieptănari",
+      "id_tomtom": "fb4a59b4-901c-4023-8fd3-b556a65ac706"
+    },
+    {
+      "id_road": "afacf721-f69d-4584-932a-a3f2dfede9a2",
+      "name_overpass": "Bulevardul Pierre de Coubertin",
+      "name_tomtom": "Bulevardul Pierre De Coubertin",
+      "id_tomtom": "9750ec44-9d9b-4993-bb21-15cf3ebcad8b"
+    },
+    {
+      "id_road": "119b2b26-3beb-4286-817c-ce85935eb86e",
+      "name_overpass": "Bulevardul Poligrafiei",
+      "name_tomtom": "Bulevardul Poligrafiei",
+      "id_tomtom": "a757d7b8-c15f-480a-8978-f4065ee68bba"
+    },
+    {
+      "id_road": "c9332d91-a17b-44b3-8114-73f61b03fc9b",
+      "name_overpass": "Bulevardul Primăverii",
+      "name_tomtom": "Bulevardul Primăverii",
+      "id_tomtom": "6f0802c9-06f5-417c-ae85-ab2b9a4431f1"
+    },
+    {
+      "id_road": "04ad7086-e11b-434c-9621-dd032456f88e",
+      "name_overpass": "Bulevardul Profesor Dimitrie Pompeiu",
+      "name_tomtom": "Bulevardul Dimitrie Pompeiu",
+      "id_tomtom": "9a2b5189-a3e7-458c-90d4-1f2b4dcd2c07"
+    },
+    {
+      "id_road": "32f61aa3-b39d-482c-abed-1266d82295fe",
+      "name_overpass": "Bulevardul Profesor Doctor Gheorghe Marinescu",
+      "name_tomtom": "Bulevardul Profesor Doctor Gheorghe Marinescu",
+      "id_tomtom": "2608f51b-e738-4acc-9028-77700d46223e"
+    },
+    {
+      "id_road": "5cb4f150-33e0-4023-a09a-ee1dfd8d8f70",
+      "name_overpass": "Bulevardul Râmnicu Sărat",
+      "name_tomtom": "Bulevardul Râmnicu Sărat",
+      "id_tomtom": "85889c78-cdb8-400a-937d-dfd5031b8be6"
+    },
+    {
+      "id_road": "e16cbed4-d50a-4d8d-aebf-78f4484965b0",
+      "name_overpass": "Bulevardul Regiei",
+      "name_tomtom": "Bulevardul Regiei",
+      "id_tomtom": "7d68a341-12c9-44d2-a5e0-8748f4a94577"
+    },
+    {
+      "id_road": "946a8e2a-b532-4eec-a441-96eaa342767d",
+      "name_overpass": "Bulevardul Regina Elisabeta",
+      "name_tomtom": "Bulevardul Regina Elisabeta",
+      "id_tomtom": "b93bd132-aacd-46e9-b0c8-5d8070409ae6"
+    },
+    {
+      "id_road": "741b9a9a-9430-432f-baf8-51ab1f11e4ff",
+      "name_overpass": "Bulevardul Regina Maria",
+      "name_tomtom": "Bulevardul Regina Maria",
+      "id_tomtom": "c95f8cde-70f2-4ee8-ab68-1034d859216b"
+    },
+    {
+      "id_road": "a9790eb1-6158-4f95-a0d0-ae1973567849",
+      "name_overpass": "Bulevardul Schitu Măgureanu",
+      "name_tomtom": "Bulevardul Schitu Măgureanu",
+      "id_tomtom": "babba3d3-1c12-4e8f-a971-561b45c7ecfe"
+    },
+    {
+      "id_road": "dd2d28ce-90ad-42d1-9dc7-e04f3a3629d5",
+      "name_overpass": "Bulevardul Theodor Pallady",
+      "name_tomtom": "Bulevardul Theodor Pallady",
+      "id_tomtom": "ac29c219-977b-4bfd-acda-36e38dd87e98"
+    },
+    {
+      "id_road": "e5a45e7b-949a-45a1-8235-4fa3b874cded",
+      "name_overpass": "Bulevardul Timișoara",
+      "name_tomtom": "Bulevardul Timișoara",
+      "id_tomtom": "b5e8b532-3070-4d46-b4c9-865b92f2fe2c"
+    },
+    {
+      "id_road": "86caae60-f42a-40ce-a490-6b43ee819e83",
+      "name_overpass": "Bulevardul Tineretului",
+      "name_tomtom": "Bulevardul Tineretului",
+      "id_tomtom": "e164821b-ec16-47fa-8b36-9a3416334e45"
+    },
+    {
+      "id_road": "84c49d56-6cea-4d5f-8e0b-c1bfe060197b",
+      "name_overpass": "Bulevardul Tudor Vladimirescu",
+      "name_tomtom": "Bulevardul Tudor Vladimirescu",
+      "id_tomtom": "1df219fa-2887-4e34-8a42-742d11677d80"
+    },
+    {
+      "id_road": "07b8e535-0cb2-4f5b-9024-f711e91e2c84",
+      "name_overpass": "Bulevardul Unirii",
+      "name_tomtom": "Bulevardul Unirii",
+      "id_tomtom": "7a09419a-b3a1-4cb8-9563-c92f089993d1"
+    },
+    {
+      "id_road": "67a39775-c678-404b-af90-cca112daa24b",
+      "name_overpass": "Bulevardul Uverturii",
+      "name_tomtom": "Bulevardul Uverturii",
+      "id_tomtom": "14cdecdc-ea13-468f-9cd9-b026c5d3b214"
+    },
+    {
+      "id_road": "db4b8efe-f3e0-49bf-b8b0-e30f6a4726ad",
+      "name_overpass": "Bulevardul Victor Dumitrescu",
+      "name_tomtom": "Bulevardul Profesor Doctor Victor Dumitrescu",
+      "id_tomtom": "701db679-8178-4a08-8d23-193b1485f7fe"
+    },
+    {
+      "id_road": "45538bfd-3415-4900-8e4a-a88d0f604dbc",
+      "name_overpass": "Calea 13 Septembrie",
+      "name_tomtom": "Calea 13 Septembrie",
+      "id_tomtom": "112cb336-9484-41d0-8728-baf105e1f8e4"
+    },
+    {
+      "id_road": "38677bbe-9c63-4ea8-8ea0-84500c36b703",
+      "name_overpass": "Calea Călărașilor",
+      "name_tomtom": "Calea Călărași",
+      "id_tomtom": "37a489d6-8eb5-4e1a-9947-63e4f56e03aa"
+    },
+    {
+      "id_road": "ba9d105c-1a9f-472f-92e5-909806e34cb8",
+      "name_overpass": "Calea Crângași",
+      "name_tomtom": "Calea Crângași",
+      "id_tomtom": "dbbddd5f-c28b-48b7-85b7-1b4838283fab"
+    },
+    {
+      "id_road": "7e1b8ab9-bef8-41e2-9c11-1b31b3501411",
+      "name_overpass": "Calea Dorobanților",
+      "name_tomtom": "Calea Dorobanților",
+      "id_tomtom": "89272df0-e432-4278-9298-84a671b00d57"
+    },
+    {
+      "id_road": "12f056ba-2cff-4ba0-9f27-d854379b2612",
+      "name_overpass": "Calea Dudești",
+      "name_tomtom": "Calea Dudești",
+      "id_tomtom": "6d25aa6f-1104-4019-a16c-c53369670d9e"
+    },
+    {
+      "id_road": "a17343c7-434e-4eb9-9b7c-bd1b69db99bc",
+      "name_overpass": "Calea Ferentari",
+      "name_tomtom": "Calea Ferentari",
+      "id_tomtom": "4a95ea3a-292b-4f21-827d-15d8aa6176a4"
+    },
+    {
+      "id_road": "0e7343b5-aa59-4ceb-850a-78a9023e9224",
+      "name_overpass": "Calea Floreasca",
+      "name_tomtom": "Calea Floreasca",
+      "id_tomtom": "58f7c63f-4992-475a-9b47-d9b904efd09c"
+    },
+    {
+      "id_road": "c0421508-77f6-483a-ba51-f6969fd9e3f8",
+      "name_overpass": "Calea Giulești",
+      "name_tomtom": "Calea Giulești",
+      "id_tomtom": "4095d82c-291e-4e21-b33e-18b6e7283e0e"
+    },
+    {
+      "id_road": "ba9104f6-7ef6-4490-a911-94e816ec9b6f",
+      "name_overpass": "Calea Griviței",
+      "name_tomtom": "Calea Griviței",
+      "id_tomtom": "5ff40106-3204-4822-aecf-e3af8c22b687"
+    },
+    {
+      "id_road": "134debb9-8f41-4188-8256-47c4291d0f31",
+      "name_overpass": "Calea Moșilor",
+      "name_tomtom": "Calea Moșilor",
+      "id_tomtom": "59ae55cb-9ec3-490a-a7aa-effe381a3647"
+    },
+    {
+      "id_road": "6f7158c0-c375-4e68-9aa2-43bdc2f77f78",
+      "name_overpass": "Calea Plevnei",
+      "name_tomtom": "Calea Plevnei",
+      "id_tomtom": "6408fd7e-41b6-4fd4-b81a-b9c60581f8bd"
+    },
+    {
+      "id_road": "8e8f844b-53cd-4840-8c70-41b45350a50b",
+      "name_overpass": "Calea Rahovei",
+      "name_tomtom": "Calea Rahovei",
+      "id_tomtom": "c047f49a-dd85-41b7-b494-6d9d3a243e95"
+    },
+    {
+      "id_road": "c25f8c84-e2b3-47b0-9ca8-c410405df901",
+      "name_overpass": "Calea Șerban Vodă",
+      "name_tomtom": "Calea Șerban Voda",
+      "id_tomtom": "2571ab60-a789-45ca-8794-ef19040deae0"
+    },
+    {
+      "id_road": "95c50ee3-42df-48d5-a018-b67f6f33a81d",
+      "name_overpass": "Calea Văcărești",
+      "name_tomtom": "Calea Văcărești",
+      "id_tomtom": "173d5684-c7fb-4479-8f5d-1464789cf5b7"
+    },
+    {
+      "id_road": "edd83852-4c17-4c81-99e6-35050e55710c",
+      "name_overpass": "Calea Victoriei",
+      "name_tomtom": "Calea Victoriei",
+      "id_tomtom": "a5db69e9-b410-419e-8fad-319dd0be7751"
+    },
+    {
+      "id_road": "c661cf0c-517c-4df0-acaa-0005d8bf4e97",
+      "name_overpass": "Calea Vitan",
+      "name_tomtom": "Calea Vitan",
+      "id_tomtom": "6afdb8e0-451b-46ea-a355-4c7927ac608b"
+    },
+    {
+      "id_road": "07505d8f-cbe5-4f79-8ac3-2584d2331cd8",
+      "name_overpass": "Drumul Bercenarului",
+      "name_tomtom": "Drumul Bercenarului",
+      "id_tomtom": "8548f507-d202-4bb6-9128-3997c28e9d74"
+    },
+    {
+      "id_road": "0381f8f3-c2cf-4c63-9fbf-772707883d36",
+      "name_overpass": "Drumul Cheile Turzii",
+      "name_tomtom": "Drumul Cheile Turzii",
+      "id_tomtom": "4ebb24ed-e798-4df2-898d-1d2c8d6a4ef2"
+    },
+    {
+      "id_road": "d4b7d4c4-7aa4-48a6-b12a-0130755d49a6",
+      "name_overpass": "Drumul Gării Otopeni",
+      "name_tomtom": "Drumul Gării Otopeni",
+      "id_tomtom": "0e416904-cddb-4990-81e1-58cb685dc078"
+    },
+    {
+      "id_road": "98b2126c-351e-4b7a-861e-6efe3fb08dbf",
+      "name_overpass": "Drumul Găzarului",
+      "name_tomtom": "Drumul Găzarului",
+      "id_tomtom": "37f9fd7c-51ea-49ce-9b36-e4f30e096dc1"
+    },
+    {
+      "id_road": "8c980933-66c5-4f60-9513-546307c393d0",
+      "name_overpass": "Drumul Între Tarlale",
+      "name_tomtom": "Drumul Între Tarlale",
+      "id_tomtom": "cc73b87c-9aff-49a9-ba2a-343ea0a6b05d"
+    },
+    {
+      "id_road": "06920d30-4434-4c39-a258-01e6baa795d6",
+      "name_overpass": "Drumul la Chiajna",
+      "name_tomtom": "Drumul La Chiajna",
+      "id_tomtom": "4c9c122b-e5d4-4c16-8815-9d2a2db9cef5"
+    },
+    {
+      "id_road": "c010777a-d424-4c7a-b71a-c4201d9fc17a",
+      "name_overpass": "Drumul Lunca Bisericii",
+      "name_tomtom": "Drumul Lunca Bisericii",
+      "id_tomtom": "05aaa9e0-ac42-4c08-952d-0862d968098b"
+    },
+    {
+      "id_road": "17afbc38-28f9-4f7c-8a7e-122d78b59736",
+      "name_overpass": "Drumul Lunca Cetății",
+      "name_tomtom": "Drumul Lunca Cetății",
+      "id_tomtom": "e74abf2e-5675-4562-bc3f-b68b65bc1ad1"
+    },
+    {
+      "id_road": "4ca5c725-16af-47c0-95dc-0f8c8799bfcf",
+      "name_overpass": "Drumul Lunca Dochiei",
+      "name_tomtom": "Lunca Dochiei",
+      "id_tomtom": "674b959b-8d0c-4098-8666-2dcd54bb8f04"
+    },
+    {
+      "id_road": "0a4e5825-1bcf-451a-b7f4-419ec0267f17",
+      "name_overpass": "Drumul Lunca Dunării",
+      "name_tomtom": "Drumul Lunca Dunării",
+      "id_tomtom": "835e3494-fd13-428a-b9b5-8a79e7754a19"
+    },
+    {
+      "id_road": "937625a6-bc00-43ef-9dc1-f7d9bad8acd8",
+      "name_overpass": "Drumul Lunca Priporului",
+      "name_tomtom": "Drumul Lunca Priporului",
+      "id_tomtom": "ae08d419-1781-4448-b0e9-777b6e90fd20"
+    },
+    {
+      "id_road": "b529de7a-7006-4555-9d93-7aad322e7ad8",
+      "name_overpass": "Drumul Lunca Veche",
+      "name_tomtom": "Drumul Lunca Cetății",
+      "id_tomtom": "e74abf2e-5675-4562-bc3f-b68b65bc1ad1"
+    },
+    {
+      "id_road": "a00b13d5-dc60-4d4e-b814-d68114dcab06",
+      "name_overpass": "Drumul Malu Mierii",
+      "name_tomtom": "Drumul Malu Mierii",
+      "id_tomtom": "7f9dc609-0e83-4189-9ff9-12afd39afb7c"
+    },
+    {
+      "id_road": "31f2e849-1c52-4934-b159-84cba0439381",
+      "name_overpass": "Drumul Osiei",
+      "name_tomtom": "Drumul Osiei",
+      "id_tomtom": "9847f095-99d4-4ad0-b717-03ae41f920e8"
+    },
+    {
+      "id_road": "02d6248b-8bf0-470c-b6de-82ee44dbeb3a",
+      "name_overpass": "Drumul Prieteniei",
+      "name_tomtom": "Strada Sfinții Voievozi",
+      "id_tomtom": "62a7bffd-a485-43f2-9c64-194d67cdbc65"
+    },
+    {
+      "id_road": "589f13c7-c6e6-480d-bb45-464f8aa68637",
+      "name_overpass": "Drumul Regimentului",
+      "name_tomtom": "Drumul Regimentului",
+      "id_tomtom": "b034c8a4-6eb6-42af-b323-233cc4620a8f"
+    },
+    {
+      "id_road": "e8108dcc-bdbd-40bc-9c9b-7d9163d1268d",
+      "name_overpass": "Drumul Săbăreni",
+      "name_tomtom": "Drumul Săbăreni",
+      "id_tomtom": "f0077518-fce9-4a43-982b-f2c0d326b78f"
+    },
+    {
+      "id_road": "2b6089c7-39af-4cba-9ec5-2fa4a18664dc",
+      "name_overpass": "Drumul Sării",
+      "name_tomtom": "Drumul Sării",
+      "id_tomtom": "6731bfef-a126-48d4-a1e6-3b5f616031d4"
+    },
+    {
+      "id_road": "be176309-d3f5-4a86-b49c-2e479d94ba1b",
+      "name_overpass": "Drumul Taberei",
+      "name_tomtom": "Drumul Taberei",
+      "id_tomtom": "cb76c793-88ff-4ff9-9857-a93915749b09"
+    },
+    {
+      "id_road": "6f914561-4384-4162-9120-2dfbacc3fed9",
+      "name_overpass": "Drumul Valea Largă",
+      "name_tomtom": "Drumul Valea Largă",
+      "id_tomtom": "54a0af82-0fcd-47a3-be9e-927cc3a5e14f"
+    },
+    {
+      "id_road": "72326c24-60c1-4831-a9f4-5e130df4a0ce",
+      "name_overpass": "Intrarea Humulești",
+      "name_tomtom": "Intrarea Humulești",
+      "id_tomtom": "ec0060b0-8273-43c9-b9d1-97fe04354df7"
+    },
+    {
+      "id_road": "94f5639d-1fba-4881-ac90-72c6596446bb",
+      "name_overpass": "Pasaj Băneasa",
+      "name_tomtom": "Bulevardul Aerogării",
+      "id_tomtom": "da807621-421c-48bf-b358-75534a000168"
+    },
+    {
+      "id_road": "e90f8e42-128d-4c4a-9785-d83218ae63ad",
+      "name_overpass": "Pasajul Basarab",
+      "name_tomtom": "Pasajul Basarab",
+      "id_tomtom": "dc13fa9d-acee-4344-976d-52682affaac3"
+    },
+    {
+      "id_road": "d00cea74-c1a0-4226-b17b-b5352d9d9dfc",
+      "name_overpass": "Pasajul Berceni",
+      "name_tomtom": "Șoseaua Berceni",
+      "id_tomtom": "c6ecab38-5c51-4069-a3b6-2d69d14829a4"
+    },
+    {
+      "id_road": "f3ace1d8-df65-4658-ab2b-3d221ad444ec",
+      "name_overpass": "Pasajul Ciurel",
+      "name_tomtom": "Pasajul Ciurel",
+      "id_tomtom": "05e5e1f1-ace4-4225-8750-b09e8c34e409"
+    },
+    {
+      "id_road": "84436cd5-52ab-4af2-8e7c-2a0350a5660c",
+      "name_overpass": "Pasajul Doamna Ghica",
+      "name_tomtom": "Pasajul Doamna Ghica",
+      "id_tomtom": "d6ebc31a-ff52-467f-bf5a-5ffd4077652f"
+    },
+    {
+      "id_road": "fea5a81e-d5ce-42c4-a76e-c8d1b42eff72",
+      "name_overpass": "Pasajul Domnești",
+      "name_tomtom": "Prelungirea Ghencea",
+      "id_tomtom": "e81b9d56-4e4a-420b-9e24-2d917df31b3c"
+    },
+    {
+      "id_road": "673a08cb-3cb8-47e8-a4ef-094f2d51775c",
+      "name_overpass": "Pasajul Europa Unită",
+      "name_tomtom": "Strada Turnu Măgurele",
+      "id_tomtom": "dee2c68c-93d8-4b55-9af1-ec512e58fb9b"
+    },
+    {
+      "id_road": "97d6e9a2-a023-4b11-88d5-93c7b0da8872",
+      "name_overpass": "Pasajul Lujerului",
+      "name_tomtom": "Pasajul Lujerului",
+      "id_tomtom": "513d5e7b-743c-4a74-939d-6305e5cda933"
+    },
+    {
+      "id_road": "5b536ab5-8bc1-4452-8838-6c44bad13887",
+      "name_overpass": "Pasajul Mărășești",
+      "name_tomtom": "Pasajul Mărășești",
+      "id_tomtom": "292696c7-2a46-4f4c-b62c-c3018ab8c478"
+    },
+    {
+      "id_road": "7d6c0811-a1cc-4546-83b8-868bd4071930",
+      "name_overpass": "Pasajul Mihai Bravu",
+      "name_tomtom": "Pasajul Mihai Bravu",
+      "id_tomtom": "6c3fadee-3bb8-4b32-b6c7-f273c19e03aa"
+    },
+    {
+      "id_road": "584d15c7-1a4e-416a-9772-1821a2734ae7",
+      "name_overpass": "Pasajul Nicolae Grigorescu",
+      "name_tomtom": "Bulevardul Nicolae Grigorescu",
+      "id_tomtom": "e156a382-67e4-4b12-9aa3-14680b95fbc6"
+    },
+    {
+      "id_road": "561aa53d-746a-444e-bc04-fc5f67faa2d0",
+      "name_overpass": "Pasajul Obor",
+      "name_tomtom": "Pasajul Bucur Obor",
+      "id_tomtom": "bca3240c-6172-4674-bb88-723d54c6a7d2"
+    },
+    {
+      "id_road": "2fc25320-dfa2-4c02-ab7b-532b3d72c741",
+      "name_overpass": "Pasajul Piața Muncii",
+      "name_tomtom": "Pasajul Piața Muncii",
+      "id_tomtom": "ccda0e2e-cb62-4675-8a13-03ba622d721b"
+    },
+    {
+      "id_road": "d7b1b870-c91e-472a-9b4a-68bc6349f28c",
+      "name_overpass": "Pasajul Piața Sudului",
+      "name_tomtom": "Strada Sergent Nițu Vasile",
+      "id_tomtom": "5f7459af-8244-4dd6-8dd7-96f5c1e2aaa0"
+    },
+    {
+      "id_road": "e6f94987-68ea-405e-a166-1bd49e67e45d",
+      "name_overpass": "Pasajul subteran Piața Presei Libere",
+      "name_tomtom": "Pasajul Piața Presei Libere",
+      "id_tomtom": "c7882ce1-c455-45d1-b49d-b8fc086a6837"
+    },
+    {
+      "id_road": "23eeea36-643f-4ea5-9e68-cee455bcbd3d",
+      "name_overpass": "Pasajul Unirii",
+      "name_tomtom": "Pasajul Unirii",
+      "id_tomtom": "4672c34d-a30d-495b-b1fa-9102b6ac918b"
+    },
+    {
+      "id_road": "53ea95dc-938f-49d2-924c-04887a706eec",
+      "name_overpass": "Pasajul Victoria",
+      "name_tomtom": "Bulevardul Iancu de Hunedoara",
+      "id_tomtom": "96b430c0-3811-44c4-9184-20ee3a3da527"
+    },
+    {
+      "id_road": "61ea0640-70db-49c6-a82e-99d699948e53",
+      "name_overpass": "Piața Alba Iulia",
+      "name_tomtom": "Piața Alba Iulia",
+      "id_tomtom": "4476240a-9a37-4c0f-8331-12b0b5559002"
+    },
+    {
+      "id_road": "bc9a28f6-9afb-490b-8328-8076749d342c",
+      "name_overpass": "Piața Alexandru Lahovari",
+      "name_tomtom": "Piața Alexandru Lahovary",
+      "id_tomtom": "599fb493-4ccc-4278-845d-a9e452498cf7"
+    },
+    {
+      "id_road": "ebd0e3f0-cdd8-4e35-8ddc-7460704e2ad0",
+      "name_overpass": "Piața Arcul de Triumf",
+      "name_tomtom": "Piața Ion I. C. Brătianu-Arcul de Triumf",
+      "id_tomtom": "ccc21477-1356-44bd-9ba9-c1d551574165"
+    },
+    {
+      "id_road": "967dc691-52e0-42e5-8185-440bcb4e14bb",
+      "name_overpass": "Piața Arsenalului",
+      "name_tomtom": "Piața Arsenalului",
+      "id_tomtom": "1c842e55-b5db-4afd-b62d-827613acf9ba"
+    },
+    {
+      "id_road": "0a5d5332-966b-4dba-8781-158365463125",
+      "name_overpass": "Piața Aviatorilor",
+      "name_tomtom": "Bulevardul Aviatorilor",
+      "id_tomtom": "8710769f-49f7-4ebb-9045-042bfadb739d"
+    },
+    {
+      "id_road": "ba4414fc-3785-4b1c-9822-96331b093029",
+      "name_overpass": "Piața Baba Novac",
+      "name_tomtom": "Strada Baba Novac",
+      "id_tomtom": "af8cd371-12fb-4f89-af01-dd6fbbed3adb"
+    },
+    {
+      "id_road": "6105980a-77ef-4905-8e1d-63c59a36361b",
+      "name_overpass": "Piața C. A. Rosetti",
+      "name_tomtom": "Piața C. A. Rosetti",
+      "id_tomtom": "98215bfe-cdb6-403c-97fc-d7d48b3aa1c7"
+    },
+    {
+      "id_road": "f1949692-b724-47a7-b772-1398bbc76bb1",
+      "name_overpass": "Piața Cantacuzino",
+      "name_tomtom": "Piața Gheorghe Cantacuzino",
+      "id_tomtom": "7eb3c166-e981-467e-ad68-994cceba65c5"
+    },
+    {
+      "id_road": "2c73e43d-dbe9-4283-8545-f6226bc78ee2",
+      "name_overpass": "Piața Charles de Gaulle",
+      "name_tomtom": "Piața Charles de Gaulle",
+      "id_tomtom": "40db1a2c-ce15-43b1-96ff-adef0ea541e2"
+    },
+    {
+      "id_road": "f9d1d26a-089e-44c9-9e44-47426c17cb65",
+      "name_overpass": "Piața Constituției",
+      "name_tomtom": "Piața Constituției",
+      "id_tomtom": "b5473265-11a9-47f9-83fc-429dc0c84e1c"
+    },
+    {
+      "id_road": "4900ca49-48d4-47c7-be94-ed57cffead21",
+      "name_overpass": "Piața Danny Huwé",
+      "name_tomtom": "Strada Progresului",
+      "id_tomtom": "6832e48a-5e70-4891-bb5b-281ceaac7ebf"
+    },
+    {
+      "id_road": "b5ff3724-fdd0-426d-8aa7-64bc53ea08ee",
+      "name_overpass": "Piața Delfinului",
+      "name_tomtom": "Bulevardul Chișinău",
+      "id_tomtom": "ebb029db-ed63-4638-bdc6-b2ed00334960"
+    },
+    {
+      "id_road": "8a5c55b6-ece0-4541-aad5-d2a6d79d9cd2",
+      "name_overpass": "Piața Dorobanților",
+      "name_tomtom": "Calea Dorobanților",
+      "id_tomtom": "89272df0-e432-4278-9298-84a671b00d57"
+    },
+    {
+      "id_road": "481e612f-1f63-40e4-8ba2-3cb7f5c7b1af",
+      "name_overpass": "Piața Eroii Revoluției",
+      "name_tomtom": "Piața Revoluției",
+      "id_tomtom": "951779c2-dd2c-4a7d-9b17-f39d0ab6569c"
+    },
+    {
+      "id_road": "9e5cd50c-e715-4629-a783-382ef5259c85",
+      "name_overpass": "Piața Eroilor",
+      "name_tomtom": "Piața Eroilor",
+      "id_tomtom": "506af756-274a-4752-ae0f-d672e20c51ba"
+    },
+    {
+      "id_road": "c2dfa025-f9fe-4c1a-9b80-32fff91c9cb3",
+      "name_overpass": "Piața Eudoxiu de Hurmuzachi",
+      "name_tomtom": "Piața Eudoxiu Hurmuzachi",
+      "id_tomtom": "ce38cf7b-61e9-4e15-a5db-cf6eae4a19f3"
+    },
+    {
+      "id_road": "3cc84c9f-6cfc-4786-bb64-a35fe520b1e5",
+      "name_overpass": "Piața Foișorul de Foc",
+      "name_tomtom": "Strada Traian",
+      "id_tomtom": "5d231c72-317e-4cd0-b2c2-d6f1c04ba10b"
+    },
+    {
+      "id_road": "73d77be9-cb8b-41b1-aaba-60142898e9ea",
+      "name_overpass": "Piața Gării de Nord",
+      "name_tomtom": "Piața Gării de Nord",
+      "id_tomtom": "b2efd2e8-2ecf-4457-8148-0ac363dc1523"
+    },
+    {
+      "id_road": "b83a57c4-b65b-4a1a-868c-f39272ec4c8a",
+      "name_overpass": "Piața Iancului",
+      "name_tomtom": "Șoseaua Mihai Bravu",
+      "id_tomtom": "565d3a78-4528-47f4-ab4c-135f0bf86f1b"
+    },
+    {
+      "id_road": "376d49d4-8fd3-497f-9272-d296124c9489",
+      "name_overpass": "Piața Ion Maier",
+      "name_tomtom": "Piața Ion Maier",
+      "id_tomtom": "d7012f44-ed37-4a2e-8218-a5ca0131cf33"
+    },
+    {
+      "id_road": "d6bc556d-9430-425c-a001-6e8cceb16bd2",
+      "name_overpass": "Piața Jose Rizal",
+      "name_tomtom": "Calea 13 Septembrie",
+      "id_tomtom": "112cb336-9484-41d0-8728-baf105e1f8e4"
+    },
+    {
+      "id_road": "2d8d7a64-afc1-472a-8719-44356162f754",
+      "name_overpass": "Piața Libertății",
+      "name_tomtom": "Bulevardul Mărășești",
+      "id_tomtom": "b8fb4aed-bf81-4abf-aa67-5ac438a7ae8b"
+    },
+    {
+      "id_road": "3f12805c-9cd2-43e8-8349-f3510b4bbeec",
+      "name_overpass": "Piața Mihail Kogălniceanu",
+      "name_tomtom": "Piața Mihail Kogălniceanu",
+      "id_tomtom": "ef45ebcd-a6cc-4fe8-ab8e-a84696a1c448"
+    },
+    {
+      "id_road": "c1a867ca-1738-4f41-a512-bf689350e4d4",
+      "name_overpass": "Piața Montreal",
+      "name_tomtom": "Piața Montreal",
+      "id_tomtom": "8dd0f4df-6082-42f1-b3f2-929df8159e05"
+    },
+    {
+      "id_road": "c1d520e6-460e-49d3-80d0-3f1278e4330d",
+      "name_overpass": "Piața Morii",
+      "name_tomtom": "Strada Piatra Morii",
+      "id_tomtom": "fa54893e-9e7f-4be9-aed8-d2991aa757e3"
+    },
+    {
+      "id_road": "51e2c450-5fc6-4cf8-81aa-84637e5b998f",
+      "name_overpass": "Piața Muncii",
+      "name_tomtom": "Pasajul Piața Muncii",
+      "id_tomtom": "ccda0e2e-cb62-4675-8a13-03ba622d721b"
+    },
+    {
+      "id_road": "c480ee48-003b-4ed2-9730-a67482a142ce",
+      "name_overpass": "Piața Națiunile Unite",
+      "name_tomtom": "Piața Națiunile Unite",
+      "id_tomtom": "39acd4c6-d83b-47f7-aef3-4ba26afa602a"
+    },
+    {
+      "id_road": "4438a7de-3837-48c3-9f6f-b7f769f505cd",
+      "name_overpass": "Piața New Delhi",
+      "name_tomtom": "Bulevardul Națiunile Unite",
+      "id_tomtom": "1f0557ee-8146-4626-8ff4-dcd86a1c15e5"
+    },
+    {
+      "id_road": "ca2a2df0-07b1-4dc1-8f4a-abe4d2af5d86",
+      "name_overpass": "Piața Obor",
+      "name_tomtom": "Șoseaua Colentina",
+      "id_tomtom": "7fda6757-26d3-438d-a2ec-ee6d3f4e9df3"
+    },
+    {
+      "id_road": "6f6a1444-dcba-4441-9de6-dabb2ab7e052",
+      "name_overpass": "Piața Operei",
+      "name_tomtom": "Splaiul Independenței",
+      "id_tomtom": "b037e5ed-1e7f-4524-b81b-aebd10d03857"
+    },
+    {
+      "id_road": "e64401d8-a064-47b8-bbd9-810af36d0765",
+      "name_overpass": "Piața Pache Protopopescu",
+      "name_tomtom": "Piața Pache Protopopescu",
+      "id_tomtom": "8087193d-fd97-434d-92d6-b1760e5608bd"
+    },
+    {
+      "id_road": "efb557f9-7c14-4a39-8edc-23a6319faafb",
+      "name_overpass": "Piața Presei Libere",
+      "name_tomtom": "Piața Presei Libere",
+      "id_tomtom": "0106056a-3ea4-4fab-8b3c-150eabc606cd"
+    },
+    {
+      "id_road": "f07b97e3-cb6c-4854-8241-a0175a7298b9",
+      "name_overpass": "Piața Regina Maria",
+      "name_tomtom": "Piața Regina Maria",
+      "id_tomtom": "2c798b31-d984-437a-9451-8c63d9ada216"
+    },
+    {
+      "id_road": "c5f2a28c-471a-4081-9da3-c6d40b4530d8",
+      "name_overpass": "Piața Romană",
+      "name_tomtom": "Piața Romană",
+      "id_tomtom": "70fe8323-c353-466f-89df-7d287cd4df50"
+    },
+    {
+      "id_road": "ca8b25d8-85c6-4365-906a-b2f904c9c08e",
+      "name_overpass": "Piața Rosetti",
+      "name_tomtom": "Piața C. A. Rosetti",
+      "id_tomtom": "98215bfe-cdb6-403c-97fc-d7d48b3aa1c7"
+    },
+    {
+      "id_road": "6ea37618-3041-4cbd-a9b5-371c3872b8e3",
+      "name_overpass": "Piața Traian",
+      "name_tomtom": "Strada Traian",
+      "id_tomtom": "5d231c72-317e-4cd0-b2c2-d6f1c04ba10b"
+    },
+    {
+      "id_road": "198b7335-d324-4f84-9c0a-8a58fd7137bb",
+      "name_overpass": "Piața Unirii",
+      "name_tomtom": "Bulevardul Unirii",
+      "id_tomtom": "7a09419a-b3a1-4cb8-9563-c92f089993d1"
+    },
+    {
+      "id_road": "ab5c5135-b01b-4991-aa70-1e5256046ef5",
+      "name_overpass": "Piața Universității",
+      "name_tomtom": "Piața Universității",
+      "id_tomtom": "0a7b92d9-6548-489a-a293-6c8d3619eed2"
+    },
+    {
+      "id_road": "2fdb446b-9cb7-4373-ab71-b6a82b9093b9",
+      "name_overpass": "Piața Victor Babeș",
+      "name_tomtom": "Piața Profesor Doctor Victor Babeș",
+      "id_tomtom": "401a0507-582b-470c-a3c9-bd16d53ea4f1"
+    },
+    {
+      "id_road": "dae93ad5-ffdc-43a5-b71d-420d6dcef8c7",
+      "name_overpass": "Piața Victoriei",
+      "name_tomtom": "Piața Victoriei",
+      "id_tomtom": "bc7ae540-f6b5-4229-bcd2-09b0fcb473f5"
+    },
+    {
+      "id_road": "6ab9b5c0-7046-4f20-b54e-ff9fe0bac8a1",
+      "name_overpass": "Pod Lunca Priporului",
+      "name_tomtom": "Splaiul Unirii",
+      "id_tomtom": "1062a458-3f46-491d-bb52-faa4069ddec3"
+    },
+    {
+      "id_road": "26c10b1c-abf4-427f-ba49-66f98191244f",
+      "name_overpass": "Pod Teclu",
+      "name_tomtom": "Strada Nicolae Teclu",
+      "id_tomtom": "9d5829b6-fb8d-4f70-9f81-6f4178ef5f5c"
+    },
+    {
+      "id_road": "18a93708-74ed-4975-bb77-6d3dfed0fe6a",
+      "name_overpass": "Podul Barbu Văcărescu",
+      "name_tomtom": "Strada Barbu Văcărescu",
+      "id_tomtom": "213afe8a-6d1b-437e-b592-37a641651d80"
+    },
+    {
+      "id_road": "1f931ee2-868e-4a79-87db-474303e5be47",
+      "name_overpass": "Podul Ciurel",
+      "name_tomtom": "Splaiul Independenței",
+      "id_tomtom": "b037e5ed-1e7f-4524-b81b-aebd10d03857"
+    },
+    {
+      "id_road": "35d5b74a-c890-4bb6-9051-0002f2e3fc7d",
+      "name_overpass": "Podul Cotroceni",
+      "name_tomtom": "Podul Cotroceni",
+      "id_tomtom": "1373e5bb-040c-4b41-a6a2-b357b10f5c94"
+    },
+    {
+      "id_road": "02db1e06-b285-4732-94c5-5a4bf211ce28",
+      "name_overpass": "Podul Eroilor",
+      "name_tomtom": "Podul Eroilor",
+      "id_tomtom": "42e80ed3-1026-40eb-b706-25c1b67d0cc4"
+    },
+    {
+      "id_road": "7b9ab486-c09c-4232-8a43-7934a2a27298",
+      "name_overpass": "Podul Grant",
+      "name_tomtom": "Podul Grant",
+      "id_tomtom": "4ffea96d-3863-4092-82df-962125042485"
+    },
+    {
+      "id_road": "7f6d13be-c2b4-4359-8c76-dfd7c57e4904",
+      "name_overpass": "Podul Grozăvești",
+      "name_tomtom": "Podul Grozăvești",
+      "id_tomtom": "be8b65f8-d5c9-4a09-8d21-8c4e75139b4a"
+    },
+    {
+      "id_road": "38ec090c-a062-4340-ac1e-6b53185b7211",
+      "name_overpass": "Podul Hașdeu",
+      "name_tomtom": "Podul Hașdeu",
+      "id_tomtom": "969181d1-6847-4052-84ce-0140c4e0bf3e"
+    },
+    {
+      "id_road": "93bfc9af-2325-4bce-8e2a-9f63466edbc0",
+      "name_overpass": "Podul Izvor",
+      "name_tomtom": "Podul Izvor",
+      "id_tomtom": "29857f05-7d76-4ee5-bd05-23d5501658bc"
+    },
+    {
+      "id_road": "9e25ed4f-10a4-4c97-8b49-ea54facd99c1",
+      "name_overpass": "Podul Mărășești",
+      "name_tomtom": "Podul Mărășești",
+      "id_tomtom": "3859dae8-1e8b-4e15-a9cf-c8ff6be404cf"
+    },
+    {
+      "id_road": "f5c7b384-d569-43fe-9896-c3b88b0f951a",
+      "name_overpass": "Podul Mihai Bravu",
+      "name_tomtom": "Podul Mihai Bravu",
+      "id_tomtom": "bce7f54d-8266-4dc0-940d-295eb1d50080"
+    },
+    {
+      "id_road": "94bfacf5-ffe6-434f-be7f-53d2f2ffe969",
+      "name_overpass": "Podul Națiunile Unite",
+      "name_tomtom": "Bulevardul Națiunile Unite",
+      "id_tomtom": "1f0557ee-8146-4626-8ff4-dcd86a1c15e5"
+    },
+    {
+      "id_road": "4d38b9d5-1740-4836-9ab9-d1a54ae4fe5a",
+      "name_overpass": "Podul Nicolae Grigorescu",
+      "name_tomtom": "Bulevardul Nicolae Grigorescu",
+      "id_tomtom": "e156a382-67e4-4b12-9aa3-14680b95fbc6"
+    },
+    {
+      "id_road": "4b34744d-2a3c-4c6d-ba6f-bcca043610fe",
+      "name_overpass": "Podul Pipera",
+      "name_tomtom": "Șoseaua Pipera",
+      "id_tomtom": "30b5c74a-a581-40e2-8ec4-026ff1dfb5c1"
+    },
+    {
+      "id_road": "b2c4353d-5fd0-4009-8883-d278740a2898",
+      "name_overpass": "Podul Timpuri Noi",
+      "name_tomtom": "Podul Timpuri Noi",
+      "id_tomtom": "b2aa5411-f905-45a9-b58d-9da89b69cafd"
+    },
+    {
+      "id_road": "db519d76-87e7-4e88-bac8-1a70eb61de44",
+      "name_overpass": "Podul Vitan-Bârzești",
+      "name_tomtom": "Podul Vitan",
+      "id_tomtom": "b3b032bb-96c0-4d8c-bbcc-0cb4fcc330e7"
+    },
+    {
+      "id_road": "02eb7569-c808-4a0d-bfce-c7bd0f84f8ce",
+      "name_overpass": "Prelungirea Ferentari",
+      "name_tomtom": "Prelungirea Ferentari",
+      "id_tomtom": "664dbc02-d020-4207-a912-2d0334d0c080"
+    },
+    {
+      "id_road": "44e9c026-5c3a-42d7-88b2-d8d50754f96a",
+      "name_overpass": "Prelungirea Ghencea",
+      "name_tomtom": "Prelungirea Ghencea",
+      "id_tomtom": "e81b9d56-4e4a-420b-9e24-2d917df31b3c"
+    },
+    {
+      "id_road": "f67bfed5-ca3e-4546-8da4-317ac0996e0d",
+      "name_overpass": "Splaiul Independenței",
+      "name_tomtom": "Splaiul Independenței",
+      "id_tomtom": "b037e5ed-1e7f-4524-b81b-aebd10d03857"
+    },
+    {
+      "id_road": "8f37c1fe-3777-4616-be00-42f024addaa7",
+      "name_overpass": "Splaiul Unirii",
+      "name_tomtom": "Splaiul Unirii",
+      "id_tomtom": "1062a458-3f46-491d-bb52-faa4069ddec3"
+    },
+    {
+      "id_road": "54835908-9427-43e4-bd81-dfd39132a3c0",
+      "name_overpass": "Strada 11 Iunie",
+      "name_tomtom": "Strada 11 Iunie",
+      "id_tomtom": "ba4c7ccb-ec4a-477e-a912-bb2a6dd07faa"
+    },
+    {
+      "id_road": "a0f70922-5d02-46ad-a13b-a5da1990da5c",
+      "name_overpass": "Strada Agatha Bârsescu",
+      "name_tomtom": "Strada Agatha Bârsescu",
+      "id_tomtom": "91db7b53-4ad6-4741-9d63-f43bf0fce705"
+    },
+    {
+      "id_road": "ef2372ac-8e72-4aa2-8ee4-7e31ca332729",
+      "name_overpass": "Strada Agricultori",
+      "name_tomtom": "Strada Agricultori",
+      "id_tomtom": "05fc83ea-76af-4732-a80b-4d86a7d62adb"
+    },
+    {
+      "id_road": "2000b870-6419-487b-9963-0e9da2d57587",
+      "name_overpass": "Strada Alecu Russo",
+      "name_tomtom": "Strada Alecu Russo",
+      "id_tomtom": "b2853509-3bef-4768-9d48-85ea067f5a2b"
+    },
+    {
+      "id_road": "8c5434bb-c84e-4158-b34c-aea28ff48c2d",
+      "name_overpass": "Strada Alexandru Anghel",
+      "name_tomtom": "Strada Alexandru Anghel",
+      "id_tomtom": "7c848948-2923-4fc2-9c5a-c0b4960d9e33"
+    },
+    {
+      "id_road": "01dae6fa-4e67-4a6e-8bb7-deb0173f08c7",
+      "name_overpass": "Strada Alexandru Constantinescu",
+      "name_tomtom": "Strada Alexandru Constantinescu",
+      "id_tomtom": "8a14bab6-01fc-4860-9d90-5cd9a4905114"
+    },
+    {
+      "id_road": "2363f452-28c4-4825-a512-e65d412f7fa0",
+      "name_overpass": "Strada Alunișului",
+      "name_tomtom": "Strada Alunișului",
+      "id_tomtom": "25b633a7-2f0b-4eb5-bf27-0cee7c22a688"
+    },
+    {
+      "id_road": "342aaa06-4221-4b32-ae54-66d402b2a24a",
+      "name_overpass": "Strada Amurgului",
+      "name_tomtom": "Strada Amurgului",
+      "id_tomtom": "31d06b8e-4c97-4459-9c7b-91dfb59ad778"
+    },
+    {
+      "id_road": "3fbc506d-0eed-41b6-8076-bd4c95feb118",
+      "name_overpass": "Strada Anastasie Panu",
+      "name_tomtom": "Strada Anastasie Panu",
+      "id_tomtom": "f9792a14-dde0-47a6-bf61-d8c385aa5fc9"
+    },
+    {
+      "id_road": "329b2cfa-ea6d-449a-9c43-86f4ffd4d5d8",
+      "name_overpass": "Strada Apusului",
+      "name_tomtom": "Strada Apusului",
+      "id_tomtom": "0abb8f6c-8a19-4721-925b-0482329ffa11"
+    },
+    {
+      "id_road": "94f08065-446f-47a2-9ecb-33477bcfb64e",
+      "name_overpass": "Strada Arhitect Ion Mincu",
+      "name_tomtom": "Strada Arhitect Ion Mincu",
+      "id_tomtom": "7bd7ea7d-f1fb-4ab2-9b93-b35dc8c9c22e"
+    },
+    {
+      "id_road": "e50c916c-d5ab-4dcd-a721-c1eeffbae95f",
+      "name_overpass": "Strada Armand Călinescu",
+      "name_tomtom": "Strada Armand Călinescu",
+      "id_tomtom": "d0cea45d-9472-43fb-b2fa-d4cfcb348485"
+    },
+    {
+      "id_road": "9b9832d6-96bd-484d-b841-def670c981a4",
+      "name_overpass": "Strada Arthur Gorovei",
+      "name_tomtom": "Strada Artur Gorovei",
+      "id_tomtom": "1dcd8a84-2be4-41fd-a65e-844f8dbce169"
+    },
+    {
+      "id_road": "d92ebf02-fad2-4f9a-a8aa-de311f2d736f",
+      "name_overpass": "Strada Aviator Popișteanu",
+      "name_tomtom": "Strada Popișteanu",
+      "id_tomtom": "0c05cd02-baf3-4a1f-b463-3018f751ac9b"
+    },
+    {
+      "id_road": "8cc1a4d4-94ed-4526-8808-8ecb7949bc04",
+      "name_overpass": "Strada Avionului",
+      "name_tomtom": "Strada Avionului",
+      "id_tomtom": "a1c772b3-f715-4a65-8049-6c25070819f0"
+    },
+    {
+      "id_road": "855fdfe0-409d-4fd5-a34f-34ab0039a181",
+      "name_overpass": "Strada Avrig",
+      "name_tomtom": "Strada Avrig",
+      "id_tomtom": "83096d57-7b7f-4c60-b646-67ff72aedf37"
+    },
+    {
+      "id_road": "ad01c784-5465-4bf6-85ed-e95103f8e32c",
+      "name_overpass": "Strada Baba Novac",
+      "name_tomtom": "Strada Baba Novac",
+      "id_tomtom": "af8cd371-12fb-4f89-af01-dd6fbbed3adb"
+    },
+    {
+      "id_road": "073994da-9e78-4653-97bc-fa50d0cd7d6d",
+      "name_overpass": "Strada Bacău",
+      "name_tomtom": "Strada Bacău",
+      "id_tomtom": "30a84271-75d0-4147-a0ee-0edaa454c5d2"
+    },
+    {
+      "id_road": "89bd5fe8-9eaf-470e-9621-3037ca9a05de",
+      "name_overpass": "Strada Bachus",
+      "name_tomtom": "Strada Bachus",
+      "id_tomtom": "ed30f258-6550-4667-a3c9-1d55423452c9"
+    },
+    {
+      "id_road": "61d984d9-320e-4260-b90d-4d1b6adf9fa5",
+      "name_overpass": "Strada Bagdasar Dumitru",
+      "name_tomtom": "Strada Doctor Dumitru Bagdasar",
+      "id_tomtom": "f11fe102-4d02-44bc-97c6-4dd501254c04"
+    },
+    {
+      "id_road": "13eedae0-9cf7-4fd2-921e-124340cc09b5",
+      "name_overpass": "Strada Baicului",
+      "name_tomtom": "Strada Baicului",
+      "id_tomtom": "8c7e1a05-a57b-403c-91ee-742e4c386fe4"
+    },
+    {
+      "id_road": "d0175e20-f706-4699-8c01-e8fe7c2f182e",
+      "name_overpass": "Strada Banul Udrea",
+      "name_tomtom": "Strada Banul Udrea",
+      "id_tomtom": "0cc65dd9-fbc1-4d8d-984b-1adccda44c55"
+    },
+    {
+      "id_road": "c1156467-5368-4949-98ee-f922cf3163db",
+      "name_overpass": "Strada Barbu Lăutaru",
+      "name_tomtom": "Strada Barbu Lăutaru",
+      "id_tomtom": "a7eb647d-b1af-4cff-bba6-f1a1f787043c"
+    },
+    {
+      "id_road": "8e4655d4-b2f8-42c7-bff7-ad897e4e5f04",
+      "name_overpass": "Strada Barbu Văcărescu",
+      "name_tomtom": "Strada Barbu Văcărescu",
+      "id_tomtom": "213afe8a-6d1b-437e-b592-37a641651d80"
+    },
+    {
+      "id_road": "de3a2dd4-ef76-48bf-8ae4-e1efbf5d29ba",
+      "name_overpass": "Strada Batiștei",
+      "name_tomtom": "Strada Batiște",
+      "id_tomtom": "be376ec3-4fb9-4b42-8358-d49a8765d531"
+    },
+    {
+      "id_road": "0a9a9a5c-5889-4090-ae5a-9c9bcad98489",
+      "name_overpass": "Strada Băiculești",
+      "name_tomtom": "Strada Băiculești",
+      "id_tomtom": "bd3b1ca1-064b-4138-89c1-ace55047a5d7"
+    },
+    {
+      "id_road": "624e2a54-e1a9-43ba-8cae-b5414347b71e",
+      "name_overpass": "Strada Bârcă",
+      "name_tomtom": "Strada Bârca",
+      "id_tomtom": "ba43dabe-0242-4a87-814e-4fe54275d3a3"
+    },
+    {
+      "id_road": "2a5e6c53-1ae6-4cad-8235-2df88df93062",
+      "name_overpass": "Strada Berzei",
+      "name_tomtom": "Strada Berzei",
+      "id_tomtom": "d72c8e6f-1584-4ab4-8ccb-73439ca45279"
+    },
+    {
+      "id_road": "5caa100d-d038-4097-84b1-035052be6b62",
+      "name_overpass": "Strada Bibescu Vodă",
+      "name_tomtom": "Strada Bibescu Vodă",
+      "id_tomtom": "6631d2dc-a161-4b49-8888-6344be6ee6d5"
+    },
+    {
+      "id_road": "90f9bc92-b575-41b4-9730-077334a20dc9",
+      "name_overpass": "Strada Biharia",
+      "name_tomtom": "Strada Biharia",
+      "id_tomtom": "5b4dd82b-d5f5-4a10-a53d-df2e437ebeac"
+    },
+    {
+      "id_road": "ffac9510-24da-449d-9183-d57ef1eb809d",
+      "name_overpass": "Strada Bogdan Petriceicu Hașdeu",
+      "name_tomtom": "Strada Bogdan Petriceicu Hașdeu",
+      "id_tomtom": "3647d9d1-d3e4-49ac-b5e0-f42c35a339b5"
+    },
+    {
+      "id_road": "58d81c8e-beab-4a07-bf7e-652a9f2c5db6",
+      "name_overpass": "Strada Boișoara",
+      "name_tomtom": "Strada Boișoara",
+      "id_tomtom": "8cd64c77-b353-459b-9490-8a38efab36de"
+    },
+    {
+      "id_road": "541e73a2-9ddd-4f54-afc2-01a4853a8221",
+      "name_overpass": "Strada Brașov",
+      "name_tomtom": "Strada Brașov",
+      "id_tomtom": "4022f522-5cbd-4e4a-a630-d45970e40c58"
+    },
+    {
+      "id_road": "9f745bc4-ca3a-4b9b-b0f6-05c3ac28cd63",
+      "name_overpass": "Strada Brăilița",
+      "name_tomtom": "Strada Brăilița",
+      "id_tomtom": "03e59735-2acc-47bb-b347-adcbc0f7da8e"
+    },
+    {
+      "id_road": "16c629df-962c-4a89-ad45-1d4def6d790e",
+      "name_overpass": "Strada Brândușelor",
+      "name_tomtom": "Strada Brândușelor",
+      "id_tomtom": "75047aad-c151-49eb-bb4e-f32565164552"
+    },
+    {
+      "id_road": "5bba4a33-d492-44e7-84e9-0f5b23e504c3",
+      "name_overpass": "Strada Breaza",
+      "name_tomtom": "Strada Breaza",
+      "id_tomtom": "68341704-2571-45a1-95c4-16c23bec140b"
+    },
+    {
+      "id_road": "2fa0088a-909c-49b6-9542-423931121124",
+      "name_overpass": "Strada Budilă",
+      "name_tomtom": "Strada Budila",
+      "id_tomtom": "d081f922-bce8-44c2-af96-35ba5e30eb2b"
+    },
+    {
+      "id_road": "3b86f038-1f50-446b-905c-6e1cc323b41e",
+      "name_overpass": "Strada Butuceni",
+      "name_tomtom": "Strada Butuceni",
+      "id_tomtom": "a5894d03-1fd7-4789-9397-eb8ed06b5760"
+    },
+    {
+      "id_road": "e166530d-dd53-48bd-9804-fcd05254c347",
+      "name_overpass": "Strada Buzești",
+      "name_tomtom": "Strada Buzești",
+      "id_tomtom": "c158c345-299b-4481-af62-b9bcfda91198"
+    },
+    {
+      "id_road": "981da918-d32d-4d93-85a9-8cba34a6cd2a",
+      "name_overpass": "Strada Buzoieni",
+      "name_tomtom": "Strada Buzoieni",
+      "id_tomtom": "26dcd608-2b46-4598-97f1-4d223c1c53fd"
+    },
+    {
+      "id_road": "c202174d-cad3-4227-9d12-61e1c7427e62",
+      "name_overpass": "Strada C. A. Rosetti",
+      "name_tomtom": "Strada C. A. Rosetti",
+      "id_tomtom": "5c1197d2-c747-433e-85c2-2177cdcad82e"
+    },
+    {
+      "id_road": "0176dd22-d725-4333-9dd4-1f92dd115ef0",
+      "name_overpass": "Strada Caporal Preda",
+      "name_tomtom": "Strada Caporal Preda",
+      "id_tomtom": "51f82836-360e-4587-8c1f-acf2d31c7251"
+    },
+    {
+      "id_road": "947f3f5d-2c3b-4965-8f1b-5d8230793de0",
+      "name_overpass": "Strada Caraiman",
+      "name_tomtom": "Strada Caraiman",
+      "id_tomtom": "1e5c344a-8863-4435-bf10-a69ceff89279"
+    },
+    {
+      "id_road": "c75470db-ece0-4481-b2b1-6bcadcc85106",
+      "name_overpass": "Strada Căderea Bastiliei",
+      "name_tomtom": "Strada Căderea Bastiliei",
+      "id_tomtom": "8533c839-dc91-4a86-a3d6-0a2dbcd59a92"
+    },
+    {
+      "id_road": "cccbdf84-c9d5-43ee-966b-1c5d77a512f1",
+      "name_overpass": "Strada Căpitan Aviator Alexandru Șerbănescu",
+      "name_tomtom": "Strada Căpitan Aviator Alexandru Șerbănescu",
+      "id_tomtom": "fa054962-c427-4305-a16d-0f0db31ab7ca"
+    },
+    {
+      "id_road": "3aaf7340-385b-4f8f-84c1-b52824aed8dd",
+      "name_overpass": "Strada Cărăușilor",
+      "name_tomtom": "Strada Cărăușilor",
+      "id_tomtom": "72871ee8-48b8-400c-956b-8a230a7b087b"
+    },
+    {
+      "id_road": "58c732b0-7a11-4154-b0a5-3c5c4f738bf1",
+      "name_overpass": "Strada Câmpia Libertății",
+      "name_tomtom": "Strada Câmpia Libertății",
+      "id_tomtom": "662ffa16-5a32-4769-9f1c-7ff3488496be"
+    },
+    {
+      "id_road": "62d064c6-c3e6-4397-a80d-909fc74874b8",
+      "name_overpass": "Strada Câmpul cu Narcise",
+      "name_tomtom": "Strada Câmpul cu Narcise",
+      "id_tomtom": "20323cb7-e5b6-41a6-a3d4-cdd6475c4807"
+    },
+    {
+      "id_road": "b342ed0a-fc82-48ab-b47d-5c7371589d1d",
+      "name_overpass": "Strada Câmpul Mare",
+      "name_tomtom": "Strada Câmpul Mare",
+      "id_tomtom": "af7acf6d-6978-4e59-ada3-8a16e37e86a9"
+    },
+    {
+      "id_road": "10534ef8-9c54-4767-902b-78a40e4324ae",
+      "name_overpass": "Strada Cârlibaba",
+      "name_tomtom": "Strada Cârlibaba",
+      "id_tomtom": "7ce9d008-0244-4255-ab1f-e9fd440a1b66"
+    },
+    {
+      "id_road": "1b6a751e-0f7c-4714-9307-d00f8e3be6b7",
+      "name_overpass": "Strada Ceahlăul",
+      "name_tomtom": "Strada Ceahlăul",
+      "id_tomtom": "dbdacebc-3aa9-4217-85d1-2656d4e94bd2"
+    },
+    {
+      "id_road": "741a00a1-017d-42a1-9363-5157bae6d332",
+      "name_overpass": "Strada Cetatea Histria",
+      "name_tomtom": "Strada Cetatea Histria",
+      "id_tomtom": "8016dc73-337f-4b77-868c-3a1f84b91e2d"
+    },
+    {
+      "id_road": "61efa44e-c477-454d-878b-cf5109c9a90a",
+      "name_overpass": "Strada Chimirului",
+      "name_tomtom": "Strada Chimirului",
+      "id_tomtom": "62e1e991-3f60-44d0-9153-dade445dea09"
+    },
+    {
+      "id_road": "12af9cf0-719a-4487-8366-52b8f5200b04",
+      "name_overpass": "Strada Chișcani",
+      "name_tomtom": "Strada Chișcani",
+      "id_tomtom": "575a56bc-3b99-479a-8c28-8dc9f7bcea6f"
+    },
+    {
+      "id_road": "1b9227a0-13f2-49ae-aafb-56fbf4452404",
+      "name_overpass": "Strada Clucerului",
+      "name_tomtom": "Strada Clucerului",
+      "id_tomtom": "c7d1f864-2917-41f8-afc4-4142b949df14"
+    },
+    {
+      "id_road": "166ae16c-25b5-401f-b10e-d053162a4772",
+      "name_overpass": "Strada Comandor Eugen Botez",
+      "name_tomtom": "Strada Comandor Eugen Botez",
+      "id_tomtom": "21058ede-6f75-48b1-b7c8-7a97e38fc8b3"
+    },
+    {
+      "id_road": "0e685236-88cb-4019-92d9-bd015109fba4",
+      "name_overpass": "Strada Constantin Brâncuși",
+      "name_tomtom": "Strada Constantin Brâncuși",
+      "id_tomtom": "c654fcf3-6aaa-42aa-ad66-d4cbd036439d"
+    },
+    {
+      "id_road": "81472a1a-dce9-48e0-8111-76c2fa71ea66",
+      "name_overpass": "Strada Constantin Noica",
+      "name_tomtom": "Strada Constantin Noica",
+      "id_tomtom": "a6c45bed-04c7-41be-b9ca-b48f7d621191"
+    },
+    {
+      "id_road": "b7044439-7378-4d12-840a-3552d922e180",
+      "name_overpass": "Strada Constantin Titel Petrescu",
+      "name_tomtom": "Strada Constantin Titel Petrescu",
+      "id_tomtom": "d9a0e07d-04d3-40f7-9d08-c355d01d4697"
+    },
+    {
+      "id_road": "02f2494c-8e73-4b13-89ec-f362134aab2b",
+      "name_overpass": "Strada Coralilor",
+      "name_tomtom": "Strada Coralilor",
+      "id_tomtom": "bfa3de2e-7266-4c44-ba90-570efa9d942e"
+    },
+    {
+      "id_road": "2d7392d5-d817-4de9-8897-f49aabee20cd",
+      "name_overpass": "Strada Costache Conachi",
+      "name_tomtom": "Strada Costache Conachi",
+      "id_tomtom": "3e360c3b-40be-4a90-88cb-789a99f6666f"
+    },
+    {
+      "id_road": "8569c6d1-c599-4879-a4a1-be888638a8dd",
+      "name_overpass": "Strada Cuțitul de Argint",
+      "name_tomtom": "Strada Cuțitul de Argint",
+      "id_tomtom": "35d71a5d-d49c-41d0-a16d-11de626559c9"
+    },
+    {
+      "id_road": "72f1c294-098e-45fe-9655-4b800c6547d8",
+      "name_overpass": "Strada Dantelei",
+      "name_tomtom": "Strada Dantelei",
+      "id_tomtom": "7f0ea383-9bba-4ba6-8180-bfdb914133d6"
+    },
+    {
+      "id_road": "c75094bb-fafc-44f9-a1c0-d966f0ae3291",
+      "name_overpass": "Strada Dâmbovița",
+      "name_tomtom": "Strada Dâmbovița",
+      "id_tomtom": "c2035742-d0b0-4f5c-a6b5-2c6f89458db0"
+    },
+    {
+      "id_road": "5643d880-58e1-4a68-92a6-f432693bcddc",
+      "name_overpass": "Strada Delea Nouă",
+      "name_tomtom": "Strada Delea Nouă",
+      "id_tomtom": "74576965-5eb5-40a9-8295-43779319e46f"
+    },
+    {
+      "id_road": "c5ccafef-d43e-4363-9dab-f21d86f77aa1",
+      "name_overpass": "Strada Delea Veche",
+      "name_tomtom": "Strada Delea Veche",
+      "id_tomtom": "c42677b1-ab4d-480c-87b6-b96348fde36a"
+    },
+    {
+      "id_road": "55c49b3d-cd44-4c87-b170-894045ca75e8",
+      "name_overpass": "Strada Demetru Ion Dobrescu",
+      "name_tomtom": "Strada Demetru I. Dobrescu",
+      "id_tomtom": "1d4145af-43cf-4893-af77-bf5936045e32"
+    },
+    {
+      "id_road": "509c37c4-b4b2-4e57-b74c-a632006bcac9",
+      "name_overpass": "Strada Dezrobirii",
+      "name_tomtom": "Strada Dezrobirii",
+      "id_tomtom": "bb76e1d2-de99-4eac-a8ca-fc0dc9e27149"
+    },
+    {
+      "id_road": "7ac54549-1550-4985-b406-fe6f242cc934",
+      "name_overpass": "Strada Dianei",
+      "name_tomtom": "Strada Dianei",
+      "id_tomtom": "32437400-2d77-475c-830c-f403de4dc06e"
+    },
+    {
+      "id_road": "98e31023-cf09-4c3e-a55e-00876e6fac52",
+      "name_overpass": "Strada Dimitrie Onciul",
+      "name_tomtom": "Strada Dimitrie Onciu",
+      "id_tomtom": "de81d7b3-1337-4498-a67d-33251e238ead"
+    },
+    {
+      "id_road": "7c13d1d2-93ce-434d-85ce-dcf9eebe0238",
+      "name_overpass": "Strada Dionisie Lupu",
+      "name_tomtom": "Strada Dionisie Lupu",
+      "id_tomtom": "23157b87-9eb9-42d5-b1fe-460ff755eade"
+    },
+    {
+      "id_road": "325dd84f-e747-4fb6-b7c5-57f1f613758b",
+      "name_overpass": "Strada Doamna Ghica",
+      "name_tomtom": "Strada Doamna Ghica",
+      "id_tomtom": "0bd31c72-39ce-4c20-9469-778951da267c"
+    },
+    {
+      "id_road": "4c7001da-6d70-43ee-ad2e-e7c6a48640b6",
+      "name_overpass": "Strada Doctor Carol Davila",
+      "name_tomtom": "Strada Doctor Carol Davila",
+      "id_tomtom": "23ff7e2d-a7e4-439d-9e63-725cd442d1b1"
+    },
+    {
+      "id_road": "a4890456-5439-4ddf-ba07-e96f32994d6e",
+      "name_overpass": "Strada Doctor Constantin Istrati",
+      "name_tomtom": "Strada Doctor Constantin Istrati",
+      "id_tomtom": "8bb6c27c-4c04-4894-a46d-5cf2ba88b804"
+    },
+    {
+      "id_road": "c34253f8-9d17-4183-a37c-8a7dbd5f1441",
+      "name_overpass": "Strada Doctor Iacob Felix",
+      "name_tomtom": "Strada Doctor Iacob Felix",
+      "id_tomtom": "4f8b0a81-404f-440b-8075-e913258279a4"
+    },
+    {
+      "id_road": "90db3b91-d16a-4010-8353-31e7e07b1b35",
+      "name_overpass": "Strada Doctor Paleologu",
+      "name_tomtom": "Strada Doctor Paleologu",
+      "id_tomtom": "d0ab81b2-6e15-4ca9-9f9b-b45e94c47617"
+    },
+    {
+      "id_road": "b48184b7-6be7-47b8-8dec-9694daf15f65",
+      "name_overpass": "Strada Doctor Rainer Francisc Iosif",
+      "name_tomtom": "Strada Profesor Doctor Francisc Iosif Rainer",
+      "id_tomtom": "7b0b4aef-5665-4e14-a145-94d38868d9dc"
+    },
+    {
+      "id_road": "c833c97e-aa7b-4541-a80f-af513bb7f608",
+      "name_overpass": "Strada Doina",
+      "name_tomtom": "Strada Doina",
+      "id_tomtom": "79b6ac6c-9cdb-489b-944c-f4bbd2659971"
+    },
+    {
+      "id_road": "75f99349-f29b-4b89-9b34-b36535c38d8c",
+      "name_overpass": "Strada Dornei",
+      "name_tomtom": "Strada Dornei",
+      "id_tomtom": "1cdab48b-916d-4610-82a0-0b4640b12ab6"
+    },
+    {
+      "id_road": "22f60beb-3e65-4108-906d-8e3f1d2758bc",
+      "name_overpass": "Strada Dreptății",
+      "name_tomtom": "Strada Dreptății",
+      "id_tomtom": "efd22748-ee6b-4594-beba-d986f9790b2f"
+    },
+    {
+      "id_road": "46c3fe9b-a6da-485b-9c6a-30779285355c",
+      "name_overpass": "Strada Dridu",
+      "name_tomtom": "Strada Dridu",
+      "id_tomtom": "108b67e4-5e31-41d8-90ff-4f2a3151f44c"
+    },
+    {
+      "id_road": "683b2fe1-b5d1-41ed-b9cf-8406b865b0df",
+      "name_overpass": "Strada Dristorului",
+      "name_tomtom": "Strada Dristorului",
+      "id_tomtom": "a9f19043-4575-45f6-90ea-19268dc2a32d"
+    },
+    {
+      "id_road": "39062b49-5845-4385-9cd6-2671c5c271ad",
+      "name_overpass": "Strada Dumbrava Nouă",
+      "name_tomtom": "Strada Dumbrava Nouă",
+      "id_tomtom": "4f55711f-b4c0-4d22-bfed-d1f8e70fe92f"
+    },
+    {
+      "id_road": "0a89e542-d9d1-46cc-9854-aa4733180d50",
+      "name_overpass": "Strada Dumitru Slugeru",
+      "name_tomtom": "Strada Dumitru Slugeru",
+      "id_tomtom": "35451bab-2684-4264-bb23-744a1b62b629"
+    },
+    {
+      "id_road": "abcb662d-52f6-48d9-8948-4bf155743096",
+      "name_overpass": "Strada Elena Văcărescu",
+      "name_tomtom": "Strada Elena Văcărescu",
+      "id_tomtom": "01396f0e-184f-4b23-9e6e-26dad39e2f59"
+    },
+    {
+      "id_road": "aec995dd-7ab6-4846-9437-ca000fe50d61",
+      "name_overpass": "Strada Emil Racoviță",
+      "name_tomtom": "Strada Emil Racoviță",
+      "id_tomtom": "734c0b6d-6a09-44dd-98f9-5401629cea78"
+    },
+    {
+      "id_road": "990d12eb-b47f-4bd1-8905-f92618815968",
+      "name_overpass": "Strada Episcopiei",
+      "name_tomtom": "Strada Episcopiei",
+      "id_tomtom": "348a79c5-889f-4365-81b8-94bef0ba433a"
+    },
+    {
+      "id_road": "89d34466-01f1-492c-a895-91bcea4f5090",
+      "name_overpass": "Strada Eroina de la Jiu",
+      "name_tomtom": "Strada Eroina De La Jiu",
+      "id_tomtom": "6e69c2f7-5743-49ff-84e5-89355476a774"
+    },
+    {
+      "id_road": "9e69cbf7-1244-4808-8fe3-96ffd1c7a7cc",
+      "name_overpass": "Strada Erou Iancu Nicolae",
+      "name_tomtom": "Strada Erou Nicolae Iancu",
+      "id_tomtom": "fc15d6a1-688c-44eb-8402-d9665f5a1c43"
+    },
+    {
+      "id_road": "fd38b782-8bca-42b5-b70e-57d0ae1b1f1d",
+      "name_overpass": "Strada Fabrica de Chibrituri",
+      "name_tomtom": "Strada Fabrica de Chibrituri",
+      "id_tomtom": "6a4bf768-58ca-4487-8a9a-8085008873fc"
+    },
+    {
+      "id_road": "fe4d2c0a-caa0-4a8e-bb1a-0c7d3f25cb24",
+      "name_overpass": "Strada Fântânica",
+      "name_tomtom": "Strada Fântânica",
+      "id_tomtom": "2e025138-d7cf-4061-b419-8e572bb0cb6c"
+    },
+    {
+      "id_road": "a623b4d2-e599-450c-89bd-fb349151c3b3",
+      "name_overpass": "Strada Fizicienilor",
+      "name_tomtom": "Strada Fizicienilor",
+      "id_tomtom": "4a6ee478-667f-46a4-922b-0f5f02858e5c"
+    },
+    {
+      "id_road": "b8587e17-1868-42c3-b027-c879457d820c",
+      "name_overpass": "Strada Foișorului",
+      "name_tomtom": "Strada Foișorului",
+      "id_tomtom": "41539aa3-4c99-4afb-904f-91d323b83059"
+    },
+    {
+      "id_road": "34f6c97d-01f7-41db-83b1-7b3e237c175e",
+      "name_overpass": "Strada Freamătului",
+      "name_tomtom": "Strada Freamătului",
+      "id_tomtom": "f75459b0-ad0b-41f6-bfa6-75894e0adf98"
+    },
+    {
+      "id_road": "d22cbdb0-6b4b-4765-bb10-cd4521657d48",
+      "name_overpass": "Strada Frigului",
+      "name_tomtom": "Strada Frigului",
+      "id_tomtom": "77faf111-acb6-4271-a0bd-a881560a6302"
+    },
+    {
+      "id_road": "083fcb43-3f19-43ec-a178-f6bfe79b476a",
+      "name_overpass": "Strada Gara Herăstrău",
+      "name_tomtom": "Strada Gara Herăstrău",
+      "id_tomtom": "25d0f9d8-3f68-4b79-91d7-e3bfdd620900"
+    },
+    {
+      "id_road": "2d9226fe-aa26-4020-a61e-0089f859d080",
+      "name_overpass": "Strada Gării de Nord",
+      "name_tomtom": "Strada Gării de Nord",
+      "id_tomtom": "fde7b9e2-ae97-4a5b-8f02-0ddb1a942694"
+    },
+    {
+      "id_road": "c54c1d02-d21b-4045-82c6-589acf40d6f8",
+      "name_overpass": "Strada General Candiano Popescu",
+      "name_tomtom": "Strada General Candiano Popescu",
+      "id_tomtom": "a1d3f857-3b01-4dab-872b-4154583f3f4c"
+    },
+    {
+      "id_road": "cabac8c6-0108-4de7-91ea-d052f9586911",
+      "name_overpass": "Strada General Constantin Budișteanu",
+      "name_tomtom": "Strada General Constantin Budișteanu",
+      "id_tomtom": "bac63fbd-a4c5-4fe3-9ddc-fddd0e9981c8"
+    },
+    {
+      "id_road": "a690409b-8ef2-42b1-aee3-b2128804dbe6",
+      "name_overpass": "Strada General Gheorghe Manu",
+      "name_tomtom": "Strada General Gheorghe Manu",
+      "id_tomtom": "bd8b9cb0-ea29-4578-b9df-9ce746857f08"
+    },
+    {
+      "id_road": "83b2f15a-60d1-4a8e-ba33-5aceb570bab1",
+      "name_overpass": "Strada General Henri Mathias Berthelot",
+      "name_tomtom": "Strada General Henri Mathias Berthelot",
+      "id_tomtom": "19e1ea56-59cb-4dd8-9eec-74a3c79c64a8"
+    },
+    {
+      "id_road": "c39550cb-50cc-40b2-86f4-4ad008e31804",
+      "name_overpass": "Strada General Petre Popovăț",
+      "name_tomtom": "Strada General Petre Popovăț",
+      "id_tomtom": "272db447-7654-4863-b9d4-c9d9d457f36f"
+    },
+    {
+      "id_road": "00e39116-4f73-40fb-b20c-4df40e93205d",
+      "name_overpass": "Strada George Calboreanu",
+      "name_tomtom": "Strada George Calboreanu",
+      "id_tomtom": "7ed50a98-dc59-4476-93ff-7a5757dec005"
+    },
+    {
+      "id_road": "a02daf82-94eb-4d78-8137-6b572c94874b",
+      "name_overpass": "Strada George Constantinescu",
+      "name_tomtom": "Strada George Constantinescu",
+      "id_tomtom": "23f6ba44-36e0-47a0-be5a-c96bd83af068"
+    },
+    {
+      "id_road": "0c9b6de1-b6c1-4577-8dcf-0e331d1fe1f6",
+      "name_overpass": "Strada George Enescu",
+      "name_tomtom": "Strada George Enescu",
+      "id_tomtom": "31d3b830-a85f-4ca5-b28c-bab9401fd0c7"
+    },
+    {
+      "id_road": "9431810e-d08b-4dbb-a9a5-2e2e357e3008",
+      "name_overpass": "Strada George Mihai Zamfirescu",
+      "name_tomtom": "Strada George Mihai Zamfirescu",
+      "id_tomtom": "0227b82e-b3e4-476a-a654-b459d72ff5fb"
+    },
+    {
+      "id_road": "9a124499-933d-4da5-ab15-ed7b58fb673d",
+      "name_overpass": "Strada George Vâlsan",
+      "name_tomtom": "Strada George Vâlsan",
+      "id_tomtom": "ab5d4238-6967-45eb-ab25-2c3304ab97c8"
+    },
+    {
+      "id_road": "91b4058c-d761-4a9e-9157-b151899de451",
+      "name_overpass": "Strada Gheorghe Polizu",
+      "name_tomtom": "Strada Gheorghe Polizu",
+      "id_tomtom": "1ec43668-3dc2-4174-89d0-ba918ef41848"
+    },
+    {
+      "id_road": "1fe3881a-7c48-4e95-b74f-40cd892ec461",
+      "name_overpass": "Strada Gheorghe Țițeica",
+      "name_tomtom": "Strada Gheorghe Țițeica",
+      "id_tomtom": "4e36e119-0f17-43bc-86b3-9c1ef0ff317d"
+    },
+    {
+      "id_road": "dea45c22-9b47-4047-be30-539cea3ac3eb",
+      "name_overpass": "Strada Gherghiței",
+      "name_tomtom": "Strada Gherghiței",
+      "id_tomtom": "38468ae3-727b-4c47-b6d6-523e3a2162d9"
+    },
+    {
+      "id_road": "160278ac-6733-4dd7-9a9e-425b299c13ba",
+      "name_overpass": "Strada Ghidigeni",
+      "name_tomtom": "Strada Ghidigeni",
+      "id_tomtom": "f9644fcb-d144-44d9-9cb3-6736ee8c73f1"
+    },
+    {
+      "id_road": "9ac176cf-1f77-4e73-9dad-0fb6aa83d3df",
+      "name_overpass": "Strada Ghimpați",
+      "name_tomtom": "Strada Ghimpați",
+      "id_tomtom": "2604de79-b995-4af1-896b-0f33d73af8b9"
+    },
+    {
+      "id_road": "9d768004-a088-4681-89f2-91e4a0eb66a0",
+      "name_overpass": "Strada Ghirlandei",
+      "name_tomtom": "Strada Ghirlandei",
+      "id_tomtom": "6207b94b-303a-4207-abf0-cc95643fd560"
+    },
+    {
+      "id_road": "b7c31a03-974d-4eb8-8a68-f9f1d592bf23",
+      "name_overpass": "Strada Gramont",
+      "name_tomtom": "Strada Gramont",
+      "id_tomtom": "7c7b2182-9e33-4a56-a21b-29c523c98035"
+    },
+    {
+      "id_road": "f20686a8-78e2-4067-b750-62c5211bd324",
+      "name_overpass": "Strada Grădinarilor",
+      "name_tomtom": "Strada Grădinarilor",
+      "id_tomtom": "551bbdc7-0f2d-444d-997b-900a5baf8b15"
+    },
+    {
+      "id_road": "64d51dbd-bf3e-4aea-98e7-e4b143bc0fec",
+      "name_overpass": "Strada Grigore Alexandrescu",
+      "name_tomtom": "Strada Grigore Alexandrescu",
+      "id_tomtom": "3dccbaff-354a-4649-946c-8fc67fa3d94b"
+    },
+    {
+      "id_road": "58409458-b5b3-492d-bd17-82602e3c8283",
+      "name_overpass": "Strada Grigore C. Moisil",
+      "name_tomtom": "Strada Grigore C. Moisil",
+      "id_tomtom": "7ec67bcf-b709-4ac2-97e6-94185d7b6959"
+    },
+    {
+      "id_road": "fd2ce94b-8996-47d2-8ce5-31fb35603470",
+      "name_overpass": "Strada Grigore Cobălcescu",
+      "name_tomtom": "Strada Grigore Cobălcescu",
+      "id_tomtom": "bc31ba36-9fb9-4ced-8d4d-73f3786b4dbe"
+    },
+    {
+      "id_road": "d7640bb2-fd15-40c1-ba6d-f368e69bd0d8",
+      "name_overpass": "Strada Halelor",
+      "name_tomtom": "Strada Halelor",
+      "id_tomtom": "66f4f840-bafc-45f2-9d76-1f3bec4105d9"
+    },
+    {
+      "id_road": "b0b523b2-c127-46f4-a1ef-9f7cb4fd692d",
+      "name_overpass": "Strada Heliade între Vii",
+      "name_tomtom": "Strada Heliade Intre Vii",
+      "id_tomtom": "f002fd20-1e5c-4ddc-a34b-614d95c0e195"
+    },
+    {
+      "id_road": "e2a31ef5-9893-409b-b952-dae5786f729d",
+      "name_overpass": "Strada Horea, Cloșca și Crișan",
+      "name_tomtom": "Șoseaua Odăi",
+      "id_tomtom": "c94a26df-c230-4b12-b452-b698b55b9888"
+    },
+    {
+      "id_road": "68c05d72-dd60-4d48-be36-c6b52480cca7",
+      "name_overpass": "Strada Hornului",
+      "name_tomtom": "Calea Vitan",
+      "id_tomtom": "6afdb8e0-451b-46ea-a355-4c7927ac608b"
+    },
+    {
+      "id_road": "70971943-e086-4fc9-b73b-8b512a820296",
+      "name_overpass": "Strada Humulești",
+      "name_tomtom": "Strada Humulești",
+      "id_tomtom": "a7444fdf-0e50-4f3f-9c10-468aace6597c"
+    },
+    {
+      "id_road": "49dbd4fd-8454-48a3-81f5-ab41d2ff003b",
+      "name_overpass": "Strada Iani Buzoiani",
+      "name_tomtom": "Strada Iani Buzoiani",
+      "id_tomtom": "fea7b4b8-05c5-4340-9903-5d3c9af0eda6"
+    },
+    {
+      "id_road": "f7229629-9b68-4e78-b5f6-26be763a9f7f",
+      "name_overpass": "Strada Industriilor",
+      "name_tomtom": "Strada Industriilor",
+      "id_tomtom": "794ee99d-0c45-4815-9ba3-8ffd2038fa43"
+    },
+    {
+      "id_road": "06e215f5-5302-4447-ab44-21cdf28e4ba7",
+      "name_overpass": "Strada Ion Câmpineanu",
+      "name_tomtom": "Strada Ion Câmpineanu",
+      "id_tomtom": "7a9d1b1e-cb7b-407a-b459-0136906c471d"
+    },
+    {
+      "id_road": "f185e093-b141-47ae-931b-c62f0ef31500",
+      "name_overpass": "Strada Ion Nonna Otescu",
+      "name_tomtom": "Strada Ion Nonna Otescu",
+      "id_tomtom": "beb4522d-b544-426e-92dc-31295e5b2a44"
+    },
+    {
+      "id_road": "a270211d-fe5e-4b1f-a5fc-ae9e736eee8b",
+      "name_overpass": "Strada Ion Vlad",
+      "name_tomtom": "Strada Ion Vlad",
+      "id_tomtom": "b48fc670-a1cb-4e8b-b723-df6135ae0bcb"
+    },
+    {
+      "id_road": "54aeb5f2-1141-4a8b-a4e5-63a5aefc459c",
+      "name_overpass": "Strada Iuliu Hațieganu",
+      "name_tomtom": "Strada Iuliu Hațeganu",
+      "id_tomtom": "9d1f9838-e1b5-484d-ba51-fb0005755851"
+    },
+    {
+      "id_road": "88351663-a8c5-4366-9a6e-6ad626b94ac3",
+      "name_overpass": "Strada Izvor",
+      "name_tomtom": "Strada Izvor",
+      "id_tomtom": "be045970-511e-44e4-a7c4-b5cd6e8a6c03"
+    },
+    {
+      "id_road": "b23986eb-342e-4eff-aec1-564e0b1a4ccc",
+      "name_overpass": "Strada Izvorul Rece",
+      "name_tomtom": "Strada Izvorul Rece",
+      "id_tomtom": "33d51f19-bce4-45d2-a8a7-b093fa73fde6"
+    },
+    {
+      "id_road": "ee0c2861-3625-49af-bc55-a532cc3eb731",
+      "name_overpass": "Strada Jandarmeriei",
+      "name_tomtom": "Strada Jandarmeriei",
+      "id_tomtom": "cdbc831c-e2ae-41ed-8f36-6a055f3362e4"
+    },
+    {
+      "id_road": "186c336a-e9f5-481b-b78e-26fb97d6e9d9",
+      "name_overpass": "Strada Jean Louis Calderon",
+      "name_tomtom": "Strada Jean Louis Calderon",
+      "id_tomtom": "b77ba5c5-b6c1-440a-8ede-7dd9a2ee8f83"
+    },
+    {
+      "id_road": "fa4d2840-359e-4bbf-99b1-8d0e3a0e5dda",
+      "name_overpass": "Strada Jiului",
+      "name_tomtom": "Strada Jiului",
+      "id_tomtom": "7c6a9768-1900-44d7-ad54-e2466e110ab6"
+    },
+    {
+      "id_road": "bd996d61-d693-4dae-a6fe-5f0c6f94d232",
+      "name_overpass": "Strada Județului",
+      "name_tomtom": "Strada Județului",
+      "id_tomtom": "0b80da15-041f-434f-8e3e-e95f3439c4ad"
+    },
+    {
+      "id_road": "e79a9791-8c94-46a5-a72f-e607a90eead3",
+      "name_overpass": "Strada Labirint",
+      "name_tomtom": "Strada Labirint",
+      "id_tomtom": "d10f3725-da1f-4d00-9a90-7c4a5ce1e34f"
+    },
+    {
+      "id_road": "ad89b8a3-3f5c-49d2-9985-8d919f8854f8",
+      "name_overpass": "Strada Lainici",
+      "name_tomtom": "Strada Lainici",
+      "id_tomtom": "1323eaef-5cfa-410d-80fc-62890c8b6489"
+    },
+    {
+      "id_road": "0f42fde6-ecf6-4457-a494-ceeeb1d190b1",
+      "name_overpass": "Strada Lânăriei",
+      "name_tomtom": "Strada Lânăriei",
+      "id_tomtom": "c72badae-086b-499f-bb73-e7462b0966bc"
+    },
+    {
+      "id_road": "ed001b75-429c-4d8c-8ad8-0ce859c966a0",
+      "name_overpass": "Strada Liniei",
+      "name_tomtom": "Strada Liniei",
+      "id_tomtom": "231f803f-f147-4c4c-846f-a8c286b93e18"
+    },
+    {
+      "id_road": "ac8e3174-befd-4d0a-bf04-c910ce206311",
+      "name_overpass": "Strada Liviu Rebreanu",
+      "name_tomtom": "Strada Liviu Rebreanu",
+      "id_tomtom": "cb0a3a04-c940-423e-a976-7d1cde3af681"
+    },
+    {
+      "id_road": "6a562383-40df-451e-8928-7510235b47f4",
+      "name_overpass": "Strada Lizeanu",
+      "name_tomtom": "Strada Lizeanu",
+      "id_tomtom": "d79e756c-25e0-4a3d-a53e-f3921031d07e"
+    },
+    {
+      "id_road": "27298a1c-92b3-4a62-af6c-5dee9b4ecc2d",
+      "name_overpass": "Strada Locotenent Aviator Niculae Găină",
+      "name_tomtom": "Strada Locotenent Niculae Găină",
+      "id_tomtom": "2c9c15cc-2bd3-4c0e-b9c9-962539a1ca0a"
+    },
+    {
+      "id_road": "45702970-2cbb-4531-bf01-cdc198734cff",
+      "name_overpass": "Strada Locotenent Aviator Radu Beller",
+      "name_tomtom": "Strada Locotenent Aviator Radu Beller",
+      "id_tomtom": "b8690a09-6ee8-449c-8a47-98ae3fe33e99"
+    },
+    {
+      "id_road": "3f572462-3a20-4acc-a9ea-1a0f95ce89e7",
+      "name_overpass": "Strada Locotenent Colonel Constantin Marinescu",
+      "name_tomtom": "Strada Locotenent-Colonel Constantin Marinescu",
+      "id_tomtom": "c60c9a66-cee9-44d5-ad24-af0ef124fd48"
+    },
+    {
+      "id_road": "4375a7d6-2775-4991-aea1-5150a5ed3e80",
+      "name_overpass": "Strada Locotenent Gheorghe Bănciulescu",
+      "name_tomtom": "Strada Locotenent Comandor Aviator Gheorghe Bănciulescu",
+      "id_tomtom": "c8f9a0c8-2f00-4e2a-8520-a46384863d05"
+    },
+    {
+      "id_road": "ea7df868-4ee8-4a20-ae40-aee8e734faad",
+      "name_overpass": "Strada Locotenent Victor Manu",
+      "name_tomtom": "Strada Locotenent Victor Manu",
+      "id_tomtom": "91c9c5a3-9046-43ca-bef5-eb8b3fc5398b"
+    },
+    {
+      "id_road": "714510c0-f0cb-43b6-a09c-bb9c8a9c6962",
+      "name_overpass": "Strada Lucian Blaga",
+      "name_tomtom": "Strada Lucian Blaga",
+      "id_tomtom": "e60fb1e8-20f8-430d-a460-fae21564e756"
+    },
+    {
+      "id_road": "4b31a689-9f8e-4b84-a2e4-9fbcca3a6b5f",
+      "name_overpass": "Strada Lucrețiu Pătrășcanu",
+      "name_tomtom": "Strada Lucrețiu Pătrășcanu",
+      "id_tomtom": "abb14977-d91a-46f9-8f27-8b95d954f0c0"
+    },
+    {
+      "id_road": "dbb96d82-04c1-4fb7-9651-e04edf0f812b",
+      "name_overpass": "Strada Luică",
+      "name_tomtom": "Strada Luica",
+      "id_tomtom": "678ec9e2-553a-4e29-9714-61a445cb4c44"
+    },
+    {
+      "id_road": "07ab8ebf-3dd8-40ba-af01-d0ee4c3c89f0",
+      "name_overpass": "Strada Lujerului",
+      "name_tomtom": "Strada Lujerului",
+      "id_tomtom": "f4728448-f295-45f2-8aae-b7f7d55ffa1f"
+    },
+    {
+      "id_road": "fe2e44e9-ff42-45bb-b097-a3b4dcd8d459",
+      "name_overpass": "Strada Luterană",
+      "name_tomtom": "Strada Luterană",
+      "id_tomtom": "051e2809-8879-42aa-ab4a-3389af867836"
+    },
+    {
+      "id_road": "176cfca7-e8e6-4489-b6c8-059739b07db5",
+      "name_overpass": "Strada Maica Domnului",
+      "name_tomtom": "Strada Maica Domnului",
+      "id_tomtom": "508058c5-9f87-4aa3-a27a-4cb897dedf88"
+    },
+    {
+      "id_road": "b6d3e5a9-f6b8-4fa6-a1a7-151ba9cc3aa3",
+      "name_overpass": "Strada Maior Ion Coravu",
+      "name_tomtom": "Strada Maior Ion Coravu",
+      "id_tomtom": "6eb23c5c-fa3a-41c9-8a41-64d94ab79935"
+    },
+    {
+      "id_road": "ac6cfd0c-9fef-4ec6-adc3-2cb6a23dca2f",
+      "name_overpass": "Strada Maior Vasile Băcilă",
+      "name_tomtom": "Strada Maior Vasile Băcilă",
+      "id_tomtom": "b4ee10c5-10ca-4a19-b7e2-e82f797d4167"
+    },
+    {
+      "id_road": "d8e9cab7-d9db-473b-b519-7d25a03c94a7",
+      "name_overpass": "Strada Maltopol",
+      "name_tomtom": "Strada Maltopol",
+      "id_tomtom": "16375bcf-29ee-414c-b28b-1b6939367ce2"
+    },
+    {
+      "id_road": "cb36042e-0e29-42d1-a23b-80145c0a8f52",
+      "name_overpass": "Strada Maria Rosetti",
+      "name_tomtom": "Strada Maria Rosetti",
+      "id_tomtom": "147fd9f4-cc68-42bf-a081-6e932945c39b"
+    },
+    {
+      "id_road": "27ca6928-53c1-4607-bff0-90a25031c90c",
+      "name_overpass": "Strada Matei Basarab",
+      "name_tomtom": "Strada Matei Basarab",
+      "id_tomtom": "13f84a32-651a-4e2f-af5d-cf11f19ff0b6"
+    },
+    {
+      "id_road": "5ccf0610-fd01-4856-ade7-bb36c8a281f3",
+      "name_overpass": "Strada Matei Voievod",
+      "name_tomtom": "Strada Matei Voievod",
+      "id_tomtom": "07175cce-56aa-41d5-b7e6-b0b6ecffc4f9"
+    },
+    {
+      "id_road": "7a618643-b790-4ab6-92c6-48ed6ca4495a",
+      "name_overpass": "Strada Maximilian Popper",
+      "name_tomtom": "Intrarea Doctor Maximilian Popper",
+      "id_tomtom": "7dfaa53e-e53a-44b5-96db-002c4f645d51"
+    },
+    {
+      "id_road": "8094627e-328a-4ea0-a4f7-05a429bb363c",
+      "name_overpass": "Strada Mărăcineni",
+      "name_tomtom": "Strada Mărăcineni",
+      "id_tomtom": "a93c0809-2018-4558-9e77-a9ef9155a28b"
+    },
+    {
+      "id_road": "f56c028a-f169-4368-9ba3-2152a3102763",
+      "name_overpass": "Strada Mărgeanului",
+      "name_tomtom": "Strada Mărgeanului",
+      "id_tomtom": "d8d9b2e8-4009-421f-bdb0-8c703d1cae1c"
+    },
+    {
+      "id_road": "33e3e50c-5b60-4fd3-9b81-2a5a24a0333e",
+      "name_overpass": "Strada Mărțișor",
+      "name_tomtom": "Strada Mărțișor",
+      "id_tomtom": "4d31e950-34a3-44b3-a217-e159b985fafb"
+    },
+    {
+      "id_road": "6fb8c7e1-8253-407c-95f8-d25882729463",
+      "name_overpass": "Strada Mândrești",
+      "name_tomtom": "Strada Mândrești",
+      "id_tomtom": "4910d9f2-6289-4067-8d0b-b28c87bc0b68"
+    },
+    {
+      "id_road": "488e41b5-916d-43f3-b03f-538a01938a9f",
+      "name_overpass": "Strada Mântuleasa",
+      "name_tomtom": "Strada Mântuleasa",
+      "id_tomtom": "b63f532f-5d95-4725-89cd-90b286458188"
+    },
+    {
+      "id_road": "c9847216-c0d2-4550-88d8-e7bea0d09912",
+      "name_overpass": "Strada Mehadia",
+      "name_tomtom": "Strada Mehadia",
+      "id_tomtom": "20fded3f-4a68-4d77-b9bc-d2c0fe6d11a9"
+    },
+    {
+      "id_road": "e45b1dd2-464c-41d3-a5b5-b36cc251de73",
+      "name_overpass": "Strada Mihai Eminescu",
+      "name_tomtom": "Strada Mihai Eminescu",
+      "id_tomtom": "d7364baa-173d-4786-83bd-258e61356f1a"
+    },
+    {
+      "id_road": "64aa7be6-32c4-4c68-b1b9-609b71e2dfad",
+      "name_overpass": "Strada Mihail Ivanovici Glinka",
+      "name_tomtom": "Strada Mihail Ivanovici Glinka",
+      "id_tomtom": "ed93e9b5-c3af-4fa3-a716-067ea6c16ff0"
+    },
+    {
+      "id_road": "614d2971-5568-4a86-995f-c3aee63c3135",
+      "name_overpass": "Strada Mihail Sebastian",
+      "name_tomtom": "Strada Mihail Sebastian",
+      "id_tomtom": "6862f201-ea19-4c35-830f-27f9bb555775"
+    },
+    {
+      "id_road": "d9af9f7f-8d05-4ab2-844e-59d80dc731e3",
+      "name_overpass": "Strada Mircea Vulcănescu",
+      "name_tomtom": "Strada Mircea Vulcănescu",
+      "id_tomtom": "f71558bd-8702-4aea-b39a-ae64818185db"
+    },
+    {
+      "id_road": "4ebab147-14dd-4f92-8f77-5492bfb2c69f",
+      "name_overpass": "Strada Mitropolitul Nifon",
+      "name_tomtom": "Strada Mitropolitul Nifon",
+      "id_tomtom": "582e66c6-73de-4f15-9ca6-904ae51f1d5f"
+    },
+    {
+      "id_road": "0fadfc80-266d-4502-8758-f5fb890462da",
+      "name_overpass": "Strada Mizil",
+      "name_tomtom": "Strada Mizil",
+      "id_tomtom": "2530ec98-f523-49e5-894b-c2046a478bae"
+    },
+    {
+      "id_road": "e5cb651f-e6cc-4ef9-b85e-b3f457f92759",
+      "name_overpass": "Strada Moinești",
+      "name_tomtom": "Strada Moinești",
+      "id_tomtom": "9f6192de-96a1-45af-aaf5-02098210c1e0"
+    },
+    {
+      "id_road": "d9e3f282-4a63-4973-a50b-024ca826a361",
+      "name_overpass": "Strada Morilor",
+      "name_tomtom": "Strada Morilor",
+      "id_tomtom": "b4ae7d20-17e4-4f5c-a98c-a00e862bbd2a"
+    },
+    {
+      "id_road": "2cec307f-032d-497d-b625-fc76ac122f03",
+      "name_overpass": "Strada Natației",
+      "name_tomtom": "Strada Natației",
+      "id_tomtom": "1dcc7c68-2e00-4bd1-a403-0036366f2390"
+    },
+    {
+      "id_road": "23b284e8-a2ab-4028-a8d5-df5fa9fcf7e2",
+      "name_overpass": "Strada Năsăud",
+      "name_tomtom": "Strada Năsăud",
+      "id_tomtom": "c42a7414-08b9-4f6e-9910-b36b2719d5c2"
+    },
+    {
+      "id_road": "5164c09d-0263-4fde-a0a7-6d1da52e051c",
+      "name_overpass": "Strada Neptun",
+      "name_tomtom": "Strada Neptun",
+      "id_tomtom": "2b243cd6-008a-4737-b3b1-d8c9137276ac"
+    },
+    {
+      "id_road": "1d29f829-0c2c-4429-9ade-589fb32e171c",
+      "name_overpass": "Strada Nerva Traian",
+      "name_tomtom": "Strada Nerva Traian",
+      "id_tomtom": "d44b34d8-9306-44c3-8229-0bfc10493331"
+    },
+    {
+      "id_road": "a27d8181-9d0c-462f-902a-0801d07e8fc0",
+      "name_overpass": "Strada Nicolae Cânea",
+      "name_tomtom": "Strada Nicolae Cânea",
+      "id_tomtom": "d7f4714f-4418-42d1-90cc-b02f3f98901c"
+    },
+    {
+      "id_road": "1aa7e90b-012a-4253-a78d-bf99108ead40",
+      "name_overpass": "Strada Nicolae G. Caranfil",
+      "name_tomtom": "Strada Nicolae G. Caramfil",
+      "id_tomtom": "c2a5c248-a998-492d-9e15-276f69885a78"
+    },
+    {
+      "id_road": "181a012b-f48c-4bb0-983a-e4dbcf245045",
+      "name_overpass": "Strada Nicolae Golescu",
+      "name_tomtom": "Strada Nicolae Golescu",
+      "id_tomtom": "d3dc97b0-250c-47f5-acb0-373892d40cfd"
+    },
+    {
+      "id_road": "ede89f65-8946-419c-89d9-cc0442344f4f",
+      "name_overpass": "Strada Nicolae Teclu",
+      "name_tomtom": "Strada Nicolae Teclu",
+      "id_tomtom": "9d5829b6-fb8d-4f70-9f81-6f4178ef5f5c"
+    },
+    {
+      "id_road": "ffb98d63-d1b9-48e5-bcf8-55888ae1b349",
+      "name_overpass": "Strada Novaci",
+      "name_tomtom": "Strada Novaci",
+      "id_tomtom": "cd466e1f-fa04-4697-8630-daa6332216ef"
+    },
+    {
+      "id_road": "19d396f4-c963-41c1-be9a-d853a549e07f",
+      "name_overpass": "Strada Nucului",
+      "name_tomtom": "Strada Nucului",
+      "id_tomtom": "defc7edf-ae5c-46de-b8f3-b81bcd972ecf"
+    },
+    {
+      "id_road": "7bb64d60-b709-4f10-83b9-ca6ceafc7199",
+      "name_overpass": "Strada Oașului",
+      "name_tomtom": "Strada Oașului",
+      "id_tomtom": "23c1f58f-10e2-4138-88fe-cb2fef6f68e9"
+    },
+    {
+      "id_road": "2d53250a-18cc-448f-b2b4-84c3e6103261",
+      "name_overpass": "Strada Occidentului",
+      "name_tomtom": "Strada Occidentului",
+      "id_tomtom": "cbce8bcb-199d-4283-8e24-34d7bd9aa4b1"
+    },
+    {
+      "id_road": "c1ec533d-2410-4e55-9455-df33d011c537",
+      "name_overpass": "Strada Odoarei",
+      "name_tomtom": "Strada Odoarei",
+      "id_tomtom": "9b0370d1-7188-4445-98e6-a5d147b73dcd"
+    },
+    {
+      "id_road": "49011a4f-829b-4c4a-b3b7-02edac63495a",
+      "name_overpass": "Strada Paharnicul Turturea",
+      "name_tomtom": "Intrarea Paharnicul Turturea",
+      "id_tomtom": "e89c1884-e6b5-4e3e-9d1e-9881b849af78"
+    },
+    {
+      "id_road": "518344c6-2690-41db-b751-e2894b857dae",
+      "name_overpass": "Strada Pajurei",
+      "name_tomtom": "Strada Pajurei",
+      "id_tomtom": "4bce84f4-51c6-4a84-9d3d-125692291e67"
+    },
+    {
+      "id_road": "b77d30b4-0d85-44fa-b87e-1f92664adc91",
+      "name_overpass": "Strada Pascal Cristian, Inginer",
+      "name_tomtom": "Strada Inginer Cristian Pascal",
+      "id_tomtom": "40fa2619-d931-429e-b681-69e107952812"
+    },
+    {
+      "id_road": "7cafe135-945c-4867-ab40-9dacb0f6d0ed",
+      "name_overpass": "Strada Patrioților",
+      "name_tomtom": "Strada Patrioților",
+      "id_tomtom": "c409eb70-9041-44fe-9f41-c46678975fca"
+    },
+    {
+      "id_road": "729638d2-b892-4f6c-8569-3913f1ceb2f1",
+      "name_overpass": "Strada Pârgarilor",
+      "name_tomtom": "Strada Pârgarilor",
+      "id_tomtom": "b7643b5a-0a73-41ca-9b7b-c907c5e150d3"
+    },
+    {
+      "id_road": "95bb7cb8-efb1-4731-9429-6a23d0803eef",
+      "name_overpass": "Strada Pecineaga",
+      "name_tomtom": "Strada Pecineaga",
+      "id_tomtom": "5e952f4a-27fe-4cd4-8807-ae3182d6d6b2"
+    },
+    {
+      "id_road": "51e70239-a4df-4fc8-8ca3-29f3cd216e40",
+      "name_overpass": "Strada Peneș Curcanul",
+      "name_tomtom": "Strada Peneș Curcanul",
+      "id_tomtom": "cd6d3aba-eac3-43b1-858a-04011c6a84c2"
+    },
+    {
+      "id_road": "c87b6663-28b2-4fe2-912b-88795a604a2e",
+      "name_overpass": "Strada Petre Ispirescu",
+      "name_tomtom": "Strada Petre Ispirescu",
+      "id_tomtom": "b993111d-22ef-4811-b658-3a2cea09aa51"
+    },
+    {
+      "id_road": "73c4ae8a-9af0-491e-9dd0-eb4df809d5c8",
+      "name_overpass": "Strada Petricani",
+      "name_tomtom": "Strada Petricani",
+      "id_tomtom": "963f5373-e8bf-42de-998a-dfeef32d4154"
+    },
+    {
+      "id_road": "a730219d-b229-465e-8794-8334ecd047bb",
+      "name_overpass": "Strada Piatra Morii",
+      "name_tomtom": "Strada Piatra Morii",
+      "id_tomtom": "fa54893e-9e7f-4be9-aed8-d2991aa757e3"
+    },
+    {
+      "id_road": "43f73787-620f-42fd-943f-4eb8459a04a0",
+      "name_overpass": "Strada Piotr Ilici Ceaikovski",
+      "name_tomtom": "Strada Piotr Ilici Ceaikovski",
+      "id_tomtom": "f49f5496-f7fc-402f-b8ef-7450ecec51c2"
+    },
+    {
+      "id_road": "1ec3e830-6fb1-4d65-8d50-ca09334856e6",
+      "name_overpass": "Strada Pogoanele",
+      "name_tomtom": "Strada Pogoanele",
+      "id_tomtom": "e2385e10-0ed0-4b8d-9e32-22df44848db0"
+    },
+    {
+      "id_road": "540f4a23-ee13-4661-93f6-5ea30ce16f61",
+      "name_overpass": "Strada Polonă",
+      "name_tomtom": "Strada Polonă",
+      "id_tomtom": "c982e9f4-b0a9-459a-a93a-31c71bd12e47"
+    },
+    {
+      "id_road": "60478d19-26fe-4481-8ee7-f5c794be91d5",
+      "name_overpass": "Strada Popa Nan",
+      "name_tomtom": "Strada Popa Nan",
+      "id_tomtom": "06376173-9f51-42b6-8b9c-e438e3dd4566"
+    },
+    {
+      "id_road": "f5ad044a-7967-421a-86cd-f3fe805b8b70",
+      "name_overpass": "Strada Popa Petre",
+      "name_tomtom": "Strada Petre Popa",
+      "id_tomtom": "2c68e8dc-210a-4cb2-8a55-943be0947b00"
+    },
+    {
+      "id_road": "2ce2103c-530c-4409-bb29-6ab03cd2faf0",
+      "name_overpass": "Strada Popa Tatu",
+      "name_tomtom": "Strada Popa Tatu",
+      "id_tomtom": "faded7bd-e582-4d9e-ae32-0b351b56c2e2"
+    },
+    {
+      "id_road": "87d9abbc-8e28-4c08-8c08-eef4d89fc07b",
+      "name_overpass": "Strada Popești Vest",
+      "name_tomtom": "Strada Popești Vest",
+      "id_tomtom": "0d22418e-1d4e-4c2c-8db8-76ef215e50a8"
+    },
+    {
+      "id_road": "3c6601a5-87ed-4015-99f3-98b391f1e3c3",
+      "name_overpass": "Strada Postăvarul",
+      "name_tomtom": "Strada Postăvarul",
+      "id_tomtom": "d0ce3e74-7da9-4e28-bfcf-37c9f3233943"
+    },
+    {
+      "id_road": "8d5cd961-f56b-45be-9294-09c48a6cc504",
+      "name_overpass": "Strada Preciziei",
+      "name_tomtom": "Strada Preciziei",
+      "id_tomtom": "89f7c68f-81be-4eee-8341-a973f7f76f87"
+    },
+    {
+      "id_road": "c91f9748-802d-42ad-923d-6f429e42b03d",
+      "name_overpass": "Strada Prevederii",
+      "name_tomtom": "Strada Prevederii",
+      "id_tomtom": "c5ab8441-9369-485b-91df-897d0ca20e09"
+    },
+    {
+      "id_road": "d9b1aaa0-4b13-40c7-8c82-d2661e6a3c32",
+      "name_overpass": "Strada Progresului",
+      "name_tomtom": "Strada Progresului",
+      "id_tomtom": "6832e48a-5e70-4891-bb5b-281ceaac7ebf"
+    },
+    {
+      "id_road": "f981cb15-dba3-4479-a0a6-b7ff6eee24af",
+      "name_overpass": "Strada Pucheni",
+      "name_tomtom": "Strada Pucheni",
+      "id_tomtom": "55c37f4e-be98-4da4-b1b5-c5b54f48ec5d"
+    },
+    {
+      "id_road": "245edcdc-a8ef-4833-a48e-b8c8cc571810",
+      "name_overpass": "Strada Ramuri Tei",
+      "name_tomtom": "Strada Ramuri Tei",
+      "id_tomtom": "a44ed5d4-1eb0-4467-a604-866b4be91957"
+    },
+    {
+      "id_road": "99b38a5e-8a23-41da-ad6e-6a1adfe1d8e1",
+      "name_overpass": "Strada Răsadniței",
+      "name_tomtom": "Strada Răsadniței",
+      "id_tomtom": "5e3b4e0b-a14d-4cf3-bea8-f20188dab2c2"
+    },
+    {
+      "id_road": "d4cc3791-2270-43b0-b656-70b930af9ea0",
+      "name_overpass": "Strada Răzoare",
+      "name_tomtom": "Strada Răzoare",
+      "id_tomtom": "dc2b3b2a-1aff-441d-82ce-487d4bec3d09"
+    },
+    {
+      "id_road": "21fe6c48-0be5-4e2e-bc83-9c4d9f09bd40",
+      "name_overpass": "Strada Râmnicu Vâlcea",
+      "name_tomtom": "Strada Râmnicu Vâlcea",
+      "id_tomtom": "e671a1c2-fc4c-4c98-bacb-442c6043ea7a"
+    },
+    {
+      "id_road": "a08b5dac-6267-4406-a462-7b22993b3c33",
+      "name_overpass": "Strada Râul Doamnei",
+      "name_tomtom": "Strada Râul Doamnei",
+      "id_tomtom": "abab8114-06bd-4ebc-9026-2969af53f21b"
+    },
+    {
+      "id_road": "9f3e2f28-fe2b-4ed9-a62b-5b7e749a1c9a",
+      "name_overpass": "Strada Reînvierii",
+      "name_tomtom": "Strada Reînvierii",
+      "id_tomtom": "970b079f-12e9-4be4-9d25-d8fdb6ae55e2"
+    },
+    {
+      "id_road": "3b5ec1e3-4c56-48c0-ae2b-026eb06df6a6",
+      "name_overpass": "Strada Releului",
+      "name_tomtom": "Strada Releului",
+      "id_tomtom": "28a9bcc5-2222-449e-beca-8635f4ebfd99"
+    },
+    {
+      "id_road": "4754ad1a-6922-4d35-8570-b58965688fae",
+      "name_overpass": "Strada Reșița",
+      "name_tomtom": "Strada Resița",
+      "id_tomtom": "2eff0f9d-2d5c-462a-b53d-dac0b26ca265"
+    },
+    {
+      "id_road": "f43c211d-368f-4a72-920e-e05e1f42be93",
+      "name_overpass": "Strada Ritmului",
+      "name_tomtom": "Strada Ritmului",
+      "id_tomtom": "f6ac0cd9-fc9a-4452-831e-a21fc581faad"
+    },
+    {
+      "id_road": "54bcea41-6387-4887-8b08-9456b36c6c7a",
+      "name_overpass": "Strada Roma",
+      "name_tomtom": "Strada Roma",
+      "id_tomtom": "e91634ed-77fb-453f-b20b-a9200fcddca1"
+    },
+    {
+      "id_road": "11cfcacf-e719-40e6-abc5-5552abebfaa7",
+      "name_overpass": "Strada Romancierilor",
+      "name_tomtom": "Strada Romancierilor",
+      "id_tomtom": "e945934c-05ac-492e-8ba9-d16bd98a19de"
+    },
+    {
+      "id_road": "421192d0-bf3f-496e-98ac-698aacfd3af7",
+      "name_overpass": "Strada Romulus",
+      "name_tomtom": "Strada Romulus",
+      "id_tomtom": "17587736-5d6b-477f-a6ea-86f3f3c7ad95"
+    },
+    {
+      "id_road": "09042217-c995-4e2b-acb7-10e4f390dd38",
+      "name_overpass": "Strada Salviei",
+      "name_tomtom": "Strada Salviei",
+      "id_tomtom": "ef6d6e4c-257c-4171-941a-ea66a1ac411c"
+    },
+    {
+      "id_road": "de567f23-c4a2-4624-aa02-0dd72ab35edc",
+      "name_overpass": "Strada Sculptorilor",
+      "name_tomtom": "Strada Sculptorilor",
+      "id_tomtom": "bf4681ab-06e8-4c8e-afb7-1351e935eeb1"
+    },
+    {
+      "id_road": "8a45071c-fd09-4786-a203-fd1420fd9f87",
+      "name_overpass": "Strada Secuilor",
+      "name_tomtom": "Strada Secuilor",
+      "id_tomtom": "b91f5ff4-a8bd-4399-9ab4-8a21a1bc20d7"
+    },
+    {
+      "id_road": "454bd4c9-feeb-4189-b02e-e886afbb49e1",
+      "name_overpass": "Strada Semănătorului",
+      "name_tomtom": "Strada Semănătorului",
+      "id_tomtom": "74200a64-663c-46cc-b427-9981643200d7"
+    },
+    {
+      "id_road": "8c1c742c-f6db-41e0-bbe0-1c4abcb2b0d0",
+      "name_overpass": "Strada Sergent Ion Iriceanu",
+      "name_tomtom": "Strada Sergent Ion Iriceanu",
+      "id_tomtom": "bceb6c21-3350-400c-bde8-124d1a355001"
+    },
+    {
+      "id_road": "8d0c5e85-326a-4d5c-ab76-c2a641d8310b",
+      "name_overpass": "Strada Sergent Major Nedeleanu Ion",
+      "name_tomtom": "Strada Sergent Major Ion Nedeleanu",
+      "id_tomtom": "c9d873cf-895e-4084-93c7-f64906e0ff84"
+    },
+    {
+      "id_road": "9108cec9-fa58-47ce-b08c-296023cf4d64",
+      "name_overpass": "Strada Sergent Nițu Vasile",
+      "name_tomtom": "Strada Sergent Nițu Vasile",
+      "id_tomtom": "5f7459af-8244-4dd6-8dd7-96f5c1e2aaa0"
+    },
+    {
+      "id_road": "36400ff4-f4cc-4b13-a52a-7710a0ed12c7",
+      "name_overpass": "Strada Sergent Turturică",
+      "name_tomtom": "Strada Sergent Turturică",
+      "id_tomtom": "f73a9f56-d2d7-4680-ad83-6422eef09c73"
+    },
+    {
+      "id_road": "7ecb7e08-bd4f-4ac7-8308-96696db49d46",
+      "name_overpass": "Strada Sevastopol",
+      "name_tomtom": "Strada Sevastopol",
+      "id_tomtom": "7a9308cf-d6fb-4cd7-9047-9cf83a400d94"
+    },
+    {
+      "id_road": "85386bc3-9c76-400a-8124-b5601dc8ba6e",
+      "name_overpass": "Strada Sfânta Vineri",
+      "name_tomtom": "Strada Sfânta Vineri",
+      "id_tomtom": "fc11094e-673c-47b7-8f97-589fefe96aae"
+    },
+    {
+      "id_road": "cd9504dc-7edc-4a6b-8c31-9fb076c315c8",
+      "name_overpass": "Strada Sfântul Elefterie",
+      "name_tomtom": "Strada Sfântul Elefterie",
+      "id_tomtom": "19476c38-9334-4257-a0c5-5cd97f0fdda8"
+    },
+    {
+      "id_road": "605842ea-2e7c-4dfb-8e30-a548453a320f",
+      "name_overpass": "Strada Sfântul Ștefan",
+      "name_tomtom": "Strada Sfântul Ștefan",
+      "id_tomtom": "e163fabb-e560-41a2-b986-26306b398443"
+    },
+    {
+      "id_road": "861d7276-44fd-485e-a7ff-5e4a2dc45612",
+      "name_overpass": "Strada Sibiu",
+      "name_tomtom": "Strada Sibiu",
+      "id_tomtom": "206cefb2-a970-4586-87f5-9c64b3dcbc29"
+    },
+    {
+      "id_road": "e8befb5f-e754-4ed2-997b-90bf49cd6861",
+      "name_overpass": "Strada Soldat Vasile Croitoru",
+      "name_tomtom": "Strada Soldat Vasile Croitoru",
+      "id_tomtom": "db861e50-c8a0-414c-a04c-95e03225ad32"
+    },
+    {
+      "id_road": "4e6bbb40-5334-4c10-a96a-a0a0bf0e1548",
+      "name_overpass": "Strada Soveja",
+      "name_tomtom": "Strada Soveja",
+      "id_tomtom": "534615c5-d246-4fa0-9f55-7b54abc519ad"
+    },
+    {
+      "id_road": "d1756533-908e-4b78-9367-d881a73abbf2",
+      "name_overpass": "Strada Spătarul Preda",
+      "name_tomtom": "Strada Spătarul Preda",
+      "id_tomtom": "b03162dc-77cb-410c-9a41-42253562d13a"
+    },
+    {
+      "id_road": "1053f3ab-8a2c-4834-89a7-d1d7f4df1323",
+      "name_overpass": "Strada Stoian Militaru",
+      "name_tomtom": "Strada Stoian Militaru",
+      "id_tomtom": "eeda8932-16b8-45e6-b565-433c3bd6765e"
+    },
+    {
+      "id_road": "51805f1b-54d3-4334-9f25-3ef578e2b203",
+      "name_overpass": "Strada Subcetate",
+      "name_tomtom": "Strada Subcetate",
+      "id_tomtom": "e5db10cf-cbb2-4b42-a476-ef0420f513c9"
+    },
+    {
+      "id_road": "932f6ff4-e4ef-46c0-8640-83bd09680123",
+      "name_overpass": "Strada Știrbei Vodă",
+      "name_tomtom": "Strada Știrbei Vodă",
+      "id_tomtom": "24e3d549-efb9-42b1-99ea-84340c148ed7"
+    },
+    {
+      "id_road": "82d47604-f894-4eb9-9d60-386c3efc4032",
+      "name_overpass": "Strada Târgu Neamț",
+      "name_tomtom": "Strada Târgu Neamț",
+      "id_tomtom": "4804b572-569c-4dfa-8e06-04537fa4d8b6"
+    },
+    {
+      "id_road": "59339043-2c9f-49ef-ae22-e67fb00004b6",
+      "name_overpass": "Strada Teiul Doamnei",
+      "name_tomtom": "Strada Teiul Doamnei",
+      "id_tomtom": "faf57a43-5ca2-48bf-a0db-bc8395bda0b4"
+    },
+    {
+      "id_road": "c0bb69ba-db30-4592-b301-55484ad24789",
+      "name_overpass": "Strada Tipografilor",
+      "name_tomtom": "Strada Tipografilor",
+      "id_tomtom": "4cb06d19-88a3-4e03-9530-a13bbfac31ae"
+    },
+    {
+      "id_road": "aff7ce7a-ce1b-43c3-b8fe-a81378b489cf",
+      "name_overpass": "Strada Toporași",
+      "name_tomtom": "Strada Toporași",
+      "id_tomtom": "0358befb-94d5-410a-b513-229af201d705"
+    },
+    {
+      "id_road": "e0b4b743-8c92-4fe1-8f0f-9bf6c0b71bde",
+      "name_overpass": "Strada Torentului",
+      "name_tomtom": "Strada Torentului",
+      "id_tomtom": "ba6579ca-6dcc-4ff7-9282-7298292c452b"
+    },
+    {
+      "id_road": "c101b8c8-dcdd-4185-ad15-40fccb7c03f1",
+      "name_overpass": "Strada Traian",
+      "name_tomtom": "Strada Traian",
+      "id_tomtom": "5d231c72-317e-4cd0-b2c2-d6f1c04ba10b"
+    },
+    {
+      "id_road": "aebd527a-aa77-4c84-bdf9-5d5c7e2f73fa",
+      "name_overpass": "Strada Traian Popovici",
+      "name_tomtom": "Strada Traian Popovici",
+      "id_tomtom": "2fe94a88-77df-4219-9964-0c36b2f4e37c"
+    },
+    {
+      "id_road": "c3d27f1f-f18e-45c2-9425-65dff0781c76",
+      "name_overpass": "Strada Trapezului",
+      "name_tomtom": "Strada Trapezului",
+      "id_tomtom": "aab1242c-8e87-4a0e-a2d4-5b59342ca6cf"
+    },
+    {
+      "id_road": "b19adc3f-7898-44d2-8cee-45de88464e94",
+      "name_overpass": "Strada Trompetului",
+      "name_tomtom": "Strada Trompetului",
+      "id_tomtom": "65fe601d-2da2-487a-8e6b-3181d08001cb"
+    },
+    {
+      "id_road": "81ecb7c7-c41a-4ea9-a5b6-60912df8b4ea",
+      "name_overpass": "Strada Tudor Arghezi",
+      "name_tomtom": "Strada Poet Tudor Arghezi",
+      "id_tomtom": "85786b7b-f934-4bec-9b58-290fb7310865"
+    },
+    {
+      "id_road": "20785731-185a-41fa-b141-4605e38c03fb",
+      "name_overpass": "Strada Tunari",
+      "name_tomtom": "Strada Tunari",
+      "id_tomtom": "341ede43-e27c-49c3-bdb1-6a0161af539e"
+    },
+    {
+      "id_road": "61c26434-f86c-4f28-b5a0-fd9447c7800b",
+      "name_overpass": "Strada Turda",
+      "name_tomtom": "Strada Turda",
+      "id_tomtom": "863e5f69-af33-437c-8fe4-346efa4ddb25"
+    },
+    {
+      "id_road": "567bc64d-4366-438b-8499-b1dd7da23973",
+      "name_overpass": "Strada Turmelor",
+      "name_tomtom": "Strada Turmelor",
+      "id_tomtom": "77641070-27a5-42b1-b5a8-bb8dfb7bb092"
+    },
+    {
+      "id_road": "a289359d-7117-4eaa-9168-3b68c200cf77",
+      "name_overpass": "Strada Turnu Măgurele",
+      "name_tomtom": "Strada Turnu Măgurele",
+      "id_tomtom": "dee2c68c-93d8-4b55-9af1-ec512e58fb9b"
+    },
+    {
+      "id_road": "9cb1894c-dcc7-4d51-9b43-e9c72e5ebc3d",
+      "name_overpass": "Strada Valea Argeșului",
+      "name_tomtom": "Strada Valea Argeșului",
+      "id_tomtom": "36fb7ac7-d710-466b-b270-f594036f446c"
+    },
+    {
+      "id_road": "dac3c534-5939-4942-b271-c43ff2cb9f0e",
+      "name_overpass": "Strada Valea Cascadelor",
+      "name_tomtom": "Strada Valea Cascadelor",
+      "id_tomtom": "094b14fb-da73-4b55-a33a-5772e44d31ba"
+    },
+    {
+      "id_road": "d7996ea1-1c4d-4e19-8ed1-db70fcbc179b",
+      "name_overpass": "Strada Valea Ialomiței",
+      "name_tomtom": "Strada Valea Ialomiței",
+      "id_tomtom": "82a360de-e03c-4fb1-a66f-7943903ce16c"
+    },
+    {
+      "id_road": "e143bb62-2d02-44e3-8455-c26d4dc8955c",
+      "name_overpass": "Strada Valea Oltului",
+      "name_tomtom": "Strada Valea Oltului",
+      "id_tomtom": "f7099558-4d70-4cef-b2e2-2b153c50a9a7"
+    },
+    {
+      "id_road": "b3304378-d54a-4dc5-83a2-03883f340e71",
+      "name_overpass": "Strada Vasile Lascăr",
+      "name_tomtom": "Strada Vasile Lascăr",
+      "id_tomtom": "9b30a339-6161-48df-9a6e-d0c0883081f8"
+    },
+    {
+      "id_road": "ea09c225-629d-42c9-b0ea-61871b6b5982",
+      "name_overpass": "Strada Vasile Pârvan",
+      "name_tomtom": "Strada Vasile Pârvan",
+      "id_tomtom": "71f4efcb-67f9-49eb-aece-e4a605a0f19e"
+    },
+    {
+      "id_road": "b5872486-e076-44d8-8ee4-abff998ac6c9",
+      "name_overpass": "Strada Vatra Luminoasă",
+      "name_tomtom": "Strada Vatra Luminoasă",
+      "id_tomtom": "983be783-eeb2-4dae-b74a-a3d92abf7650"
+    },
+    {
+      "id_road": "6c4bdd68-2142-434a-98cd-826f5d5c8c0a",
+      "name_overpass": "Strada Veseliei",
+      "name_tomtom": "Strada Veseliei",
+      "id_tomtom": "f7c4fc31-b86f-4a40-ae93-fc09af3a6e46"
+    },
+    {
+      "id_road": "a7dfeb05-e4c4-4050-ba5b-b09ff93a7162",
+      "name_overpass": "Strada Viitorului",
+      "name_tomtom": "Strada Viitorului",
+      "id_tomtom": "6c713ca3-2600-46a0-9cd5-3c7adcc9fff7"
+    },
+    {
+      "id_road": "78a6124f-a336-43d6-b3d1-84546e94e9b4",
+      "name_overpass": "Strada Vlad Județul",
+      "name_tomtom": "Strada Vlad Județu",
+      "id_tomtom": "7116cdda-2ae9-4af2-bcdf-0e2e637b0333"
+    },
+    {
+      "id_road": "49e58b67-5ac7-4a49-918c-526047673d23",
+      "name_overpass": "Strada Witting",
+      "name_tomtom": "Strada Witing",
+      "id_tomtom": "b025cfad-6f62-4f2c-ac01-b16bad283e87"
+    },
+    {
+      "id_road": "197ef8c8-1695-4129-9dfe-3ed42c120de4",
+      "name_overpass": "Strada Xenopol D. Alexandru",
+      "name_tomtom": "Strada Alexandru D. Xenopol",
+      "id_tomtom": "3e8802f8-455b-4870-ad09-7f04c2aa1a29"
+    },
+    {
+      "id_road": "4ff2a148-40b7-41f2-b411-87fa4700774a",
+      "name_overpass": "Strada Zece Mese",
+      "name_tomtom": "Strada Zece Mese",
+      "id_tomtom": "e8cd2e10-8ab9-41bc-8908-77c65be167f0"
+    },
+    {
+      "id_road": "8a5ddb0d-1704-42c0-a15b-1161709370d6",
+      "name_overpass": "Strada Zețarilor",
+      "name_tomtom": "Strada Zețarilor",
+      "id_tomtom": "5c0d56b7-6c36-46e7-8a22-c077167da46b"
+    },
+    {
+      "id_road": "0928c16c-c1ea-436b-9d06-6915ca6fbade",
+      "name_overpass": "Strada Ziduri Moși",
+      "name_tomtom": "Strada Ziduri Moși",
+      "id_tomtom": "0b139545-2451-414c-b22b-b5c08638af89"
+    },
+    {
+      "id_road": "1c4092a3-2ac6-46f3-9523-7b22c3b3ca5d",
+      "name_overpass": "Strada Zizin",
+      "name_tomtom": "Strada Zizin",
+      "id_tomtom": "a5c2ac4d-7259-4029-8686-6df2fd555645"
+    },
+    {
+      "id_road": "b60f79fb-99bd-470f-b387-2c96d31dffe9",
+      "name_overpass": "Șoseaua Alexandria",
+      "name_tomtom": "Șoseaua Alexandria",
+      "id_tomtom": "91f917fa-deb6-4208-b466-309a56efdd8b"
+    },
+    {
+      "id_road": "0dadff39-66c5-4f46-b748-2f23112777e7",
+      "name_overpass": "Șoseaua Alexandriei",
+      "name_tomtom": "Șoseaua Alexandriei",
+      "id_tomtom": "edd51a4f-f2af-4ae3-8997-db1dd9253911"
+    },
+    {
+      "id_road": "a577ba11-30f5-420c-873e-b3bbfeedad06",
+      "name_overpass": "Șoseaua Andronache",
+      "name_tomtom": "Șoseaua Andronache",
+      "id_tomtom": "1096afc9-0567-4352-ab51-42de6d97308d"
+    },
+    {
+      "id_road": "bd30b09b-cdc7-422d-862f-a5da3c2fe533",
+      "name_overpass": "Șoseaua Antiaeriană",
+      "name_tomtom": "Strada Antiaeriană",
+      "id_tomtom": "5abe3d5e-26f5-42eb-b48c-1a479c549d86"
+    },
+    {
+      "id_road": "3eff903a-187c-4c8b-abe1-369385e0d6d0",
+      "name_overpass": "Șoseaua Berceni",
+      "name_tomtom": "Șoseaua Berceni",
+      "id_tomtom": "c6ecab38-5c51-4069-a3b6-2d69d14829a4"
+    },
+    {
+      "id_road": "a07f0ef7-76df-4558-a86b-5fabf6ba5c8d",
+      "name_overpass": "Șoseaua București Nord",
+      "name_tomtom": "Șoseaua București Nord",
+      "id_tomtom": "9ef2d200-e94a-4ce1-b1b4-ac30a25636a7"
+    },
+    {
+      "id_road": "afab82ba-0eb7-4e0c-82e1-7596a8f08370",
+      "name_overpass": "Șoseaua București-Măgurele",
+      "name_tomtom": "Șoseaua București Măgurele",
+      "id_tomtom": "441387b4-9487-4863-b768-abb0e7481fc6"
+    },
+    {
+      "id_road": "4e41f366-2768-4fb8-9eb2-ef2838ef7e12",
+      "name_overpass": "Șoseaua București-Ploiești",
+      "name_tomtom": "Șoseaua București-Ploiești",
+      "id_tomtom": "da681ce5-d3e9-4bd4-8096-192b2b2e1533"
+    },
+    {
+      "id_road": "152f036b-7f62-47c5-a354-56a7ece77566",
+      "name_overpass": "Șoseaua București-Târgoviște",
+      "name_tomtom": "Șoseaua București Târgoviște",
+      "id_tomtom": "36b7d2d6-48fb-4108-b9bd-782888a6624b"
+    },
+    {
+      "id_road": "ebe2f566-5b23-48cd-b9cc-a502e56d595d",
+      "name_overpass": "Șoseaua Câmpia Libertății",
+      "name_tomtom": "Strada Câmpia Libertății",
+      "id_tomtom": "662ffa16-5a32-4769-9f1c-7ff3488496be"
+    },
+    {
+      "id_road": "f70e6266-841b-4dee-aebc-953e7e6ea257",
+      "name_overpass": "Șoseaua Chitilei",
+      "name_tomtom": "Șoseaua Chitilei",
+      "id_tomtom": "d22d43f9-ec6f-4df1-ad25-b6fb40566f33"
+    },
+    {
+      "id_road": "c6f0000c-5de8-4f70-805e-2c786892b2a3",
+      "name_overpass": "Șoseaua Colentina",
+      "name_tomtom": "Șoseaua Colentina",
+      "id_tomtom": "7fda6757-26d3-438d-a2ec-ee6d3f4e9df3"
+    },
+    {
+      "id_road": "6d2daa12-a7a4-4cde-8f93-d251c4e9d628",
+      "name_overpass": "Șoseaua Cotroceni",
+      "name_tomtom": "Șoseaua Cotroceni",
+      "id_tomtom": "9a3802fa-b3cf-4f4c-83a3-2d7f89d20c8b"
+    },
+    {
+      "id_road": "f91d3573-8c8c-4dab-8649-8e4eb68d74d7",
+      "name_overpass": "Șoseaua de Centură",
+      "name_tomtom": "Șoseaua De Centura",
+      "id_tomtom": "1d1a407b-b739-4f4b-99ac-6c1887b13f53"
+    },
+    {
+      "id_road": "06e22f47-ab8c-4f9d-ac64-1552ec844ada",
+      "name_overpass": "Șoseaua Dobroești",
+      "name_tomtom": "Șoseaua Dobroești",
+      "id_tomtom": "1cc0ebcc-3b40-425f-99cc-eecf0edcb6c1"
+    },
+    {
+      "id_road": "b85fbf9d-fb44-41ce-9b7f-771b937c1abd",
+      "name_overpass": "Șoseaua Dudești-Pantelimon",
+      "name_tomtom": "Șoseaua Dudești Pantelimon",
+      "id_tomtom": "a226f4e7-53d5-4fe4-b13d-fca4ff59a927"
+    },
+    {
+      "id_road": "95c28570-c56e-4eb6-9e3d-7fc453af5c75",
+      "name_overpass": "Șoseaua Electronicii",
+      "name_tomtom": "Șoseaua Electronicii",
+      "id_tomtom": "66cbd2cd-0a0f-4a0d-8286-25616987f547"
+    },
+    {
+      "id_road": "749c7386-3191-4229-b072-1e0847415661",
+      "name_overpass": "Șoseaua Fabrica de Glucoză",
+      "name_tomtom": "Șoseaua Fabrica de Glucoză",
+      "id_tomtom": "a8c43d22-ec92-4b2f-a063-365c657fdb41"
+    },
+    {
+      "id_road": "d3bb05aa-eb63-48ba-9d62-151f30c638e2",
+      "name_overpass": "Șoseaua Fundeni",
+      "name_tomtom": "Șoseaua Fundeni",
+      "id_tomtom": "735fca00-135c-4850-bad4-925723cefcbf"
+    },
+    {
+      "id_road": "befcab2e-fb40-4864-a4ed-9f2e05a10b13",
+      "name_overpass": "Șoseaua Gării Cățelu",
+      "name_tomtom": "Șoseaua Gării Cățelu",
+      "id_tomtom": "989ece9e-1fd7-47fb-b23c-05d498be8e54"
+    },
+    {
+      "id_road": "08b1658e-b384-429a-97c3-797bbf1f21d9",
+      "name_overpass": "Șoseaua Gheorghe Ionescu Sisești",
+      "name_tomtom": "Șoseaua Gheorghe Ionescu Șișești",
+      "id_tomtom": "9552d32b-0ce8-4263-96ae-c84f4d77eea8"
+    },
+    {
+      "id_road": "7c1c982a-f6ed-4a9b-b5ac-8556f631c19e",
+      "name_overpass": "Șoseaua Giurgiului",
+      "name_tomtom": "Șoseaua Giurgiului",
+      "id_tomtom": "4bdca5bc-1e92-4a99-a916-d3479b4c41dd"
+    },
+    {
+      "id_road": "1218bdfd-3863-4dd2-860d-308d00152034",
+      "name_overpass": "Șoseaua Grozăvești",
+      "name_tomtom": "Șoseaua Grozăvești",
+      "id_tomtom": "ac0404e1-4ee9-40d2-ad28-a8a467d7e530"
+    },
+    {
+      "id_road": "8f06c5f4-f388-4b52-b21e-653e971bcbdc",
+      "name_overpass": "Șoseaua Iancului",
+      "name_tomtom": "Șoseaua Iancului",
+      "id_tomtom": "18044bfb-6345-4dbe-8fe3-0aeeb5d279f3"
+    },
+    {
+      "id_road": "1331ef64-dac3-4efd-8943-44a5239b3b42",
+      "name_overpass": "Șoseaua Libertății",
+      "name_tomtom": "Șoseaua Libertății",
+      "id_tomtom": "07fde210-561b-49e0-a9b1-1bf5e200e65e"
+    },
+    {
+      "id_road": "558c2198-802e-44a9-b792-ac6f56fabda8",
+      "name_overpass": "Șoseaua Mihai Bravu",
+      "name_tomtom": "Șoseaua Mihai Bravu",
+      "id_tomtom": "565d3a78-4528-47f4-ab4c-135f0bf86f1b"
+    },
+    {
+      "id_road": "276990f2-686e-4950-9211-c1436debabe9",
+      "name_overpass": "Șoseaua Morarilor",
+      "name_tomtom": "Șoseaua Morarilor",
+      "id_tomtom": "24d31447-f4bd-4cd0-8b2f-4e23346b3b77"
+    },
+    {
+      "id_road": "71cd0b02-db4e-47ba-920c-c3b61fc8ae89",
+      "name_overpass": "Șoseaua Nicolae Titulescu",
+      "name_tomtom": "Șoseaua Nicolae Titulescu",
+      "id_tomtom": "91b642fc-15fe-4daf-b872-a1d5d34b43cf"
+    },
+    {
+      "id_road": "833d450c-9a76-45d7-985c-3465fce82608",
+      "name_overpass": "Șoseaua Nordului",
+      "name_tomtom": "Șoseaua Nordului",
+      "id_tomtom": "c7b20303-e338-4cb5-8aad-d0d2ba4c193e"
+    },
+    {
+      "id_road": "64e88a7f-c243-4999-90c5-3ba0833b8e05",
+      "name_overpass": "Șoseaua Odăii",
+      "name_tomtom": "Șoseaua Odăi",
+      "id_tomtom": "c94a26df-c230-4b12-b452-b698b55b9888"
+    },
+    {
+      "id_road": "60076556-9af9-4153-b73e-4f2dce84e076",
+      "name_overpass": "Șoseaua Olteniței",
+      "name_tomtom": "Șoseaua Olteniței",
+      "id_tomtom": "9d82c6ca-7d33-404f-ba02-f0ef07bf525c"
+    },
+    {
+      "id_road": "947a9e51-0473-4a80-88ad-8cdbf6cbb04b",
+      "name_overpass": "Șoseaua Orhideelor",
+      "name_tomtom": "Șoseaua Orhideelor",
+      "id_tomtom": "b28a3db8-8831-434d-b9c1-486bec841ed0"
+    },
+    {
+      "id_road": "27da9065-28f5-4c43-af2c-3e52b6d83c9c",
+      "name_overpass": "Șoseaua Panduri",
+      "name_tomtom": "Șoseaua Panduri",
+      "id_tomtom": "e1f11cc6-4b31-4d08-92a6-e1ac797b0a4d"
+    },
+    {
+      "id_road": "524ce156-4662-444d-b7e2-8eadea8bafa8",
+      "name_overpass": "Șoseaua Pantelimon",
+      "name_tomtom": "Șoseaua Pantelimon",
+      "id_tomtom": "baf26c00-1a23-43d9-83ca-d1fe04ec58f9"
+    },
+    {
+      "id_road": "36ff72c2-bab1-4576-bc5f-478f811fe692",
+      "name_overpass": "Șoseaua Pavel Dimitrievici Kiseleff",
+      "name_tomtom": "Șoseaua Pavel Dimitrievici Kiseleff",
+      "id_tomtom": "5e8cf06e-ea56-44fc-86d2-9b9b1dcc78b2"
+    },
+    {
+      "id_road": "230a1050-7099-4700-8186-320f46cb2dc2",
+      "name_overpass": "Șoseaua Petricani",
+      "name_tomtom": "Strada Petricani",
+      "id_tomtom": "963f5373-e8bf-42de-998a-dfeef32d4154"
+    },
+    {
+      "id_road": "317a4c38-ea3a-40c7-973c-256b876190af",
+      "name_overpass": "Șoseaua Pipera",
+      "name_tomtom": "Șoseaua Pipera",
+      "id_tomtom": "30b5c74a-a581-40e2-8ec4-026ff1dfb5c1"
+    },
+    {
+      "id_road": "a1e50e2f-f0e1-40d8-b729-955a6a6dc7cd",
+      "name_overpass": "Șoseaua Sălaj",
+      "name_tomtom": "Șoseaua Sălaj",
+      "id_tomtom": "d91e1801-aa8b-488a-8725-ed233c88a26a"
+    },
+    {
+      "id_road": "e69a7b36-b2d1-42d7-8d19-08bcbd98b1c2",
+      "name_overpass": "Șoseaua Sportului",
+      "name_tomtom": "Strada Sportului",
+      "id_tomtom": "272e08f1-5895-4009-95bb-d7ccd825d916"
+    },
+    {
+      "id_road": "e990d6d4-42bf-4436-a7fc-e5f02efc3a8b",
+      "name_overpass": "Șoseaua Străulești",
+      "name_tomtom": "Șoseaua Străulești",
+      "id_tomtom": "34aab14e-b591-415a-a180-6b864009548d"
+    },
+    {
+      "id_road": "c3924e56-070f-4e75-9955-22a34b2cf840",
+      "name_overpass": "Șoseaua Ștefan cel Mare",
+      "name_tomtom": "Șoseaua Ștefan Cel Mare",
+      "id_tomtom": "87317e3d-a566-4ccf-80b3-7c16e3965cc1"
+    },
+    {
+      "id_road": "37286697-06a8-4bf9-8685-bc574e34bb3b",
+      "name_overpass": "Șoseaua Vergului",
+      "name_tomtom": "Șoseaua Vergului",
+      "id_tomtom": "00787cd6-f7eb-4471-a778-2840e57795eb"
+    },
+    {
+      "id_road": "6fbdf632-7eee-45b3-879d-a9384ce0faed",
+      "name_overpass": "Șoseaua Viilor",
+      "name_tomtom": "Șoseaua Viilor",
+      "id_tomtom": "31c47e79-2f80-4ae2-88e2-7f80de33a39f"
+    },
+    {
+      "id_road": "f33cf22f-3d8b-4111-a766-eb71f7bfd374",
+      "name_overpass": "Șoseaua Virtuții",
+      "name_tomtom": "Șoseaua Virtuții",
+      "id_tomtom": "e24400fe-5449-460b-ac2f-d7d47d35981a"
+    },
+    {
+      "id_road": "14ef7053-d9d2-4c8e-ad67-e35922bbe63c",
+      "name_overpass": "Șoseaua Vitan-Bârzești",
+      "name_tomtom": "Șoseaua Vitan Bârzești",
+      "id_tomtom": "ecbea605-ffb2-45d1-8914-c5a2edefcabc"
+    }
+  ]
+}

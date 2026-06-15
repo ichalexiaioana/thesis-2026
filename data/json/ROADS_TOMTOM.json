@@ -1,0 +1,2384 @@
+{
+  "features": [
+    {
+      "id_tomtom": "d22d43f9-ec6f-4df1-ad25-b6fb40566f33",
+      "streetName": "Șoseaua Chitilei",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "36b7d2d6-48fb-4108-b9bd-782888a6624b",
+      "streetName": "Șoseaua București Târgoviște",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9552d32b-0ce8-4263-96ae-c84f4d77eea8",
+      "streetName": "Șoseaua Gheorghe Ionescu Șișești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e1b76dc0-5a03-40b1-ba86-32685c73149a",
+      "streetName": "Bulevardul Laminorului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7c6a9768-1900-44d7-ad54-e2466e110ab6",
+      "streetName": "Strada Jiului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "108b67e4-5e31-41d8-90ff-4f2a3151f44c",
+      "streetName": "Strada Dridu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "bd3b1ca1-064b-4138-89c1-ace55047a5d7",
+      "streetName": "Strada Băiculești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "38468ae3-727b-4c47-b6d6-523e3a2162d9",
+      "streetName": "Strada Gherghiței",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4bce84f4-51c6-4a84-9d3d-125692291e67",
+      "streetName": "Strada Pajurei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "30b5c74a-a581-40e2-8ec4-026ff1dfb5c1",
+      "streetName": "Șoseaua Pipera",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "dee80407-d0a3-482f-8910-ece9fa911f77",
+      "streetName": "Bulevardul Ferdinand I",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8c7e1a05-a57b-403c-91ee-742e4c386fe4",
+      "streetName": "Strada Baicului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "304af883-149c-4e4c-a23d-82e7232dbf5e",
+      "streetName": "Bulevardul Ghica Tei",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "272e08f1-5895-4009-95bb-d7ccd825d916",
+      "streetName": "Strada Sportului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5ff40106-3204-4822-aecf-e3af8c22b687",
+      "streetName": "Calea Griviței",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e89c1884-e6b5-4e3e-9d1e-9881b849af78",
+      "streetName": "Intrarea Paharnicul Turturea",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d51d3ea7-dfc3-426e-85d3-814e9b2a5c13",
+      "streetName": "Bulevardul Alexandru Ioan Cuza",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1e5c344a-8863-4435-bf10-a69ceff89279",
+      "streetName": "Strada Caraiman",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "7cac5506-e397-49f7-b027-5c8d22d5bc8e",
+      "streetName": "Bulevardul Ficusului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "23c1f58f-10e2-4138-88fe-cb2fef6f68e9",
+      "streetName": "Strada Oașului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "ed93e9b5-c3af-4fa3-a716-067ea6c16ff0",
+      "streetName": "Strada Mihail Ivanovici Glinka",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5bc749db-de63-4ce4-94c5-4987c2ece118",
+      "streetName": "Bulevardul Mircea Eliade",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "1323eaef-5cfa-410d-80fc-62890c8b6489",
+      "streetName": "Strada Lainici",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "213afe8a-6d1b-437e-b592-37a641651d80",
+      "streetName": "Strada Barbu Văcărescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "23f6ba44-36e0-47a0-be5a-c96bd83af068",
+      "streetName": "Strada George Constantinescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c2a5c248-a998-492d-9e15-276f69885a78",
+      "streetName": "Strada Nicolae G. Caramfil",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bf4681ab-06e8-4c8e-afb7-1351e935eeb1",
+      "streetName": "Strada Sculptorilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d7f4714f-4418-42d1-90cc-b02f3f98901c",
+      "streetName": "Strada Nicolae Cânea",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "0c05cd02-baf3-4a1f-b463-3018f751ac9b",
+      "streetName": "Strada Popișteanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5e8cf06e-ea56-44fc-86d2-9b9b1dcc78b2",
+      "streetName": "Șoseaua Pavel Dimitrievici Kiseleff",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "4e36e119-0f17-43bc-86b3-9c1ef0ff317d",
+      "streetName": "Strada Gheorghe Țițeica",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1dcc7c68-2e00-4bd1-a403-0036366f2390",
+      "streetName": "Strada Natației",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5b4dd82b-d5f5-4a10-a53d-df2e437ebeac",
+      "streetName": "Strada Biharia",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "da681ce5-d3e9-4bd4-8096-192b2b2e1533",
+      "streetName": "Șoseaua București-Ploiești",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "a1c772b3-f715-4a65-8049-6c25070819f0",
+      "streetName": "Strada Avionului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "01396f0e-184f-4b23-9e6e-26dad39e2f59",
+      "streetName": "Strada Elena Văcărescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bfa3de2e-7266-4c44-ba90-570efa9d942e",
+      "streetName": "Strada Coralilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "22bbacb7-7a29-482a-9e16-7fe61bb2f875",
+      "streetName": "Bulevardul Bucureștii Noi",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "e5db10cf-cbb2-4b42-a476-ef0420f513c9",
+      "streetName": "Strada Subcetate",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "4cb06d19-88a3-4e03-9530-a13bbfac31ae",
+      "streetName": "Strada Tipografilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9a2b5189-a3e7-458c-90d4-1f2b4dcd2c07",
+      "streetName": "Bulevardul Dimitrie Pompeiu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "25d0f9d8-3f68-4b79-91d7-e3bfdd620900",
+      "streetName": "Strada Gara Herăstrău",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c7b20303-e338-4cb5-8aad-d0d2ba4c193e",
+      "streetName": "Șoseaua Nordului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "1096afc9-0567-4352-ab51-42de6d97308d",
+      "streetName": "Șoseaua Andronache",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "735fca00-135c-4850-bad4-925723cefcbf",
+      "streetName": "Șoseaua Fundeni",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1cdab48b-916d-4610-82a0-0b4640b12ab6",
+      "streetName": "Strada Dornei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a44ed5d4-1eb0-4467-a604-866b4be91957",
+      "streetName": "Strada Ramuri Tei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ab5d4238-6967-45eb-ab25-2c3304ab97c8",
+      "streetName": "Strada George Vâlsan",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f002fd20-1e5c-4ddc-a34b-614d95c0e195",
+      "streetName": "Strada Heliade Intre Vii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "35cc7832-3e51-423d-840d-bc95dce3acb7",
+      "streetName": "Bulevardul Lacul Tei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "dbdacebc-3aa9-4217-85d1-2656d4e94bd2",
+      "streetName": "Strada Ceahlăul",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7fda6757-26d3-438d-a2ec-ee6d3f4e9df3",
+      "streetName": "Șoseaua Colentina",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "4095d82c-291e-4e21-b33e-18b6e7283e0e",
+      "streetName": "Calea Giulești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "963f5373-e8bf-42de-998a-dfeef32d4154",
+      "streetName": "Strada Petricani",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "534615c5-d246-4fa0-9f55-7b54abc519ad",
+      "streetName": "Strada Soveja",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9d1ab627-b630-4c66-88a8-95fbfb514c49",
+      "streetName": "Bulevardul Ion Mihalache",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f0077518-fce9-4a43-982b-f2c0d326b78f",
+      "streetName": "Drumul Săbăreni",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "faf57a43-5ca2-48bf-a0db-bc8395bda0b4",
+      "streetName": "Strada Teiul Doamnei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b4ee10c5-10ca-4a19-b7e2-e82f797d4167",
+      "streetName": "Strada Maior Vasile Băcilă",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f49f5496-f7fc-402f-b8ef-7450ecec51c2",
+      "streetName": "Strada Piotr Ilici Ceaikovski",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a5894d03-1fd7-4789-9397-eb8ed06b5760",
+      "streetName": "Strada Butuceni",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "7ec67bcf-b709-4ac2-97e6-94185d7b6959",
+      "streetName": "Strada Grigore C. Moisil",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "5e3b4e0b-a14d-4cf3-bea8-f20188dab2c2",
+      "streetName": "Strada Răsadniței",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "12172a79-b27d-481d-a56e-067729e8c148",
+      "streetName": "Bulevardul Mareșal Alexandru Averescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c8f9a0c8-2f00-4e2a-8520-a46384863d05",
+      "streetName": "Strada Locotenent Comandor Aviator Gheorghe Bănciulescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "341ede43-e27c-49c3-bdb1-6a0161af539e",
+      "streetName": "Strada Tunari",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "40fa2619-d931-429e-b681-69e107952812",
+      "streetName": "Strada Inginer Cristian Pascal",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c982e9f4-b0a9-459a-a93a-31c71bd12e47",
+      "streetName": "Strada Polonă",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bd8b9cb0-ea29-4578-b9df-9ce746857f08",
+      "streetName": "Strada General Gheorghe Manu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "baf26c00-1a23-43d9-83ca-d1fe04ec58f9",
+      "streetName": "Șoseaua Pantelimon",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9b30a339-6161-48df-9a6e-d0c0883081f8",
+      "streetName": "Strada Vasile Lascăr",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "508058c5-9f87-4aa3-a27a-4cb897dedf88",
+      "streetName": "Strada Maica Domnului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f71558bd-8702-4aea-b39a-ae64818185db",
+      "streetName": "Strada Mircea Vulcănescu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "9ad4de78-2e89-4ddb-958f-9378b9431b43",
+      "streetName": "Bulevardul Dinicu Golescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8cd64c77-b353-459b-9490-8a38efab36de",
+      "streetName": "Strada Boișoara",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "565d3a78-4528-47f4-ab4c-135f0bf86f1b",
+      "streetName": "Șoseaua Mihai Bravu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "3e360c3b-40be-4a90-88cb-789a99f6666f",
+      "streetName": "Strada Costache Conachi",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "91c9c5a3-9046-43ca-bef5-eb8b3fc5398b",
+      "streetName": "Strada Locotenent Victor Manu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "7a9d1b1e-cb7b-407a-b459-0136906c471d",
+      "streetName": "Strada Ion Câmpineanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "07175cce-56aa-41d5-b7e6-b0b6ecffc4f9",
+      "streetName": "Strada Matei Voievod",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "32437400-2d77-475c-830c-f403de4dc06e",
+      "streetName": "Strada Dianei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "efd22748-ee6b-4594-beba-d986f9790b2f",
+      "streetName": "Strada Dreptății",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "989ece9e-1fd7-47fb-b23c-05d498be8e54",
+      "streetName": "Șoseaua Gării Cățelu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "37a489d6-8eb5-4e1a-9947-63e4f56e03aa",
+      "streetName": "Calea Călărași",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "794ee99d-0c45-4815-9ba3-8ffd2038fa43",
+      "streetName": "Strada Industriilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d10f3725-da1f-4d00-9a90-7c4a5ce1e34f",
+      "streetName": "Strada Labirint",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "0bd31c72-39ce-4c20-9469-778951da267c",
+      "streetName": "Strada Doamna Ghica",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "6c713ca3-2600-46a0-9cd5-3c7adcc9fff7",
+      "streetName": "Strada Viitorului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4f8b0a81-404f-440b-8075-e913258279a4",
+      "streetName": "Strada Doctor Iacob Felix",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d79e756c-25e0-4a3d-a53e-f3921031d07e",
+      "streetName": "Strada Lizeanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "20fded3f-4a68-4d77-b9bc-d2c0fe6d11a9",
+      "streetName": "Strada Mehadia",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "3dccbaff-354a-4649-946c-8fc67fa3d94b",
+      "streetName": "Strada Grigore Alexandrescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9689e316-dd40-4922-b0be-9a8888d460b1",
+      "streetName": "Bulevardul Constructorilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e91634ed-77fb-453f-b20b-a9200fcddca1",
+      "streetName": "Strada Roma",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "16375bcf-29ee-414c-b28b-1b6939367ce2",
+      "streetName": "Strada Maltopol",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "438e389c-c74d-46e9-ab85-5095304b12df",
+      "streetName": "Bulevardul Nicolae Bălcescu",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "c7d1f864-2917-41f8-afc4-4142b949df14",
+      "streetName": "Strada Clucerului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b7643b5a-0a73-41ca-9b7b-c907c5e150d3",
+      "streetName": "Strada Pârgarilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "20323cb7-e5b6-41a6-a3d4-cdd6475c4807",
+      "streetName": "Strada Câmpul cu Narcise",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "7bd7ea7d-f1fb-4ab2-9b93-b35dc8c9c22e",
+      "streetName": "Strada Arhitect Ion Mincu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8a14bab6-01fc-4860-9d90-5cd9a4905114",
+      "streetName": "Strada Alexandru Constantinescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "0b80da15-041f-434f-8e3e-e95f3439c4ad",
+      "streetName": "Strada Județului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "6eb23c5c-fa3a-41c9-8a41-64d94ab79935",
+      "streetName": "Strada Maior Ion Coravu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "59ae55cb-9ec3-490a-a7aa-effe381a3647",
+      "streetName": "Calea Moșilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "be376ec3-4fb9-4b42-8358-d49a8765d531",
+      "streetName": "Strada Batiște",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "6207b94b-303a-4207-abf0-cc95643fd560",
+      "streetName": "Strada Ghirlandei",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "a7eb647d-b1af-4cff-bba6-f1a1f787043c",
+      "streetName": "Strada Barbu Lăutaru",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "0227b82e-b3e4-476a-a654-b459d72ff5fb",
+      "streetName": "Strada George Mihai Zamfirescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bb76e1d2-de99-4eac-a8ca-fc0dc9e27149",
+      "streetName": "Strada Dezrobirii",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "18044bfb-6345-4dbe-8fe3-0aeeb5d279f3",
+      "streetName": "Șoseaua Iancului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9750ec44-9d9b-4993-bb21-15cf3ebcad8b",
+      "streetName": "Bulevardul Pierre De Coubertin",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "00787cd6-f7eb-4471-a778-2840e57795eb",
+      "streetName": "Șoseaua Vergului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "14cdecdc-ea13-468f-9cd9-b026c5d3b214",
+      "streetName": "Bulevardul Uverturii",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "1cc0ebcc-3b40-425f-99cc-eecf0edcb6c1",
+      "streetName": "Șoseaua Dobroești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7d68a341-12c9-44d2-a5e0-8748f4a94577",
+      "streetName": "Bulevardul Regiei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "19e1ea56-59cb-4dd8-9eec-74a3c79c64a8",
+      "streetName": "Strada General Henri Mathias Berthelot",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "6408fd7e-41b6-4fd4-b81a-b9c60581f8bd",
+      "streetName": "Calea Plevnei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "72871ee8-48b8-400c-956b-8a230a7b087b",
+      "streetName": "Strada Cărăușilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "05032c1c-5015-4b5e-9ade-f05c4b29f74d",
+      "streetName": "Bulevardul Dacia",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "23157b87-9eb9-42d5-b1fe-460ff755eade",
+      "streetName": "Strada Dionisie Lupu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "2e025138-d7cf-4061-b419-8e572bb0cb6c",
+      "streetName": "Strada Fântânica",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5711d32f-1e75-441f-a5a6-2ef0964059bc",
+      "streetName": "Bulevardul Gheorghe Duca",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "35451bab-2684-4264-bb23-744a1b62b629",
+      "streetName": "Strada Dumitru Slugeru",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "89272df0-e432-4278-9298-84a671b00d57",
+      "streetName": "Calea Dorobanților",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "31d3b830-a85f-4ca5-b28c-bab9401fd0c7",
+      "streetName": "Strada George Enescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bac63fbd-a4c5-4fe3-9ddc-fddd0e9981c8",
+      "streetName": "Strada General Constantin Budișteanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "62a7bffd-a485-43f2-9c64-194d67cdbc65",
+      "streetName": "Strada Sfinții Voievozi",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5d231c72-317e-4cd0-b2c2-d6f1c04ba10b",
+      "streetName": "Strada Traian",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "83096d57-7b7f-4c60-b646-67ff72aedf37",
+      "streetName": "Strada Avrig",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b037e5ed-1e7f-4524-b81b-aebd10d03857",
+      "streetName": "Splaiul Independenței",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d36f24fc-4702-4d0c-9011-4e2cad58a486",
+      "streetName": "Bulevardul Pache Protopopescu",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "c2035742-d0b0-4f5c-a6b5-2c6f89458db0",
+      "streetName": "Strada Dâmbovița",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "0abb8f6c-8a19-4721-925b-0482329ffa11",
+      "streetName": "Strada Apusului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "3adb4b31-2b92-4fcc-aa54-29f8cf5b5af2",
+      "streetName": "Bulevardul Eroilor",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "5abe3d5e-26f5-42eb-b48c-1a479c549d86",
+      "streetName": "Strada Antiaeriană",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ba43dabe-0242-4a87-814e-4fe54275d3a3",
+      "streetName": "Strada Bârca",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4f55711f-b4c0-4d22-bfed-d1f8e70fe92f",
+      "streetName": "Strada Dumbrava Nouă",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "06376173-9f51-42b6-8b9c-e438e3dd4566",
+      "streetName": "Strada Popa Nan",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "13f84a32-651a-4e2f-af5d-cf11f19ff0b6",
+      "streetName": "Strada Matei Basarab",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "74576965-5eb5-40a9-8295-43779319e46f",
+      "streetName": "Strada Delea Nouă",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "17587736-5d6b-477f-a6ea-86f3f3c7ad95",
+      "streetName": "Strada Romulus",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a5db69e9-b410-419e-8fad-319dd0be7751",
+      "streetName": "Calea Victoriei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "71f4efcb-67f9-49eb-aece-e4a605a0f19e",
+      "streetName": "Strada Vasile Pârvan",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bb916dc3-b01b-4fba-8bd6-71972f07b70d",
+      "streetName": "Bulevardul Mircea Vodă",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c60c9a66-cee9-44d5-ad24-af0ef124fd48",
+      "streetName": "Strada Locotenent-Colonel Constantin Marinescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1062a458-3f46-491d-bb52-faa4069ddec3",
+      "streetName": "Splaiul Unirii",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "6afdb8e0-451b-46ea-a355-4c7927ac608b",
+      "streetName": "Calea Vitan",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a9f19043-4575-45f6-90ea-19268dc2a32d",
+      "streetName": "Strada Dristorului",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "beb4522d-b544-426e-92dc-31295e5b2a44",
+      "streetName": "Strada Ion Nonna Otescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "abb14977-d91a-46f9-8f27-8b95d954f0c0",
+      "streetName": "Strada Lucrețiu Pătrășcanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7ed50a98-dc59-4476-93ff-7a5757dec005",
+      "streetName": "Strada George Calboreanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d0cea45d-9472-43fb-b2fa-d4cfcb348485",
+      "streetName": "Strada Armand Călinescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "05fc83ea-76af-4732-a80b-4d86a7d62adb",
+      "streetName": "Strada Agricultori",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "e945934c-05ac-492e-8ba9-d16bd98a19de",
+      "streetName": "Strada Romancierilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9f6192de-96a1-45af-aaf5-02098210c1e0",
+      "streetName": "Strada Moinești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "231f803f-f147-4c4c-846f-a8c286b93e18",
+      "streetName": "Strada Liniei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "fc11094e-673c-47b7-8f97-589fefe96aae",
+      "streetName": "Strada Sfânta Vineri",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "19476c38-9334-4257-a0c5-5cd97f0fdda8",
+      "streetName": "Strada Sfântul Elefterie",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "662ffa16-5a32-4769-9f1c-7ff3488496be",
+      "streetName": "Strada Câmpia Libertății",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "cb0a3a04-c940-423e-a976-7d1cde3af681",
+      "streetName": "Strada Liviu Rebreanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "fcc844a6-2ad9-42fb-9cd4-595a218faa12",
+      "streetName": "Bulevardul Burebista",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ac0404e1-4ee9-40d2-ad28-a8a467d7e530",
+      "streetName": "Șoseaua Grozăvești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1d4145af-43cf-4893-af77-bf5936045e32",
+      "streetName": "Strada Demetru I. Dobrescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e163fabb-e560-41a2-b986-26306b398443",
+      "streetName": "Strada Sfântul Ștefan",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "348a79c5-889f-4365-81b8-94bef0ba433a",
+      "streetName": "Strada Episcopiei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "24e3d549-efb9-42b1-99ea-84340c148ed7",
+      "streetName": "Strada Știrbei Vodă",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "051e2809-8879-42aa-ab4a-3389af867836",
+      "streetName": "Strada Luterană",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "970b079f-12e9-4be4-9d25-d8fdb6ae55e2",
+      "streetName": "Strada Reînvierii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b63f532f-5d95-4725-89cd-90b286458188",
+      "streetName": "Strada Mântuleasa",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4804b572-569c-4dfa-8e06-04537fa4d8b6",
+      "streetName": "Strada Târgu Neamț",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8016dc73-337f-4b77-868c-3a1f84b91e2d",
+      "streetName": "Strada Cetatea Histria",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e81b9d56-4e4a-420b-9e24-2d917df31b3c",
+      "streetName": "Prelungirea Ghencea",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "6731bfef-a126-48d4-a1e6-3b5f616031d4",
+      "streetName": "Drumul Sării",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f9792a14-dde0-47a6-bf61-d8c385aa5fc9",
+      "streetName": "Strada Anastasie Panu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "82a360de-e03c-4fb1-a66f-7943903ce16c",
+      "streetName": "Strada Valea Ialomiței",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e671a1c2-fc4c-4c98-bacb-442c6043ea7a",
+      "streetName": "Strada Râmnicu Vâlcea",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4a6ee478-667f-46a4-922b-0f5f02858e5c",
+      "streetName": "Strada Fizicienilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "551bbdc7-0f2d-444d-997b-900a5baf8b15",
+      "streetName": "Strada Grădinarilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "41539aa3-4c99-4afb-904f-91d323b83059",
+      "streetName": "Strada Foișorului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "086a12a1-475b-4659-ad48-1e66c92c71f0",
+      "streetName": "Bulevardul Basarabia",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "50c6af39-4155-4251-81d3-7d731c950096",
+      "streetName": "Bulevardul Hristo Botev",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8533c839-dc91-4a86-a3d6-0a2dbcd59a92",
+      "streetName": "Strada Căderea Bastiliei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f4728448-f295-45f2-8aae-b7f7d55ffa1f",
+      "streetName": "Strada Lujerului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1f0557ee-8146-4626-8ff4-dcd86a1c15e5",
+      "streetName": "Bulevardul Națiunile Unite",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "babba3d3-1c12-4e8f-a971-561b45c7ecfe",
+      "streetName": "Bulevardul Schitu Măgureanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4d744724-6d15-4b95-99eb-c3d4207f3169",
+      "streetName": "Bulevardul Eroii Sanitari",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "23ff7e2d-a7e4-439d-9e63-725cd442d1b1",
+      "streetName": "Strada Doctor Carol Davila",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "21209e21-e101-4825-8658-9a37f082451b",
+      "streetName": "Bulevardul Carol I",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "2571ab60-a789-45ca-8794-ef19040deae0",
+      "streetName": "Calea Șerban Voda",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "47d8223a-ef8b-4db3-b9ad-4927940cd32c",
+      "streetName": "Bulevardul Decebal",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "583fba07-c66c-4a75-8b79-272fd844ea32",
+      "streetName": "Bulevardul Corneliu Coposu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c654fcf3-6aaa-42aa-ad66-d4cbd036439d",
+      "streetName": "Strada Constantin Brâncuși",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "39acd4c6-d83b-47f7-aef3-4ba26afa602a",
+      "streetName": "Piața Națiunile Unite",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "7dfaa53e-e53a-44b5-96db-002c4f645d51",
+      "streetName": "Intrarea Doctor Maximilian Popper",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "112cb336-9484-41d0-8728-baf105e1f8e4",
+      "streetName": "Calea 13 Septembrie",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "89f7c68f-81be-4eee-8341-a973f7f76f87",
+      "streetName": "Strada Preciziei",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "2fe94a88-77df-4219-9964-0c36b2f4e37c",
+      "streetName": "Strada Traian Popovici",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ef45ebcd-a6cc-4fe8-ab8e-a84696a1c448",
+      "streetName": "Piața Mihail Kogălniceanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "cc73b87c-9aff-49a9-ba2a-343ea0a6b05d",
+      "streetName": "Drumul Între Tarlale",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "66f4f840-bafc-45f2-9d76-1f3bec4105d9",
+      "streetName": "Strada Halelor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "abab8114-06bd-4ebc-9026-2969af53f21b",
+      "streetName": "Strada Râul Doamnei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "85889c78-cdb8-400a-937d-dfd5031b8be6",
+      "streetName": "Bulevardul Râmnicu Sărat",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "91db7b53-4ad6-4741-9d63-f43bf0fce705",
+      "streetName": "Strada Agatha Bârsescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7116cdda-2ae9-4af2-bcdf-0e2e637b0333",
+      "streetName": "Strada Vlad Județu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "55c37f4e-be98-4da4-b1b5-c5b54f48ec5d",
+      "streetName": "Strada Pucheni",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "ed30f258-6550-4667-a3c9-1d55423452c9",
+      "streetName": "Strada Bachus",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4d31e950-34a3-44b3-a217-e159b985fafb",
+      "streetName": "Strada Mărțișor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "173d5684-c7fb-4479-8f5d-1464789cf5b7",
+      "streetName": "Calea Văcărești",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "75047aad-c151-49eb-bb4e-f32565164552",
+      "streetName": "Strada Brândușelor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d9a0e07d-04d3-40f7-9d08-c355d01d4697",
+      "streetName": "Strada Constantin Titel Petrescu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "68341704-2571-45a1-95c4-16c23bec140b",
+      "streetName": "Strada Breaza",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b5e8b532-3070-4d46-b4c9-865b92f2fe2c",
+      "streetName": "Bulevardul Timișoara",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "6862f201-ea19-4c35-830f-27f9bb555775",
+      "streetName": "Strada Mihail Sebastian",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c047f49a-dd85-41b7-b494-6d9d3a243e95",
+      "streetName": "Calea Rahovei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "cd466e1f-fa04-4697-8630-daa6332216ef",
+      "streetName": "Strada Novaci",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "b8fb4aed-bf81-4abf-aa67-5ac438a7ae8b",
+      "streetName": "Bulevardul Mărășești",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "d44b34d8-9306-44c3-8229-0bfc10493331",
+      "streetName": "Strada Nerva Traian",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ba4c7ccb-ec4a-477e-a912-bb2a6dd07faa",
+      "streetName": "Strada 11 Iunie",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b993111d-22ef-4811-b658-3a2cea09aa51",
+      "streetName": "Strada Petre Ispirescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "62e1e991-3f60-44d0-9153-dade445dea09",
+      "streetName": "Strada Chimirului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "0cc65dd9-fbc1-4d8d-984b-1adccda44c55",
+      "streetName": "Strada Banul Udrea",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "31c47e79-2f80-4ae2-88e2-7f80de33a39f",
+      "streetName": "Șoseaua Viilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d91e1801-aa8b-488a-8725-ed233c88a26a",
+      "streetName": "Șoseaua Sălaj",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "3d87abd4-8856-4791-a84f-c74819ab8129",
+      "streetName": "Bulevardul 1 Mai",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "03e59735-2acc-47bb-b347-adcbc0f7da8e",
+      "streetName": "Strada Brăilița",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "a5c2ac4d-7259-4029-8686-6df2fd555645",
+      "streetName": "Strada Zizin",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "de81d7b3-1337-4498-a67d-33251e238ead",
+      "streetName": "Strada Dimitrie Onciu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b4ae7d20-17e4-4f5c-a98c-a00e862bbd2a",
+      "streetName": "Strada Morilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7c7b2182-9e33-4a56-a21b-29c523c98035",
+      "streetName": "Strada Gramont",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "36fb7ac7-d710-466b-b270-f594036f446c",
+      "streetName": "Strada Valea Argeșului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "35d71a5d-d49c-41d0-a16d-11de626559c9",
+      "streetName": "Strada Cuțitul de Argint",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "d0ce3e74-7da9-4e28-bfcf-37c9f3233943",
+      "streetName": "Strada Postăvarul",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c42a7414-08b9-4f6e-9910-b36b2719d5c2",
+      "streetName": "Strada Năsăud",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a1d3f857-3b01-4dab-872b-4154583f3f4c",
+      "streetName": "Strada General Candiano Popescu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "37f9fd7c-51ea-49ce-9b36-e4f30e096dc1",
+      "streetName": "Drumul Găzarului",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "2eff0f9d-2d5c-462a-b53d-dac0b26ca265",
+      "streetName": "Strada Resița",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c5ab8441-9369-485b-91df-897d0ca20e09",
+      "streetName": "Strada Prevederii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7f0ea383-9bba-4ba6-8180-bfdb914133d6",
+      "streetName": "Strada Dantelei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "fb4a59b4-901c-4023-8fd3-b556a65ac706",
+      "streetName": "Bulevardul Pieptănari",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a7444fdf-0e50-4f3f-9c10-468aace6597c",
+      "streetName": "Strada Humulești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8e9d2aad-2bd1-4ef8-85b2-fad1e751b93d",
+      "streetName": "Bulevardul Constantin Brâncoveanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "734c0b6d-6a09-44dd-98f9-5401629cea78",
+      "streetName": "Strada Emil Racoviță",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e164821b-ec16-47fa-8b36-9a3416334e45",
+      "streetName": "Bulevardul Tineretului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "6e69c2f7-5743-49ff-84e5-89355476a774",
+      "streetName": "Strada Eroina De La Jiu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "defc7edf-ae5c-46de-b8f3-b81bcd972ecf",
+      "streetName": "Strada Nucului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c1b7bb20-2b73-4b64-b18c-5597102e5101",
+      "streetName": "Bulevardul Camil Ressu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e156a382-67e4-4b12-9aa3-14680b95fbc6",
+      "streetName": "Bulevardul Nicolae Grigorescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "65fe601d-2da2-487a-8e6b-3181d08001cb",
+      "streetName": "Strada Trompetului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "31d06b8e-4c97-4459-9c7b-91dfb59ad778",
+      "streetName": "Strada Amurgului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ac29c219-977b-4bfd-acda-36e38dd87e98",
+      "streetName": "Bulevardul Theodor Pallady",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "c9d873cf-895e-4084-93c7-f64906e0ff84",
+      "streetName": "Strada Sergent Major Ion Nedeleanu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "6a4bf768-58ca-4487-8a9a-8085008873fc",
+      "streetName": "Strada Fabrica de Chibrituri",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c72badae-086b-499f-bb73-e7462b0966bc",
+      "streetName": "Strada Lânăriei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "cd6d3aba-eac3-43b1-858a-04011c6a84c2",
+      "streetName": "Strada Peneș Curcanul",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f9644fcb-d144-44d9-9cb3-6736ee8c73f1",
+      "streetName": "Strada Ghidigeni",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "2530ec98-f523-49e5-894b-c2046a478bae",
+      "streetName": "Strada Mizil",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c409eb70-9041-44fe-9f41-c46678975fca",
+      "streetName": "Strada Patrioților",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4a95ea3a-292b-4f21-827d-15d8aa6176a4",
+      "streetName": "Calea Ferentari",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9d5829b6-fb8d-4f70-9f81-6f4178ef5f5c",
+      "streetName": "Strada Nicolae Teclu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "db861e50-c8a0-414c-a04c-95e03225ad32",
+      "streetName": "Strada Soldat Vasile Croitoru",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "aab1242c-8e87-4a0e-a2d4-5b59342ca6cf",
+      "streetName": "Strada Trapezului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5e952f4a-27fe-4cd4-8807-ae3182d6d6b2",
+      "streetName": "Strada Pecineaga",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8867b6e2-23b9-4348-bdc3-0c6f4b81a160",
+      "streetName": "Bulevardul Energeticienilor",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "835e3494-fd13-428a-b9b5-8a79e7754a19",
+      "streetName": "Drumul Lunca Dunării",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "79b6ac6c-9cdb-489b-944c-f4bbd2659971",
+      "streetName": "Strada Doina",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "52a6ce9e-4033-4748-ace4-af48cfae0566",
+      "streetName": "Aleea Mizil",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f73a9f56-d2d7-4680-ad83-6422eef09c73",
+      "streetName": "Strada Sergent Turturică",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "2b243cd6-008a-4737-b3b1-d8c9137276ac",
+      "streetName": "Strada Neptun",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "7ce9d008-0244-4255-ab1f-e9fd440a1b66",
+      "streetName": "Strada Cârlibaba",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "eeda8932-16b8-45e6-b565-433c3bd6765e",
+      "streetName": "Strada Stoian Militaru",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "0358befb-94d5-410a-b513-229af201d705",
+      "streetName": "Strada Toporași",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bceb6c21-3350-400c-bde8-124d1a355001",
+      "streetName": "Strada Sergent Ion Iriceanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "25b633a7-2f0b-4eb5-bf27-0cee7c22a688",
+      "streetName": "Strada Alunișului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "74200a64-663c-46cc-b427-9981643200d7",
+      "streetName": "Strada Semănătorului",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "f7c4fc31-b86f-4a40-ae93-fc09af3a6e46",
+      "streetName": "Strada Veseliei",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "b91f5ff4-a8bd-4399-9ab4-8a21a1bc20d7",
+      "streetName": "Strada Secuilor",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "b3b032bb-96c0-4d8c-bbcc-0cb4fcc330e7",
+      "streetName": "Podul Vitan",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4ebb24ed-e798-4df2-898d-1d2c8d6a4ef2",
+      "streetName": "Drumul Cheile Turzii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ef6d6e4c-257c-4171-941a-ea66a1ac411c",
+      "streetName": "Strada Salviei",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "678ec9e2-553a-4e29-9714-61a445cb4c44",
+      "streetName": "Strada Luica",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c95f8cde-70f2-4ee8-ab68-1034d859216b",
+      "streetName": "Bulevardul Regina Maria",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "2604de79-b995-4af1-896b-0f33d73af8b9",
+      "streetName": "Strada Ghimpați",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "c6ecab38-5c51-4069-a3b6-2d69d14829a4",
+      "streetName": "Șoseaua Berceni",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "094b14fb-da73-4b55-a33a-5772e44d31ba",
+      "streetName": "Strada Valea Cascadelor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "28a9bcc5-2222-449e-beca-8635f4ebfd99",
+      "streetName": "Strada Releului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "33d51f19-bce4-45d2-a8a7-b093fa73fde6",
+      "streetName": "Strada Izvorul Rece",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5c0d56b7-6c36-46e7-8a22-c077167da46b",
+      "streetName": "Strada Zețarilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5f7459af-8244-4dd6-8dd7-96f5c1e2aaa0",
+      "streetName": "Strada Sergent Nițu Vasile",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "514ef418-8d6a-44a3-ba19-611037312d7a",
+      "streetName": "Bulevardul Alexandru Obregia",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "441387b4-9487-4863-b768-abb0e7481fc6",
+      "streetName": "Șoseaua București Măgurele",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9d1f9838-e1b5-484d-ba51-fb0005755851",
+      "streetName": "Strada Iuliu Hațeganu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7c848948-2923-4fc2-9c5a-c0b4960d9e33",
+      "streetName": "Strada Alexandru Anghel",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "edfb2612-e9e3-4f34-b5e6-5d56da6d2dfe",
+      "streetName": "Bulevardul Metalurgiei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ecbea605-ffb2-45d1-8914-c5a2edefcabc",
+      "streetName": "Șoseaua Vitan Bârzești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4910d9f2-6289-4067-8d0b-b28c87bc0b68",
+      "streetName": "Strada Mândrești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "dee2c68c-93d8-4b55-9af1-ec512e58fb9b",
+      "streetName": "Strada Turnu Măgurele",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e2385e10-0ed0-4b8d-9e32-22df44848db0",
+      "streetName": "Strada Pogoanele",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "87317e3d-a566-4ccf-80b3-7c16e3965cc1",
+      "streetName": "Șoseaua Ștefan Cel Mare",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "24d31447-f4bd-4cd0-8b2f-4e23346b3b77",
+      "streetName": "Șoseaua Morarilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4022f522-5cbd-4e4a-a630-d45970e40c58",
+      "streetName": "Strada Brașov",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "bc7ae540-f6b5-4229-bcd2-09b0fcb473f5",
+      "streetName": "Piața Victoriei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "fa54893e-9e7f-4be9-aed8-d2991aa757e3",
+      "streetName": "Strada Piatra Morii",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "be045970-511e-44e4-a7c4-b5cd6e8a6c03",
+      "streetName": "Strada Izvor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f7099558-4d70-4cef-b2e2-2b153c50a9a7",
+      "streetName": "Strada Valea Oltului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "afc9dbe9-3f67-4ecc-807e-d54a8b7faed9",
+      "streetName": "Bulevardul Gheorghe Șincai",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "6f0802c9-06f5-417c-ae85-ab2b9a4431f1",
+      "streetName": "Bulevardul Primăverii",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "8710769f-49f7-4ebb-9045-042bfadb739d",
+      "streetName": "Bulevardul Aviatorilor",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "d971637a-ec55-48c6-bac1-d08640c535c1",
+      "streetName": "Bulevardul Regele Mihai I al României",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "fa054962-c427-4305-a16d-0f0db31ab7ca",
+      "streetName": "Strada Căpitan Aviator Alexandru Șerbănescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7a09419a-b3a1-4cb8-9563-c92f089993d1",
+      "streetName": "Bulevardul Unirii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b7edf701-3aa6-4a62-a35a-006378d6c781",
+      "streetName": "Bulevardul Lascăr Catargiu",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "e2075bc2-f2d2-44a2-ba43-f7eab6baa6a9",
+      "streetName": "Bulevardul Mărăști",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "aa4b5c4e-ae9a-461f-9726-3689dfd9b520",
+      "streetName": "Bulevardul Expoziției",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "cdbc831c-e2ae-41ed-8f36-6a055f3362e4",
+      "streetName": "Strada Jandarmeriei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "534e692b-eb66-4bf2-90a3-8d0907966922",
+      "streetName": "Bulevardul Ion Ionescu de la Brad",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "34aab14e-b591-415a-a180-6b864009548d",
+      "streetName": "Șoseaua Străulești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b2efd2e8-2ecf-4457-8148-0ac363dc1523",
+      "streetName": "Piața Gării de Nord",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b034c8a4-6eb6-42af-b323-233cc4620a8f",
+      "streetName": "Drumul Regimentului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "dbbddd5f-c28b-48b7-85b7-1b4838283fab",
+      "streetName": "Calea Crângași",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "6631d2dc-a161-4b49-8888-6344be6ee6d5",
+      "streetName": "Strada Bibescu Vodă",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b93bd132-aacd-46e9-b0c8-5d8070409ae6",
+      "streetName": "Bulevardul Regina Elisabeta",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "0a7b92d9-6548-489a-a293-6c8d3619eed2",
+      "streetName": "Piața Universității",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "2c798b31-d984-437a-9451-8c63d9ada216",
+      "streetName": "Piața Regina Maria",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1df219fa-2887-4e34-8a42-742d11677d80",
+      "streetName": "Bulevardul Tudor Vladimirescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bc917ea2-3f10-4bdc-baba-7e511196b5b5",
+      "streetName": "Bulevardul Iuliu Maniu",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "e24400fe-5449-460b-ac2f-d7d47d35981a",
+      "streetName": "Șoseaua Virtuții",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "3e059f9a-1f69-4590-a7f4-0926a247bb38",
+      "streetName": "Bulevardul Geniului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e1f11cc6-4b31-4d08-92a6-e1ac797b0a4d",
+      "streetName": "Șoseaua Panduri",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8223c14b-58c2-4c08-b7fa-5248543663f8",
+      "streetName": "Bulevardul General Paul Teodorescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "599fb493-4ccc-4278-845d-a9e452498cf7",
+      "streetName": "Piața Alexandru Lahovary",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1c2dc2f4-2be6-4f7f-801d-409f664183ea",
+      "streetName": "Bulevardul Banul Manta",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "2bdfeb94-9937-4035-a81d-c29f29e868d1",
+      "streetName": "Bulevardul George Coșbuc",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "cb76c793-88ff-4ff9-9857-a93915749b09",
+      "streetName": "Drumul Taberei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f7f24f58-3c32-46f7-8bb1-4f1d008820f9",
+      "streetName": "Bulevardul Ghencea",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "6832e48a-5e70-4891-bb5b-281ceaac7ebf",
+      "streetName": "Strada Progresului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a757d7b8-c15f-480a-8978-f4065ee68bba",
+      "streetName": "Bulevardul Poligrafiei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b03162dc-77cb-410c-9a41-42253562d13a",
+      "streetName": "Strada Spătarul Preda",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "506af756-274a-4752-ae0f-d672e20c51ba",
+      "streetName": "Piața Eroilor",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "2608f51b-e738-4acc-9028-77700d46223e",
+      "streetName": "Bulevardul Profesor Doctor Gheorghe Marinescu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "ebb029db-ed63-4638-bdc6-b2ed00334960",
+      "streetName": "Bulevardul Chișinău",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5c1197d2-c747-433e-85c2-2177cdcad82e",
+      "streetName": "Strada C. A. Rosetti",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d8d9b2e8-4009-421f-bdb0-8c703d1cae1c",
+      "streetName": "Strada Mărgeanului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5e8941bc-9881-4e2c-b035-fcba1543fdd2",
+      "streetName": "Bulevardul 1 Decembrie 1918",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "af8cd371-12fb-4f89-af01-dd6fbbed3adb",
+      "streetName": "Strada Baba Novac",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e60fb1e8-20f8-430d-a460-fae21564e756",
+      "streetName": "Strada Lucian Blaga",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "983be783-eeb2-4dae-b74a-a3d92abf7650",
+      "streetName": "Strada Vatra Luminoasă",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "05aaa9e0-ac42-4c08-952d-0862d968098b",
+      "streetName": "Drumul Lunca Bisericii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ba6579ca-6dcc-4ff7-9282-7298292c452b",
+      "streetName": "Strada Torentului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e8cd2e10-8ab9-41bc-8908-77c65be167f0",
+      "streetName": "Strada Zece Mese",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "664dbc02-d020-4207-a912-2d0334d0c080",
+      "streetName": "Prelungirea Ferentari",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4ffea96d-3863-4092-82df-962125042485",
+      "streetName": "Podul Grant",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "fc15d6a1-688c-44eb-8402-d9665f5a1c43",
+      "streetName": "Strada Erou Nicolae Iancu",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "0106056a-3ea4-4fab-8b3c-150eabc606cd",
+      "streetName": "Piața Presei Libere",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c691e5bf-68be-4904-aff9-fdbe11851cbd",
+      "streetName": "Aleea Pajurei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a8c43d22-ec92-4b2f-a063-365c657fdb41",
+      "streetName": "Șoseaua Fabrica de Glucoză",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "58f7c63f-4992-475a-9b47-d9b904efd09c",
+      "streetName": "Calea Floreasca",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "fea7b4b8-05c5-4340-9903-5d3c9af0eda6",
+      "streetName": "Strada Iani Buzoiani",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "96b430c0-3811-44c4-9184-20ee3a3da527",
+      "streetName": "Bulevardul Iancu de Hunedoara",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "91b642fc-15fe-4daf-b872-a1d5d34b43cf",
+      "streetName": "Șoseaua Nicolae Titulescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "85786b7b-f934-4bec-9b58-290fb7310865",
+      "streetName": "Strada Poet Tudor Arghezi",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "9d82c6ca-7d33-404f-ba02-f0ef07bf525c",
+      "streetName": "Șoseaua Olteniței",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4bdca5bc-1e92-4a99-a916-d3479b4c41dd",
+      "streetName": "Șoseaua Giurgiului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "26dcd608-2b46-4598-97f1-4d223c1c53fd",
+      "streetName": "Strada Buzoieni",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "91f917fa-deb6-4208-b466-309a56efdd8b",
+      "streetName": "Șoseaua Alexandria",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "206cefb2-a970-4586-87f5-9c64b3dcbc29",
+      "streetName": "Strada Sibiu",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "2a8496ab-3cc8-4ef4-b7d7-d3eae3b55d00",
+      "streetName": "Bulevardul Dimitrie Cantemir",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f6ac0cd9-fc9a-4452-831e-a21fc581faad",
+      "streetName": "Strada Ritmului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8dd0f4df-6082-42f1-b3f2-929df8159e05",
+      "streetName": "Piața Montreal",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7f9dc609-0e83-4189-9ff9-12afd39afb7c",
+      "streetName": "Drumul Malu Mierii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a226f4e7-53d5-4fe4-b13d-fca4ff59a927",
+      "streetName": "Șoseaua Dudești Pantelimon",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9a3802fa-b3cf-4f4c-83a3-2d7f89d20c8b",
+      "streetName": "Șoseaua Cotroceni",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c42677b1-ab4d-480c-87b6-b96348fde36a",
+      "streetName": "Strada Delea Veche",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "d0ab81b2-6e15-4ca9-9f9b-b45e94c47617",
+      "streetName": "Strada Doctor Paleologu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "2c68e8dc-210a-4cb2-8a55-943be0947b00",
+      "streetName": "Strada Petre Popa",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "d72c8e6f-1584-4ab4-8ccb-73439ca45279",
+      "streetName": "Strada Berzei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "40db1a2c-ce15-43b1-96ff-adef0ea541e2",
+      "streetName": "Piața Charles de Gaulle",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "75ded18f-caf7-4389-9cab-ca7bee5b7c1b",
+      "streetName": "Bulevardul Gării Obor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4476240a-9a37-4c0f-8331-12b0b5559002",
+      "streetName": "Piața Alba Iulia",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4c9c122b-e5d4-4c16-8815-9d2a2db9cef5",
+      "streetName": "Drumul La Chiajna",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "77641070-27a5-42b1-b5a8-bb8dfb7bb092",
+      "streetName": "Strada Turmelor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ccda0e2e-cb62-4675-8a13-03ba622d721b",
+      "streetName": "Pasajul Piața Muncii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9847f095-99d4-4ad0-b717-03ae41f920e8",
+      "streetName": "Drumul Osiei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8548f507-d202-4bb6-9128-3997c28e9d74",
+      "streetName": "Drumul Bercenarului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "a93c0809-2018-4558-9e77-a9ef9155a28b",
+      "streetName": "Strada Mărăcineni",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "07fde210-561b-49e0-a9b1-1bf5e200e65e",
+      "streetName": "Șoseaua Libertății",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "863e5f69-af33-437c-8fe4-346efa4ddb25",
+      "streetName": "Strada Turda",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1ec43668-3dc2-4174-89d0-ba918ef41848",
+      "streetName": "Strada Gheorghe Polizu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "575a56bc-3b99-479a-8c28-8dc9f7bcea6f",
+      "streetName": "Strada Chișcani",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "da807621-421c-48bf-b358-75534a000168",
+      "streetName": "Bulevardul Aerogării",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b8690a09-6ee8-449c-8a47-98ae3fe33e99",
+      "streetName": "Strada Locotenent Aviator Radu Beller",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "51f82836-360e-4587-8c1f-acf2d31c7251",
+      "streetName": "Strada Caporal Preda",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "951779c2-dd2c-4a7d-9b17-f39d0ab6569c",
+      "streetName": "Piața Revoluției",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "86c80148-5759-4706-9cfe-2da219bef814",
+      "streetName": "Bulevardul Gloriei",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "d7012f44-ed37-4a2e-8218-a5ca0131cf33",
+      "streetName": "Piața Ion Maier",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "3ac9f9d0-c4de-4638-9583-4b4bbf392ca3",
+      "streetName": "Bulevardul Doctor Liviu Librescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "292696c7-2a46-4f4c-b62c-c3018ab8c478",
+      "streetName": "Pasajul Mărășești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "355063b7-d11b-4cb9-823f-c9b7d842ab17",
+      "streetName": "Bulevardul Octavian Goga",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "582e66c6-73de-4f15-9ca6-904ae51f1d5f",
+      "streetName": "Strada Mitropolitul Nifon",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "5a3f7723-8525-47dd-8af8-d5a79de0a313",
+      "streetName": "Bulevardul Ion Constantin Brătianu",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "a6c45bed-04c7-41be-b9ca-b48f7d621191",
+      "streetName": "Strada Constantin Noica",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b2853509-3bef-4768-9d48-85ea067f5a2b",
+      "streetName": "Strada Alecu Russo",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ff9421b5-fa16-4530-b625-a3904697166f",
+      "streetName": "Bulevardul Biruinței",
+      "speedLimit": 90
+    },
+    {
+      "id_tomtom": "3859dae8-1e8b-4e15-a9cf-c8ff6be404cf",
+      "streetName": "Podul Mărășești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "42e80ed3-1026-40eb-b706-25c1b67d0cc4",
+      "streetName": "Podul Eroilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "401a0507-582b-470c-a3c9-bd16d53ea4f1",
+      "streetName": "Piața Profesor Doctor Victor Babeș",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "969181d1-6847-4052-84ce-0140c4e0bf3e",
+      "streetName": "Podul Hașdeu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "29857f05-7d76-4ee5-bd05-23d5501658bc",
+      "streetName": "Podul Izvor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "be8b65f8-d5c9-4a09-8d21-8c4e75139b4a",
+      "streetName": "Podul Grozăvești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b28a3db8-8831-434d-b9c1-486bec841ed0",
+      "streetName": "Șoseaua Orhideelor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1d1a407b-b739-4f4b-99ac-6c1887b13f53",
+      "streetName": "Șoseaua De Centura",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "c94a26df-c230-4b12-b452-b698b55b9888",
+      "streetName": "Șoseaua Odăi",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "701db679-8178-4a08-8d23-193b1485f7fe",
+      "streetName": "Bulevardul Profesor Doctor Victor Dumitrescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d7364baa-173d-4786-83bd-258e61356f1a",
+      "streetName": "Strada Mihai Eminescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b48fc670-a1cb-4e8b-b723-df6135ae0bcb",
+      "streetName": "Strada Ion Vlad",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7eb3c166-e981-467e-ad68-994cceba65c5",
+      "streetName": "Piața Gheorghe Cantacuzino",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d6ebc31a-ff52-467f-bf5a-5ffd4077652f",
+      "streetName": "Pasajul Doamna Ghica",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "0e416904-cddb-4990-81e1-58cb685dc078",
+      "streetName": "Drumul Gării Otopeni",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "0d22418e-1d4e-4c2c-8db8-76ef215e50a8",
+      "streetName": "Strada Popești Vest",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "ec6ffcc9-7caa-4447-a544-717e4209b96b",
+      "streetName": "Aleea Privighetorilor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bc31ba36-9fb9-4ced-8d4d-73f3786b4dbe",
+      "streetName": "Strada Grigore Cobălcescu",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "c158c345-299b-4481-af62-b9bcfda91198",
+      "streetName": "Strada Buzești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "cbce8bcb-199d-4283-8e24-34d7bd9aa4b1",
+      "streetName": "Strada Occidentului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ae08d419-1781-4448-b0e9-777b6e90fd20",
+      "streetName": "Drumul Lunca Priporului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "513d5e7b-743c-4a74-939d-6305e5cda933",
+      "streetName": "Pasajul Lujerului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "2c9c15cc-2bd3-4c0e-b9c9-962539a1ca0a",
+      "streetName": "Strada Locotenent Niculae Găină",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9b0370d1-7188-4445-98e6-a5d147b73dcd",
+      "streetName": "Strada Odoarei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7a9308cf-d6fb-4cd7-9047-9cf83a400d94",
+      "streetName": "Strada Sevastopol",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "daa0b8e6-cc29-4897-9d7f-10586da3b7ca",
+      "streetName": "Bulevardul Libertății",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c7882ce1-c455-45d1-b49d-b8fc086a6837",
+      "streetName": "Pasajul Piața Presei Libere",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "9ef2d200-e94a-4ce1-b1b4-ac30a25636a7",
+      "streetName": "Șoseaua București Nord",
+      "speedLimit": 90
+    },
+    {
+      "id_tomtom": "05e5e1f1-ace4-4225-8750-b09e8c34e409",
+      "streetName": "Pasajul Ciurel",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "6d25aa6f-1104-4019-a16c-c53369670d9e",
+      "streetName": "Calea Dudești",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "e74abf2e-5675-4562-bc3f-b68b65bc1ad1",
+      "streetName": "Drumul Lunca Cetății",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f11fe102-4d02-44bc-97c6-4dd501254c04",
+      "streetName": "Strada Doctor Dumitru Bagdasar",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "66cbd2cd-0a0f-4a0d-8286-25616987f547",
+      "streetName": "Șoseaua Electronicii",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "f75459b0-ad0b-41f6-bfa6-75894e0adf98",
+      "streetName": "Strada Freamătului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "674b959b-8d0c-4098-8666-2dcd54bb8f04",
+      "streetName": "Lunca Dochiei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "3647d9d1-d3e4-49ac-b5e0-f42c35a339b5",
+      "streetName": "Strada Bogdan Petriceicu Hașdeu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "0b139545-2451-414c-b22b-b5c08638af89",
+      "streetName": "Strada Ziduri Moși",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "54a0af82-0fcd-47a3-be9e-927cc3a5e14f",
+      "streetName": "Drumul Valea Largă",
+      "speedLimit": 20
+    },
+    {
+      "id_tomtom": "edd51a4f-f2af-4ae3-8997-db1dd9253911",
+      "streetName": "Șoseaua Alexandriei",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "dc13fa9d-acee-4344-976d-52682affaac3",
+      "streetName": "Pasajul Basarab",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "af577484-f4f8-4802-b284-890a085446a9",
+      "streetName": "Bulevardul General Gheorghe Magheru",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "fde7b9e2-ae97-4a5b-8f02-0ddb1a942694",
+      "streetName": "Strada Gării de Nord",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1c842e55-b5db-4afd-b62d-827613acf9ba",
+      "streetName": "Piața Arsenalului",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "21058ede-6f75-48b1-b7c8-7a97e38fc8b3",
+      "streetName": "Strada Comandor Eugen Botez",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "9003ef83-b5ea-4e6e-a73a-c0ba065b997b",
+      "streetName": "Bulevardul Mareșal Constantin Prezan",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "faded7bd-e582-4d9e-ae32-0b351b56c2e2",
+      "streetName": "Strada Popa Tatu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8087193d-fd97-434d-92d6-b1760e5608bd",
+      "streetName": "Piața Pache Protopopescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d3dc97b0-250c-47f5-acb0-373892d40cfd",
+      "streetName": "Strada Nicolae Golescu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "98215bfe-cdb6-403c-97fc-d7d48b3aa1c7",
+      "streetName": "Piața C. A. Rosetti",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b025cfad-6f62-4f2c-ac01-b16bad283e87",
+      "streetName": "Strada Witing",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "147fd9f4-cc68-42bf-a081-6e932945c39b",
+      "streetName": "Strada Maria Rosetti",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "7b0b4aef-5665-4e14-a145-94d38868d9dc",
+      "streetName": "Strada Profesor Doctor Francisc Iosif Rainer",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b77ba5c5-b6c1-440a-8ede-7dd9a2ee8f83",
+      "streetName": "Strada Jean Louis Calderon",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "8bb6c27c-4c04-4894-a46d-5cf2ba88b804",
+      "streetName": "Strada Doctor Constantin Istrati",
+      "speedLimit": 40
+    },
+    {
+      "id_tomtom": "6c3fadee-3bb8-4b32-b6c7-f273c19e03aa",
+      "streetName": "Pasajul Mihai Bravu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "d081f922-bce8-44c2-af96-35ba5e30eb2b",
+      "streetName": "Strada Budila",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "ec0060b0-8273-43c9-b9d1-97fe04354df7",
+      "streetName": "Intrarea Humulești",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "1dcd8a84-2be4-41fd-a65e-844f8dbce169",
+      "streetName": "Strada Artur Gorovei",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "ccc21477-1356-44bd-9ba9-c1d551574165",
+      "streetName": "Piața Ion I. C. Brătianu-Arcul de Triumf",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "70fe8323-c353-466f-89df-7d287cd4df50",
+      "streetName": "Piața Romană",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "272db447-7654-4863-b9d4-c9d9d457f36f",
+      "streetName": "Strada General Petre Popovăț",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "c3fc99a6-053b-4c39-9517-d4a8793bec8f",
+      "streetName": "Bulevardul Mihail Kogălniceanu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "ce38cf7b-61e9-4e15-a5db-cf6eae4a19f3",
+      "streetName": "Piața Eudoxiu Hurmuzachi",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "4672c34d-a30d-495b-b1fa-9102b6ac918b",
+      "streetName": "Pasajul Unirii",
+      "speedLimit": 60
+    },
+    {
+      "id_tomtom": "30a84271-75d0-4147-a0ee-0edaa454c5d2",
+      "streetName": "Strada Bacău",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "dc2b3b2a-1aff-441d-82ce-487d4bec3d09",
+      "streetName": "Strada Răzoare",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "b5473265-11a9-47f9-83fc-429dc0c84e1c",
+      "streetName": "Piața Constituției",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bca3240c-6172-4674-bb88-723d54c6a7d2",
+      "streetName": "Pasajul Bucur Obor",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "af7acf6d-6978-4e59-ada3-8a16e37e86a9",
+      "streetName": "Strada Câmpul Mare",
+      "speedLimit": 30
+    },
+    {
+      "id_tomtom": "b2aa5411-f905-45a9-b58d-9da89b69cafd",
+      "streetName": "Podul Timpuri Noi",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "1373e5bb-040c-4b41-a6a2-b357b10f5c94",
+      "streetName": "Podul Cotroceni",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "3e8802f8-455b-4870-ad09-7f04c2aa1a29",
+      "streetName": "Strada Alexandru D. Xenopol",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "bce7f54d-8266-4dc0-940d-295eb1d50080",
+      "streetName": "Podul Mihai Bravu",
+      "speedLimit": 50
+    },
+    {
+      "id_tomtom": "77faf111-acb6-4271-a0bd-a881560a6302",
+      "streetName": "Strada Frigului",
+      "speedLimit": 30
+    }
+  ]
+}
