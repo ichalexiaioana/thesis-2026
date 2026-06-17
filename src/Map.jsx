@@ -29,7 +29,7 @@ function RoadLayers({ selected, onLoadingChange }) {
         });
         const data = await resOverpass.json();
 
-        const resServer = await fetch(`${API_URL}/api/map`, {
+        const resServer = await fetch(`${API_URL}/map`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(data),

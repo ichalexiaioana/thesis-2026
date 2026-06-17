@@ -18,7 +18,7 @@ export default function StreetSearch({ selected, onAdd, onMapLoading }) {
   const suggestionsRef = useRef(null);
 
   useEffect(() => {
-    fetch(`${API_URL}/api/roads`)
+    fetch(`${API_URL}/roads`)
       .then(res => res.json())
       .then(data => setRoads(data))
       .catch(err => console.error('Failed to load roads:', err));

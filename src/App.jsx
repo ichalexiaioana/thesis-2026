@@ -25,7 +25,7 @@ export default function App() {
     setLoading(true);
     setResult(null);
     try {
-      const res = await fetch(`${API_URL}/api/data`, {
+      const res = await fetch(`${API_URL}/data`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
