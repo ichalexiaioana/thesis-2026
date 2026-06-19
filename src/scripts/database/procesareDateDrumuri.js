@@ -3,7 +3,7 @@ export function proceseazaDateDrumuri(detalii, input) {
         streetList = [],
         timeSetTag = 'morning_rush',
         method = 'harmonic_average_speed',
-        replacementIndex = 2.27
+        replacementIndex = 0.0138
     } = input;
 
     const rezultat = [];
@@ -22,9 +22,6 @@ export function proceseazaDateDrumuri(detalii, input) {
             valoareViteza = drum.speed_limit && drum.speed_limit > 0 ? drum.speed_limit : 30;
         }
 
-        if (vitezaFolosita) {
-            valoareViteza = parseFloat(vitezaFolosita[method]) || null;
-        }
         const segmenteProcesate = drum.segments.map(segment => {
             const lanes_total = segment.lanes_total ?? 0;
             let lanes_new = lanes_total;

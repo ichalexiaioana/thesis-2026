@@ -1,4 +1,4 @@
-import { MapContainer, TileLayer, GeoJSON, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, useMap } from 'react-leaflet';
 import { useEffect, useRef } from 'react';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
@@ -9,36 +9,41 @@ function RoadLayers({ selected, onLoadingChange }) {
   const layersRef = useRef({});
 
   useEffect(() => {
-    const currentIds = new Set(selected.map(r => r.id_road));
+    const currentIds = new Set(selected.map(group => group.street_name_tomtom));
 
-    Object.entries(layersRef.current).forEach(([id, layer]) => {
+    Object.entries(layersRef.current).forEach(([id, layerGroup]) => {
       if (!currentIds.has(id)) {
-        map.removeLayer(layer);
+        layerGroup.forEach(layer => map.removeLayer(layer));
         delete layersRef.current[id];
       }
     });
 
-    selected.forEach(async (road) => {
-      if (layersRef.current[road.id_road]) return;
+    selected.forEach(async (group) => {
+      if (layersRef.current[group.street_name_tomtom]) return;
       onLoadingChange(true);
 
+      const newLayers = [];
+
       try {
-        const resOverpass = await fetch(OVERPASS_URL, {
-          method: 'POST',
-          body: overpassQuery(road.street_name_overpass),
-        });
-        const data = await resOverpass.json();
+        for (const road of group.roads) {
+          if (!road.street_name_overpass) continue;
 
-        const resServer = await fetch(`${API_URL}/map`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(data),
-        });
+          try {
+            const res = await fetch(`${API_URL}/road-geometry/${encodeURIComponent(road.id_road)}`);
+            if (!res.ok) {
+              console.warn(`No cached geometry for ${road.street_name_overpass}`);
+              continue;
+            }
+            const { coords } = await res.json();
+            const geometries = coords.features.map(f => f.geometry);
+            const layer = L.geoJSON(geometries, { color: 'red' }).addTo(map);
+            newLayers.push(layer);
+          } catch (err) {
+            console.error(`Failed to load geometry for ${road.street_name_overpass}:`, err.message);
+          }
+        }
 
-        const { coords } = await resServer.json();
-        const geometries = coords.features.map(f => f.geometry);
-        const layer = L.geoJSON(geometries, { color: 'red' }).addTo(map);
-        layersRef.current[road.id_road] = layer;
+        layersRef.current[group.street_name_tomtom] = newLayers;
       } catch (err) {
         console.error('Error fetching road geometry:', err.message);
       } finally {
@@ -61,7 +66,7 @@ export default function Map({ selected, onLoadingChange }) {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution="&copy; OpenStreetMap contributors"
       />
-      <RoadLayers selected={selected} onLoadingChange={onLoadingChange }/>
+      <RoadLayers selected={selected} onLoadingChange={onLoadingChange} />
     </MapContainer>
   );
 }

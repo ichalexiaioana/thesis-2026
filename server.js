@@ -38,11 +38,9 @@ const startServer = async () => {
       const res = await fetch(`${API_URL}/highway-weights`);
       const data = await res.json();
       highwayWeights = { primary: data.primary, secondary: data.secondary, tertiary: data.tertiary };
-      console.log('Highway weights loaded:', highwayWeights);
 
       const ptRes = await fetch(`${API_URL}/pt-lanes-by-type`);
       ptLanesAverages = await ptRes.json();
-      console.log('Pt lanes avg: ', ptLanesAverages)
     } catch (err) {
       console.error(err.message);
     }
@@ -145,6 +143,23 @@ app.get('/api/pt-lanes-by-type', async (req, res) => {
   }
 });
 
+app.get('/api/road-geometry/:idRoad', async (req, res) => {
+  try {
+    const road = await prisma.roads.findFirst({
+      where: { id_road: req.params.idRoad },
+      select: { geometry: true },
+    });
+
+    if (!road || !road.geometry) {
+      return res.status(404).json({ error: 'Geometry not cached for this road' });
+    }
+
+    res.json({ coords: road.geometry });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 app.post('/api/data', async (req, res) => {
   const { streetList, timeSetTag, method, startYear } = req.body;
 
@@ -162,11 +177,12 @@ app.post('/api/data', async (req, res) => {
     return res.status(400).json({ error: 'invalid startYear' });
 
   try {
-    const input = { streetList, timeSetTag, method, startYear };
 
     const avgShift = await calculeazaShifturiMedii(startYear);
     const avgShiftVal = parseFloat(avgShift?.partial?.diferenta ?? avgShift.total.diferenta);
     const replacementIndex = Math.max(0, avgShiftVal / 100);
+    const input = { streetList, timeSetTag, method, startYear, replacementIndex };
+    console.log(replacementIndex, startYear)
 
     const detalii = await detaliiCompleteDrumuri();
     const procesat = proceseazaDateDrumuri(detalii, input);

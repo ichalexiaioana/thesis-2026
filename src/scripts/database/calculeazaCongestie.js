@@ -6,8 +6,7 @@ export function calculeazaCongestie(indiciDrumuri) {
         weightedSum += indici.time_idx * indici.highway_weight;
         weightTotal += indici.highway_weight;
     });
-    console.log("AA", weightTotal, weightedSum)
 
-    const congestie = weightTotal > 0 ? weightedSum / weightTotal : 0;
+    const congestie = (weightTotal > 0 ? weightedSum / weightTotal : 0) * 1.25;
     return parseFloat(congestie.toFixed(4));
 }

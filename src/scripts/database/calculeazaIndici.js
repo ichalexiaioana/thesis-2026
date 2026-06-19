@@ -10,7 +10,7 @@ function getDominantHighwayType(segments) {
     return 'secondary';
 }
 
-const BETA = 4.0;
+const BETA = 3;
 
 export function calculeazaIndiciiDrumuri(drumuriProcesate, input, highwayWeights, ptLanesAverages, replacementIndex) {
     const rezultate = [];
@@ -33,7 +33,7 @@ export function calculeazaIndiciiDrumuri(drumuriProcesate, input, highwayWeights
             const currentSpeed = drum.speed_value;
             let predictedSpeed = currentSpeed;
 
-            if (lanes_total > 0 && lanes_new < lanes_total && currentSpeed > 0) {
+            if (lanes_total > 0 && currentSpeed > 0) {
                 const typeAverage = ptLanesAverages[dominantType] || 1;
                 const normalizedPtFactor = typeAverage > 0
                     ? (sum_pt_lanes ?? 0) / typeAverage
@@ -41,7 +41,7 @@ export function calculeazaIndiciiDrumuri(drumuriProcesate, input, highwayWeights
 
                 const localReplacementIndex = Math.min(
                     1,
-                    replacementIndex * (1 + normalizedPtFactor)
+                    replacementIndex * 1.5 * (1 + normalizedPtFactor)
                 );
 
                 const demandRatio = Math.max(0, 1 - localReplacementIndex);
@@ -51,15 +51,18 @@ export function calculeazaIndiciiDrumuri(drumuriProcesate, input, highwayWeights
                     ? demandRatio / capacityRatio
                     : Infinity;
 
-
                 if (strainRatio > 1 && Number.isFinite(strainRatio)) {
                     predictedSpeed = currentSpeed / Math.pow(strainRatio, BETA);
+                } else if (strainRatio < 1 && Number.isFinite(strainRatio)) {
+                    const improvedSpeed = currentSpeed / Math.pow(strainRatio, 1/BETA);
+                    predictedSpeed = Math.min(improvedSpeed, freeFlowSpeed);
                 } else if (Number.isFinite(strainRatio)) {
                     predictedSpeed = currentSpeed;
                 } else {
                     predictedSpeed = 0.1;
                 }
             }
+            
 
             const timeCalculated = predictedSpeed > 0 ? length / predictedSpeed : timeIdeal * 10;
             totalTimeCalculated += timeCalculated;
