@@ -18,7 +18,7 @@ export default function StreetSearch({ selected, onAdd, onMapLoading }) {
   const suggestionsRef = useRef(null);
 
   useEffect(() => {
-    fetch(`${API_URL}/api/roads`)
+    fetch(`${API_URL}/roads`)
       .then(res => res.json())
       .then(data => setRoads(data))
       .catch(err => console.error('Failed to load roads:', err));
@@ -34,14 +34,13 @@ export default function StreetSearch({ selected, onAdd, onMapLoading }) {
 
     const matches = roads
       .filter(road =>
-        road.street_name_overpass &&
-        normalize(road.street_name_overpass).includes(normalize(input)) &&
-        !selected.some(sel => sel.id_road === road.id_road) &&
         road.street_name_tomtom &&
+        normalize(road.street_name_tomtom).includes(normalize(input)) &&
+        !selected.some(sel => sel.street_name_tomtom === road.street_name_tomtom) &&
         !seenTomTomNames.has(road.street_name_tomtom) &&
         seenTomTomNames.add(road.street_name_tomtom)
       )
-      .sort((a, b) => a.street_name_overpass.localeCompare(b.street_name_overpass));
+      .sort((a, b) => a.street_name_tomtom.localeCompare(b.street_name_tomtom));
 
     setSuggestions(matches);
   }, [input, roads, selected]);
@@ -57,35 +56,48 @@ export default function StreetSearch({ selected, onAdd, onMapLoading }) {
   }, []);
 
   const handleSelect = async (road) => {
-    onAdd(road);
+    const allMatching = roads.filter(r => r.street_name_tomtom === road.street_name_tomtom);
+    onAdd(road.street_name_tomtom, allMatching);
     setInput('');
     setSuggestions([]);
     onMapLoading(true);
   };
 
   return (
-    <div>
-      <input
-        id="streetSearch"
-        type="text"
-        value={input}
-        onChange={e => setInput(e.target.value)}
-        placeholder="Cauta o strada..."
-        autoComplete="off"
-      />
-      {suggestions.length > 0 && (
-        <div ref={suggestionsRef} style={{border: 'blue solid', position: 'absolute', backgroundColor: 'white'}}>
-          {suggestions.map(road => (
-            <div
-              key={road.id_road}
-              onClick={() => handleSelect(road)}
-              style={{ cursor: 'pointer', padding: '4px 8px' }}
-            >
-              {road.street_name_overpass}
-            </div>
-          ))}
-        </div>
-      )}
+    <div className="street-search">
+      <label htmlFor="streetSearch" className="street-search-label">
+        Caută o stradă
+      </label>
+
+      <div className="street-search-wrapper">
+        <input
+          id="streetSearch"
+          className="street-search-input"
+          type="text"
+          value={input}
+          onChange={e => setInput(e.target.value)}
+          placeholder="Ex: Calea Victoriei"
+          autoComplete="off"
+        />
+
+        {suggestions.length > 0 && (
+          <div
+            ref={suggestionsRef}
+            className="street-search-suggestions"
+          >
+            {suggestions.map(road => (
+              <button
+                key={road.street_name_tomtom}
+                type="button"
+                className="street-search-item"
+                onClick={() => handleSelect(road)}
+              >
+                {road.street_name_tomtom}
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
     </div>
   );
 }

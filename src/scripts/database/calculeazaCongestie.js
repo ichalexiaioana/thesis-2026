@@ -1,16 +1,12 @@
-import { calculeazaShifturiMedii } from '../congestion/calculeazaRataInlocuire.js';
+export function calculeazaCongestie(indiciDrumuri) {
+    let weightedSum = 0;
+    let weightTotal = 0;
 
-export async function calculeazaCongestie(indiciDrumuri, input) {
-  let congestie = 0;
-  indiciDrumuri.forEach(indici => {
-    congestie += indici.time_idx;
-  });
+    indiciDrumuri.forEach(indici => {
+        weightedSum += indici.time_idx * indici.highway_weight;
+        weightTotal += indici.highway_weight;
+    });
 
-  const avgShift = await calculeazaShifturiMedii(input.startYear);
-  const avgShiftVal = avgShift?.partial?.diferenta
-    ? avgShift.partial.diferenta
-    : avgShift.total.diferenta;
-
-  const replacementIndex = (100 - avgShiftVal) / 100;
-  return parseFloat((congestie * replacementIndex / indiciDrumuri.length).toFixed(4));
+    const congestie = (weightTotal > 0 ? weightedSum / weightTotal : 0) * 1.25;
+    return parseFloat(congestie.toFixed(4));
 }

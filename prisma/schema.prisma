@@ -13,6 +13,7 @@ model roads {
   street_name_tomtom   String?          @db.VarChar(255)
   roads_tomtom         roads_tomtom?    @relation(fields: [id_tomtom], references: [id_tomtom], onDelete: Restrict, onUpdate: Restrict)
   roads_segments       roads_segments[]
+  geometry             Json?
 
   @@index([id_tomtom], map: "id_tomtom")
 }

@@ -6,16 +6,17 @@ import ConfigForm from './components/ConfigForm';
 import { API_URL } from './constants';
 
 export default function App() {
-  const [selected, setSelected] = useState([]);
-  const [mapLoading, setMapLoading] = useState(false);  
+  const [selected, setSelected] = useState([]); // [{ street_name_tomtom, roads: [...] }]
+  const [mapLoading, setMapLoading] = useState(false);
 
-  const handleAdd = (road) => {
-    if (!selected.some(s => s.id_road === road.id_road)) {
-      setSelected(prev => [...prev, road]);
+  const handleAdd = (streetNameTomtom, allMatchingRoads) => {
+    if (!selected.some(s => s.street_name_tomtom === streetNameTomtom)) {
+      setSelected(prev => [...prev, { street_name_tomtom: streetNameTomtom, roads: allMatchingRoads }]);
     }
   };
-  const handleRemove = (road) => {
-    setSelected(prev => prev.filter(s => s.id_road !== road.id_road));
+
+  const handleRemove = (streetNameTomtom) => {
+    setSelected(prev => prev.filter(s => s.street_name_tomtom !== streetNameTomtom));
   };
 
   const [result, setResult] = useState(null);
@@ -25,11 +26,13 @@ export default function App() {
     setLoading(true);
     setResult(null);
     try {
-      const res = await fetch(`${API_URL}/api/data`, {
+      const streetList = selected.flatMap(group => group.roads.map(r => r.id_road));
+
+      const res = await fetch(`${API_URL}/data`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          streetList: selected.map(s => s.id_road),
+          streetList,
           ...formData,
         }),
       });
@@ -50,13 +53,13 @@ export default function App() {
             <div className="spinner" />
           </div>
         )}
-        <h1>Configuratia strazilor</h1>
+        <h1>Configurația străzilor</h1>
         <ConfigForm onSubmit={handleSubmit} />
         <StreetSearch selected={selected} onAdd={handleAdd} onMapLoading={setMapLoading} />
         <SelectedStreets selected={selected} onRemove={handleRemove} />
         {loading && <p>Se calculeaza...</p>}
         {result !== null && (
-          <p>Nivelul congestiei este de {(result * 100).toFixed(2)}%</p>
+          <p>Nivelul congestiei este de <b>{(result * 100).toFixed(2)}%</b></p>
         )}
       </div>
       <div style={{ flex: 1 }}>

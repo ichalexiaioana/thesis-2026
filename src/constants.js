@@ -1,4 +1,4 @@
-export const API_URL = 'http://localhost:3000';
+export const API_URL = 'http://localhost:3000/api';
 export const OVERPASS_URL = 'https://overpass-api.de/api/interpreter';
 export const overpassQuery = (streetName) => `
   [out:json][timeout:25];

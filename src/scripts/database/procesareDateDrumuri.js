@@ -3,39 +3,39 @@ export function proceseazaDateDrumuri(detalii, input) {
         streetList = [],
         timeSetTag = 'morning_rush',
         method = 'harmonic_average_speed',
-        replacementIndex = 2.27
+        replacementIndex = 0.0138
     } = input;
 
     const rezultat = [];
 
     for (const drum of detalii) {
-        let valoareViteza = null;
-
         const vitezaFolosita = drum.speed_details?.find(
             s => s.time_set_tag === timeSetTag
         );
 
+        let valoareViteza = null;
         if (vitezaFolosita) {
             valoareViteza = parseFloat(vitezaFolosita[method]) || null;
         }
+
+        if (!valoareViteza || valoareViteza <= 0) {
+            valoareViteza = drum.speed_limit && drum.speed_limit > 0 ? drum.speed_limit : 30;
+        }
+
         const segmenteProcesate = drum.segments.map(segment => {
             const lanes_total = segment.lanes_total ?? 0;
             let lanes_new = lanes_total;
-            let pt_lanes_idx=1;
+            const sum_pt_lanes = parseInt(segment.sum_pt_lanes ?? 0);
             
             if (streetList.length > 0 && streetList.includes(drum.id_road)) {
                 const scadere = segment.oneway ? 1 : 2;
                 lanes_new = Math.max(1, lanes_total - scadere);
-                const sum_pt_lanes = parseInt(segment.sum_pt_lanes ?? 0);
-                if(lanes_total-scadere<1)
-                    pt_lanes_idx = parseFloat(((100-sum_pt_lanes/3)/100).toFixed(2))
-                pt_lanes_idx = parseFloat(((100-sum_pt_lanes)/100).toFixed(2))
             }
             return {
                 lanes_total,
                 lanes_new,
                 highway: segment.highway,
-                pt_lanes_idx: pt_lanes_idx,
+                sum_pt_lanes: sum_pt_lanes,
                 length: parseFloat(segment.length ?? 0)
             };
         });
