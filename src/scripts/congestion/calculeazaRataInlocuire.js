@@ -36,7 +36,6 @@ export async function calculeazaShifturiMedii(startYear = 2013, endYear = 2026) 
   const difVanzari = calcDifProcent(vanzariPeRezident);
   const diffYears = ani.slice(1);
 
-  // --- Original fallback structure (total / partial averages) ---
   const avgShiftMasini = difMasini.reduce((sum, val) => sum + val, 0) / difMasini.length;
   const avgShiftVanzari = difVanzari.reduce((sum, val) => sum + val, 0) / difVanzari.length;
 
@@ -48,7 +47,6 @@ export async function calculeazaShifturiMedii(startYear = 2013, endYear = 2026) 
     }
   };
 
-  // --- New regression-based prediction, for every year from startYear to endYear ---
   function linearRegression(years, values) {
     const n = years.length;
     if (n < 2) return { slope: 0, intercept: values[0] ?? 0 };
