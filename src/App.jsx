@@ -59,7 +59,7 @@ export default function App() {
         <SelectedStreets selected={selected} onRemove={handleRemove} />
         {loading && <p>Se calculeaza...</p>}
         {result !== null && (
-          <p>Nivelul congestiei este de <b>{(result * 100).toFixed(2)}%</b></p>
+          <p style={{fontSize: '24px'}}>Nivelul congestiei este de <b>{(result * 100).toFixed(2)}%</b></p>
         )}
       </div>
       <div style={{ flex: 1 }}>
