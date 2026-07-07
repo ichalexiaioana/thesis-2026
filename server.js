@@ -165,7 +165,7 @@ app.post('/api/data', async (req, res) => {
 
   const validTimeSetTags = ['evening_rush', 'around_noon', 'morning_rush', 'rest_hours'];
   const validMethods = ['harmonic_avg_speed', 'median_speed', 'avg_speed'];
-  const validStartYears = Array.from({ length: 2023 - 2013 + 1 }, (_, i) => (2013 + i).toString());
+  const validStartYears = ['2013', '2019', '2021', '2030'];
 
   if (!Array.isArray(streetList) || !streetList.every(s => typeof s === 'string'))
     return res.status(400).json({ error: 'streetList must be an array of strings' });
@@ -177,10 +177,15 @@ app.post('/api/data', async (req, res) => {
     return res.status(400).json({ error: 'invalid startYear' });
 
   try {
-
-    const avgShift = await calculeazaShifturiMedii(startYear);
-    const avgShiftVal = parseFloat(avgShift?.partial?.diferenta ?? avgShift.total.diferenta);
-    const replacementIndex = Math.max(0, avgShiftVal / 100);
+    
+    let replacementIndex = 0.1;
+    if (startYear != 2030){
+      const avgShift = await calculeazaShifturiMedii(startYear);
+      const avgShiftVal = parseFloat(avgShift?.partial?.diferenta ?? avgShift.total.diferenta);
+      replacementIndex = Math.max(0, avgShiftVal / 100);
+    }
+    else
+      replacementIndex = 0.15;
     const input = { streetList, timeSetTag, method, startYear, replacementIndex };
     console.log(replacementIndex, startYear)
 

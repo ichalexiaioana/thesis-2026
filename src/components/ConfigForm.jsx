@@ -11,10 +11,12 @@ const METHOD_OPTIONS = [
   { value: 'avg_speed', label: 'Media aritmetică' },
 ];
 
-const YEAR_OPTIONS = Array.from(
-  { length: 2021 - 2013 + 1 },
-  (_, i) => 2013 + i
-);
+const YEAR_OPTIONS = [
+  { key: 2013, text: "2013 - 3%" },
+  { key: 2019, text: "2019 - 8%" },
+  { key: 2021, text: "2021 - 11%" },
+  { key: 2030, text: "20?? - 15%" },
+];
 
 export default function ConfigForm({ onSubmit }) {
   const handleSubmit = (e) => {
@@ -78,8 +80,8 @@ export default function ConfigForm({ onSubmit }) {
           defaultValue="2013"
         >
           {YEAR_OPTIONS.map((year) => (
-            <option key={year} value={year}>
-              {year}
+            <option key={year.key} value={year.key}>
+              {year.text}
             </option>
           ))}
         </select>
