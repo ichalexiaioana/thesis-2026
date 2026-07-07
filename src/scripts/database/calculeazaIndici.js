@@ -41,7 +41,7 @@ export function calculeazaIndiciiDrumuri(drumuriProcesate, input, highwayWeights
 
                 const localReplacementIndex = Math.min(
                     1,
-                    replacementIndex * 5 * (1 + 5 * normalizedPtFactor)
+                    replacementIndex * 2 * (1 + 2 * normalizedPtFactor)
                 );
 
                 const demandRatio = Math.max(0, 1 - localReplacementIndex);
