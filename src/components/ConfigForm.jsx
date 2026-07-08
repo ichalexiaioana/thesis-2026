@@ -71,7 +71,7 @@ export default function ConfigForm({ onSubmit }) {
 
       <div className="form-group">
         <label htmlFor="startYear">
-          An de referință pentru indicele de înlocuire
+          Indicele de înlocuire
         </label>
 
         <select
